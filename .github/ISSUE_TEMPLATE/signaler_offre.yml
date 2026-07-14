@@ -1,0 +1,27 @@
+name: 🔒 Signaler une offre fermée ou erronée
+description: L'offre n'accepte plus de candidatures, ou contient une erreur.
+title: "[Signalement] Entreprise — Intitulé"
+labels: ["signalement"]
+body:
+  - type: input
+    id: reference
+    attributes:
+      label: Offre concernée
+      description: Copiez la ligne du README ou le lien de candidature.
+    validations:
+      required: true
+  - type: dropdown
+    id: motif
+    attributes:
+      label: Motif
+      options:
+        - Offre fermée / pourvue
+        - Lien cassé
+        - Information erronée
+        - Doublon
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Détails (optionnel)

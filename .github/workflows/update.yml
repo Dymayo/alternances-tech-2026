@@ -1,0 +1,69 @@
+# Mise à jour quotidienne : fetch API → store → README → Pull Request.
+#
+# Décisions issues de l'analyse comparative :
+#   - 1×/jour et pas toutes les 2 h (zshah) : une offre d'alternance reste
+#     ouverte des semaines, inutile de brûler des minutes Actions ;
+#   - ouvre une PR au lieu de pusher sur main (european) : les données sont
+#     relues avant publication, et les commits de bot n'atterrissent sur main
+#     qu'en squash — l'historique reste lisible (l'anti-50 000 commits de
+#     SimplifyJobs).
+#
+# Prérequis : secret LBA_API_KEY (jeton créé sur api.apprentissage.beta.gouv.fr)
+# et, dans Settings → Actions → General, autoriser les Actions à créer des PRs.
+
+name: Mise à jour quotidienne
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # tous les jours à 5h UTC (6h/7h Paris)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install -r requirements.txt
+
+      - name: Fetch des sources
+        env:
+          LBA_API_KEY: ${{ secrets.LBA_API_KEY }}
+        run: python main.py update
+
+      - name: Validation du store
+        run: python main.py validate
+
+      - name: Génération des READMEs
+        run: python main.py render
+
+      - name: Pull Request de mise à jour
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: bot/mise-a-jour-quotidienne
+          title: "🤖 Mise à jour quotidienne des offres"
+          commit-message: "data: mise à jour quotidienne des offres"
+          body: |
+            Mise à jour automatique depuis l'API La bonne alternance.
+            Vérifiez le diff de `data/listings.json` puis mergez (squash).
+          add-paths: |
+            data/listings.json
+            README.md
+            README-Inactive.md
+          delete-branch: true

@@ -1,0 +1,59 @@
+# Traitement d'une contribution communautaire (pattern SimplifyJobs) :
+# quand un mainteneur pose le label `contribution-approuvee` sur une issue
+# créée via le formulaire "Ajouter une offre", ce workflow parse le corps
+# de l'issue, injecte l'offre dans le store, régénère le README, commite,
+# puis remercie et ferme l'issue.
+
+name: Contribution approuvée
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: contribution-processing
+  cancel-in-progress: false
+
+jobs:
+  process:
+    if: github.event.label.name == 'contribution-approuvee'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install -r requirements.txt
+
+      - name: Injection de l'offre
+        run: python main.py contribution "$GITHUB_EVENT_PATH"
+
+      - name: Validation + rendu
+        run: |
+          python main.py validate
+          python main.py render
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/listings.json README.md README-Inactive.md
+          git diff --cached --quiet || git commit -m "data: offre communautaire (#${{ github.event.issue.number }})"
+          git push
+
+      - name: Merci + fermeture de l'issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body \
+            "Merci pour la contribution ! 🎉 L'offre est ajoutée et apparaîtra dans le README d'ici quelques minutes."
+          gh issue close ${{ github.event.issue.number }}

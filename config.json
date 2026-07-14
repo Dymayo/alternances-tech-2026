@@ -1,0 +1,4 @@
+{
+  "_doc": "Codes ROME interrogés sur l'API La bonne alternance. M1805=études & dev informatique, M1802=expertise & support SI, M1810=production & exploitation SI, M1806=conseil & maîtrise d'ouvrage SI, M1801=admin SI, H1209=intégration & électronique. Ajouter un ROME = ajouter une ligne.",
+  "romes": ["M1805", "M1802", "M1810", "M1806", "M1801", "H1209"]
+}

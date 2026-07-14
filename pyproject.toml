@@ -1,0 +1,13 @@
+[project]
+name = "alternance-engine"
+version = "1.0.0"
+description = "Moteur de la liste d'alternances tech en France"
+requires-python = ">=3.11"
+dependencies = ["httpx>=0.27"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

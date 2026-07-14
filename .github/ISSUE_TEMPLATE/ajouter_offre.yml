@@ -1,0 +1,79 @@
+# ⚠️ Les libellés (label:) sont parsés par src/alternance_engine/contribution.py —
+# si vous en renommez un, mettez à jour le dict CHAMPS là-bas.
+name: ➕ Ajouter une offre d'alternance
+description: Proposez une offre qui n'est pas encore dans la liste. Un mainteneur la validera.
+title: "[Offre] Entreprise — Intitulé"
+labels: ["contribution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de contribuer ! Remplissez les champs ci-dessous ; après validation
+        par un mainteneur, l'offre sera ajoutée automatiquement au README.
+  - type: input
+    id: entreprise
+    attributes:
+      label: Entreprise
+      placeholder: ex. Thales
+    validations:
+      required: true
+  - type: input
+    id: intitule
+    attributes:
+      label: Intitulé du poste
+      placeholder: ex. Développeur Full Stack en alternance (H/F)
+    validations:
+      required: true
+  - type: input
+    id: ville
+    attributes:
+      label: Ville
+      placeholder: ex. Toulouse (31)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Lien de candidature
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: contrat
+    attributes:
+      label: Type de contrat
+      options:
+        - Apprentissage
+        - Contrat de professionnalisation
+        - Indifférent
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: niveau
+    attributes:
+      label: Niveau visé
+      options:
+        - Bac+2 (BTS)
+        - Bac+3 (BUT, Licence pro, Bachelor)
+        - Bac+5 (Master, Ingénieur)
+        - Non précisé
+    validations:
+      required: false
+  - type: input
+    id: duree
+    attributes:
+      label: Durée (en mois)
+      placeholder: ex. 24
+    validations:
+      required: false
+  - type: dropdown
+    id: teletravail
+    attributes:
+      label: Télétravail
+      options:
+        - Non / non précisé
+        - Hybride
+        - Total
+    validations:
+      required: false

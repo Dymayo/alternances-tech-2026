@@ -1,0 +1,32 @@
+# CI sur chaque PR : tests + intégrité des données + génération à blanc.
+# Pattern SimplifyJobs (validate_listings) : un JSON cassé ou un template
+# sans marqueurs ne doit jamais atteindre main.
+
+name: Validation
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install -r requirements-dev.txt
+
+      - name: Tests unitaires
+        run: pytest -q
+
+      - name: Intégrité du store
+        run: python main.py validate
+
+      - name: Génération à blanc du README
+        run: python main.py render
