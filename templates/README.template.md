@@ -17,7 +17,8 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 
 ## Légende
 
-- 🆕 ajoutée il y a moins de 7 jours
+- 🆕 publiée il y a moins de 7 jours (date d'ajout au repo si la date de
+  publication est inconnue)
 - 🏠 télétravail (partiel ou total)
 - 🔒 les offres fermées sont archivées dans [README-Inactive.md](README-Inactive.md)
 
