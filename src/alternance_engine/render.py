@@ -37,8 +37,8 @@ EN_TETE_TABLE = (
 )
 
 
-def _age_court(first_seen: str, now: datetime) -> str:
-    jours = (now - _parse_iso(first_seen)).days
+def _age_court(ref: datetime, now: datetime) -> str:
+    jours = (now - ref).days
     if jours <= 0:
         return "0j"
     if jours < 31:
@@ -46,29 +46,25 @@ def _age_court(first_seen: str, now: datetime) -> str:
     return f"{jours // 30}mo"
 
 
-def _date_courte(iso: str) -> str:
-    """Date d'ajout au repo, format court JJ/MM/AAAA."""
-    return _parse_iso(iso).strftime("%d/%m/%Y")
-
-
-def _est_nouvelle(record: dict, now: datetime) -> bool:
-    """Le badge 🆕 reflète la date de PUBLICATION de l'offre (côté source),
-    pas la date à laquelle nous l'avons ajoutée au repo. Si la source ne
-    fournit pas `date_publication`, on retombe sur `first_seen` faute de
-    mieux."""
+def _date_reference(record: dict) -> datetime:
+    """Date affichée dans la colonne « Ajoutée » et utilisée pour le badge
+    🆕 : la date de PUBLICATION de l'offre (côté source) quand on la
+    connaît, sinon `first_seen` (date à laquelle nous l'avons ajoutée au
+    repo) faute de mieux."""
     date_pub = record.get("date_publication")
     if date_pub:
         try:
-            return (now.date() - datetime.strptime(date_pub, "%Y-%m-%d").date()).days < 7
+            return datetime.strptime(date_pub, "%Y-%m-%d").replace(tzinfo=UTC)
         except ValueError:
             pass
-    return (now - _parse_iso(record.get("first_seen", ""))).days < 7
+    return _parse_iso(record.get("first_seen", ""))
 
 
 def _ligne(record: dict, now: datetime) -> str:
     e = record.get("entreprise", "")
     poste = record.get("intitule", "")
-    nouveau = "🆕 " if _est_nouvelle(record, now) else ""
+    ref = _date_reference(record)
+    nouveau = "🆕 " if (now - ref).days < 7 else ""
     ville = record.get("ville", "")
     if record.get("teletravail") == "hybride":
         ville += " 🏠"
@@ -83,8 +79,7 @@ def _ligne(record: dict, now: datetime) -> str:
     niveau = record.get("niveau") or "—"
     url = record.get("url", "")
     lien = f"[Postuler ↗]({url})" if url else "—"
-    first_seen = record.get("first_seen", "")
-    age = f"{_date_courte(first_seen)} ({_age_court(first_seen, now)})"
+    age = f"{ref.strftime('%d/%m/%Y')} ({_age_court(ref, now)})"
     # Échappe les pipes pour ne pas casser la table.
     clean = lambda s: str(s).replace("|", "\\|").replace("\n", " ").strip()  # noqa: E731
     return (
