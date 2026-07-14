@@ -13,8 +13,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
@@ -30,8 +30,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:067b7cc93a46": {
     "id": "lba:067b7cc93a46",
@@ -47,8 +47,8 @@
     "categorie": "Produit, Support & Gestion de projet",
     "date_publication": "2026-07-11",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:07404f40e856": {
     "id": "lba:07404f40e856",
@@ -64,8 +64,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-04-02",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:078f06711e67": {
     "id": "lba:078f06711e67",
@@ -81,8 +81,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:09ad9fa56a0e": {
     "id": "lba:09ad9fa56a0e",
@@ -98,8 +98,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0b4c696e5c38": {
     "id": "lba:0b4c696e5c38",
@@ -115,8 +115,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0bf96cbf3ec5": {
     "id": "lba:0bf96cbf3ec5",
@@ -132,8 +132,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-06-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0c8c3f014cb3": {
     "id": "lba:0c8c3f014cb3",
@@ -149,8 +149,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0d5aab891956": {
     "id": "lba:0d5aab891956",
@@ -166,8 +166,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0e3b90474925": {
     "id": "lba:0e3b90474925",
@@ -183,8 +183,8 @@
     "categorie": "Développement",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0ea123f1b42d": {
     "id": "lba:0ea123f1b42d",
@@ -200,8 +200,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0f5c3f964ca8": {
     "id": "lba:0f5c3f964ca8",
@@ -217,8 +217,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-04",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:119f1a0fcb54": {
     "id": "lba:119f1a0fcb54",
@@ -234,8 +234,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-03-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:146fb0a3597b": {
     "id": "lba:146fb0a3597b",
@@ -251,8 +251,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:157cd4908652": {
     "id": "lba:157cd4908652",
@@ -268,8 +268,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:15f4975552e7": {
     "id": "lba:15f4975552e7",
@@ -285,8 +285,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:16f0d0586a7e": {
     "id": "lba:16f0d0586a7e",
@@ -302,8 +302,8 @@
     "categorie": "Développement",
     "date_publication": "2026-02-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1aed9db05c4c": {
     "id": "lba:1aed9db05c4c",
@@ -319,8 +319,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1e9ec37a0a7d": {
     "id": "lba:1e9ec37a0a7d",
@@ -336,8 +336,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-04",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1f060ef70eff": {
     "id": "lba:1f060ef70eff",
@@ -353,8 +353,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2a4318a6c5be": {
     "id": "lba:2a4318a6c5be",
@@ -370,8 +370,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3249ccb08100": {
     "id": "lba:3249ccb08100",
@@ -387,8 +387,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3a7d34036d6b": {
     "id": "lba:3a7d34036d6b",
@@ -404,8 +404,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3d291f8f7b74": {
     "id": "lba:3d291f8f7b74",
@@ -421,8 +421,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
@@ -438,8 +438,8 @@
     "categorie": "Développement",
     "date_publication": "2025-12-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:41810509b069": {
     "id": "lba:41810509b069",
@@ -455,8 +455,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:456c70868817": {
     "id": "lba:456c70868817",
@@ -472,8 +472,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -489,8 +489,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4a7820a7cc03": {
     "id": "lba:4a7820a7cc03",
@@ -523,8 +523,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-17",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4e30892b2f96": {
     "id": "lba:4e30892b2f96",
@@ -540,8 +540,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-04",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4f8c4009fce4": {
     "id": "lba:4f8c4009fce4",
@@ -557,8 +557,8 @@
     "categorie": "Développement",
     "date_publication": "2026-06-17",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4f969502c349": {
     "id": "lba:4f969502c349",
@@ -574,8 +574,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-16",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -591,8 +591,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
@@ -608,8 +608,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:542a1110651a": {
     "id": "lba:542a1110651a",
@@ -625,8 +625,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-06",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5a10d1e199c5": {
     "id": "lba:5a10d1e199c5",
@@ -642,8 +642,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5d63e9dcb3da": {
     "id": "lba:5d63e9dcb3da",
@@ -659,8 +659,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5e5518388de0": {
     "id": "lba:5e5518388de0",
@@ -676,8 +676,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:64e2780a4b53": {
     "id": "lba:64e2780a4b53",
@@ -693,8 +693,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:68e37bc9e5ad": {
     "id": "lba:68e37bc9e5ad",
@@ -710,8 +710,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6af745a1f424": {
     "id": "lba:6af745a1f424",
@@ -727,8 +727,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6c738ea0c4cf": {
     "id": "lba:6c738ea0c4cf",
@@ -744,8 +744,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7075087cf54d": {
     "id": "lba:7075087cf54d",
@@ -761,8 +761,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:73a6011630cf": {
     "id": "lba:73a6011630cf",
@@ -778,8 +778,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:77ba328872e6": {
     "id": "lba:77ba328872e6",
@@ -812,8 +812,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-06",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:79fa5cda1a34": {
     "id": "lba:79fa5cda1a34",
@@ -829,8 +829,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-11",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7c4c7642ef44": {
     "id": "lba:7c4c7642ef44",
@@ -863,8 +863,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8560b9fcad54": {
     "id": "lba:8560b9fcad54",
@@ -880,8 +880,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:86244a57c014": {
     "id": "lba:86244a57c014",
@@ -897,8 +897,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:86a9d0e614cb": {
     "id": "lba:86a9d0e614cb",
@@ -914,8 +914,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-26",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -931,8 +931,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:89ff01e719d1": {
     "id": "lba:89ff01e719d1",
@@ -948,8 +948,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
@@ -965,8 +965,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-02-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8ba4102f28af": {
     "id": "lba:8ba4102f28af",
@@ -982,8 +982,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-03-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8bbcd6f5ca0f": {
     "id": "lba:8bbcd6f5ca0f",
@@ -999,8 +999,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8e5a2693df09": {
     "id": "lba:8e5a2693df09",
@@ -1016,8 +1016,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-12",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:90a98a5a9048": {
     "id": "lba:90a98a5a9048",
@@ -1033,8 +1033,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9166bf4ef7e5": {
     "id": "lba:9166bf4ef7e5",
@@ -1050,8 +1050,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -1067,8 +1067,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9828c71fa51d": {
     "id": "lba:9828c71fa51d",
@@ -1084,8 +1084,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -1101,8 +1101,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9bf750feaa10": {
     "id": "lba:9bf750feaa10",
@@ -1118,8 +1118,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9c9f1b2698c8": {
     "id": "lba:9c9f1b2698c8",
@@ -1135,8 +1135,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-26",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9ea93d94af7d": {
     "id": "lba:9ea93d94af7d",
@@ -1152,8 +1152,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9f50ee766d23": {
     "id": "lba:9f50ee766d23",
@@ -1169,8 +1169,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-11",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9f7617417b83": {
     "id": "lba:9f7617417b83",
@@ -1186,8 +1186,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
@@ -1203,8 +1203,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a6557e1344a9": {
     "id": "lba:a6557e1344a9",
@@ -1220,8 +1220,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-02",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a84fa178308f": {
     "id": "lba:a84fa178308f",
@@ -1237,8 +1237,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b25d5a3046a9": {
     "id": "lba:b25d5a3046a9",
@@ -1254,8 +1254,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b2edb4669ad8": {
     "id": "lba:b2edb4669ad8",
@@ -1271,8 +1271,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b423bb137136": {
     "id": "lba:b423bb137136",
@@ -1288,8 +1288,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b4989cb675ce": {
     "id": "lba:b4989cb675ce",
@@ -1305,8 +1305,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b7fdc07eb66c": {
     "id": "lba:b7fdc07eb66c",
@@ -1322,8 +1322,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
@@ -1339,8 +1339,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ba2ac97e45c2": {
     "id": "lba:ba2ac97e45c2",
@@ -1356,8 +1356,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ba38d7a0deb5": {
     "id": "lba:ba38d7a0deb5",
@@ -1373,8 +1373,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bc21b544228e": {
     "id": "lba:bc21b544228e",
@@ -1390,8 +1390,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bc3b6512ced0": {
     "id": "lba:bc3b6512ced0",
@@ -1407,8 +1407,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-12",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c03f2998e290": {
     "id": "lba:c03f2998e290",
@@ -1424,8 +1424,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
@@ -1441,8 +1441,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-04",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -1458,8 +1458,8 @@
     "categorie": "Développement",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:cd8631344123": {
     "id": "lba:cd8631344123",
@@ -1475,8 +1475,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ce14ea0d7858": {
     "id": "lba:ce14ea0d7858",
@@ -1509,8 +1509,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-16",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d745d7e7f41e": {
     "id": "lba:d745d7e7f41e",
@@ -1543,8 +1543,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
@@ -1560,8 +1560,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-01",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e9e3f1e5fee7": {
     "id": "lba:e9e3f1e5fee7",
@@ -1577,8 +1577,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
@@ -1594,8 +1594,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ebda6ec565f0": {
     "id": "lba:ebda6ec565f0",
@@ -1611,8 +1611,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ef2cd5dbc38b": {
     "id": "lba:ef2cd5dbc38b",
@@ -1628,8 +1628,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
@@ -1645,8 +1645,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
@@ -1662,8 +1662,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fe8d7a2f341b": {
     "id": "lba:fe8d7a2f341b",
@@ -1679,8 +1679,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ff51ae747a4b": {
     "id": "lba:ff51ae747a4b",
@@ -1696,8 +1696,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fff1bfb8ac6a": {
     "id": "lba:fff1bfb8ac6a",
@@ -1713,7 +1713,7 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-28",
     "first_seen": "2026-07-14T17:50:12Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   }
 }
