@@ -574,8 +574,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-16",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -610,6 +610,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:53a1d4365c38": {
+    "id": "lba:53a1d4365c38",
+    "source": "lba",
+    "entreprise": "CY CERGY PARIS UNIVERSITE",
+    "intitule": "Apprenti Développement et configuration dans un outil de Gestion électronique des documents (GED) et d’automatisation de processus (H/F)",
+    "ville": "95000 Cergy",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/q9648ws7j08/apprenti-developpement-et-configuration-dans-un-outil-de-gestion-electronique-des-documents-ged-et-d-automatisation-de-processus-h-f",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-07-14",
+    "first_seen": "2026-07-15T07:18:17Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:542a1110651a": {
     "id": "lba:542a1110651a",
@@ -659,8 +676,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:5e5518388de0": {
     "id": "lba:5e5518388de0",
@@ -999,8 +1016,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:8e5a2693df09": {
     "id": "lba:8e5a2693df09",
@@ -1237,8 +1254,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:b25d5a3046a9": {
     "id": "lba:b25d5a3046a9",
@@ -1373,8 +1390,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:bc21b544228e": {
     "id": "lba:bc21b544228e",
@@ -1611,8 +1628,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-15T07:18:17Z",
+    "active": false
   },
   "lba:ef2cd5dbc38b": {
     "id": "lba:ef2cd5dbc38b",
