@@ -3,13 +3,22 @@
 # Décisions issues de l'analyse comparative :
 #   - 1×/jour et pas toutes les 2 h (zshah) : une offre d'alternance reste
 #     ouverte des semaines, inutile de brûler des minutes Actions ;
-#   - ouvre une PR au lieu de pusher sur main (european) : les données sont
-#     relues avant publication, et les commits de bot n'atterrissent sur main
-#     qu'en squash — l'historique reste lisible (l'anti-50 000 commits de
-#     SimplifyJobs).
+#   - ouvre une PR au lieu de pusher sur main (european) : la CI (validate.yml)
+#     rejoue tests + intégrité + génération avant publication, et les commits
+#     de bot n'atterrissent sur main qu'en squash — l'historique reste lisible
+#     (l'anti-50 000 commits de SimplifyJobs) ;
+#   - fusion automatique dès la CI au vert (`gh pr merge --auto`), sans clic
+#     manuel : la CI fait office de revue, pas un humain.
 #
-# Prérequis : secret LBA_API_KEY (jeton créé sur api.apprentissage.beta.gouv.fr)
-# et, dans Settings → Actions → General, autoriser les Actions à créer des PRs.
+# Prérequis :
+#   - secret LBA_API_KEY (jeton créé sur api.apprentissage.beta.gouv.fr) ;
+#   - Settings → Actions → General : autoriser les Actions à créer des PRs ;
+#   - Settings → General → Pull Requests : cocher « Allow auto-merge » ;
+#   - Settings → Branches (protection sur `main`) : exiger le check
+#     `validate` comme status check obligatoire, sinon `--auto` fusionne
+#     sans attendre la CI. Ne PAS exiger d'approbation humaine sur cette
+#     règle : GITHUB_TOKEN ne peut pas approuver sa propre PR, la fusion
+#     resterait bloquée indéfiniment.
 
 name: Mise à jour quotidienne
 
@@ -53,6 +62,7 @@ jobs:
         run: python main.py render
 
       - name: Pull Request de mise à jour
+        id: pr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -61,9 +71,15 @@ jobs:
           commit-message: "data: mise à jour quotidienne des offres"
           body: |
             Mise à jour automatique depuis l'API La bonne alternance.
-            Vérifiez le diff de `data/listings.json` puis mergez (squash).
+            Fusion automatique une fois la CI (validate.yml) au vert.
           add-paths: |
             data/listings.json
             README.md
             README-Inactive.md
           delete-branch: true
+
+      - name: Fusion automatique une fois la CI au vert
+        if: steps.pr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --squash --auto "${{ steps.pr.outputs.pull-request-number }}"
