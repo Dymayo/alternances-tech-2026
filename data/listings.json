@@ -251,8 +251,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-16T07:25:39Z",
+    "active": false
   },
   "lba:157cd4908652": {
     "id": "lba:157cd4908652",
@@ -625,8 +625,8 @@
     "categorie": "Embarqué & Électronique",
     "date_publication": "2026-07-14",
     "first_seen": "2026-07-15T07:18:17Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:542a1110651a": {
     "id": "lba:542a1110651a",
@@ -984,6 +984,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:8a448ae6e578": {
+    "id": "lba:8a448ae6e578",
+    "source": "lba",
+    "entreprise": "ITGA",
+    "intitule": "Alternance - Développeur(se) NET F/H - ITGA",
+    "ville": "35760 Saint-Grégoire",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://careers.werecruit.io/fr/itga/offres/alternance---developpeurse-net-50f2a8?utm_source=francetravail&utm_medium=job-board",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-05-29",
+    "first_seen": "2026-07-16T07:25:39Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:8ba4102f28af": {
     "id": "lba:8ba4102f28af",
@@ -1713,8 +1730,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-16T07:25:39Z",
+    "active": false
   },
   "lba:fff1bfb8ac6a": {
     "id": "lba:fff1bfb8ac6a",
