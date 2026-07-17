@@ -118,6 +118,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:0bbf20e50b46": {
+    "id": "lba:0bbf20e50b46",
+    "source": "lba",
+    "entreprise": "Inserm",
+    "intitule": "ALTERNANCE EN INFORMATIQUE - H/F",
+    "ville": "59000 Lille",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://inserm.softy.pro/offre/214527?idt=5&h=2145270",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:0bf96cbf3ec5": {
     "id": "lba:0bf96cbf3ec5",
     "source": "lba",
@@ -234,8 +251,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-03-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-17T07:20:48Z",
+    "active": false
   },
   "lba:146fb0a3597b": {
     "id": "lba:146fb0a3597b",
@@ -302,8 +319,8 @@
     "categorie": "Développement",
     "date_publication": "2026-02-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-17T07:20:48Z",
+    "active": false
   },
   "lba:1aed9db05c4c": {
     "id": "lba:1aed9db05c4c",
@@ -389,6 +406,40 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:332c7c421f8a": {
+    "id": "lba:332c7c421f8a",
+    "source": "lba",
+    "entreprise": "ESIC",
+    "intitule": "technicien systèmes &amp; réseaux",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/55489587?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:393cddd4b5a5": {
+    "id": "lba:393cddd4b5a5",
+    "source": "lba",
+    "entreprise": "Direction générale de la police nationale",
+    "intitule": "Apprenti Concepteur / Développeur d’applications",
+    "ville": "93200 Saint-Denis",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-concepteur-developpeur-dapplications-0",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:3a7d34036d6b": {
     "id": "lba:3a7d34036d6b",
@@ -696,6 +747,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:600ec77be5b2": {
+    "id": "lba:600ec77be5b2",
+    "source": "lba",
+    "entreprise": "Défi RH",
+    "intitule": "Alternance Ingénieur Méthode (H/F)",
+    "ville": "62680 Méricourt",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hk29f5t74h8/alternance-ingenieur-methode-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:64e2780a4b53": {
     "id": "lba:64e2780a4b53",
     "source": "lba",
@@ -999,8 +1067,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-16T07:25:39Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-17T07:20:48Z"
   },
   "lba:8ba4102f28af": {
     "id": "lba:8ba4102f28af",
@@ -1220,8 +1288,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-17T07:20:48Z",
+    "active": false
   },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
@@ -1288,8 +1356,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-17T07:20:48Z",
+    "active": false
   },
   "lba:b2edb4669ad8": {
     "id": "lba:b2edb4669ad8",
@@ -1495,6 +1563,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:c9536cca4282": {
+    "id": "lba:c9536cca4282",
+    "source": "lba",
+    "entreprise": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "intitule": "Administrateur LINUX pour conception de circuits intégrés H/F",
+    "ville": "91400 Saclay",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=ZHJ0Ljg5NTUwLjEzNjgwQGNlYWZyLmFwbGl0cmFrLmNvbQ",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:cd8631344123": {
     "id": "lba:cd8631344123",
     "source": "lba",
@@ -1681,6 +1766,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:f57d52dbffae": {
+    "id": "lba:f57d52dbffae",
+    "source": "lba",
+    "entreprise": "COMPAGNIE DE SAINT-GOBAIN",
+    "intitule": "ALTERNANCE - Chargé(e) de Projet et Support SIRH (F/H) (H/F)",
+    "ville": "92400 Courbevoie",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=304161&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-16",
+    "first_seen": "2026-07-17T07:20:48Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
