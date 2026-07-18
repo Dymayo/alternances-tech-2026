@@ -132,8 +132,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0bf96cbf3ec5": {
     "id": "lba:0bf96cbf3ec5",
@@ -149,8 +149,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-06-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:0c8c3f014cb3": {
     "id": "lba:0c8c3f014cb3",
@@ -166,8 +166,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:0d5aab891956": {
     "id": "lba:0d5aab891956",
@@ -421,8 +421,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
@@ -438,8 +438,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3a7d34036d6b": {
     "id": "lba:3a7d34036d6b",
@@ -506,8 +506,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:456c70868817": {
     "id": "lba:456c70868817",
@@ -574,8 +574,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-17",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:4e30892b2f96": {
     "id": "lba:4e30892b2f96",
@@ -761,8 +761,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:64e2780a4b53": {
     "id": "lba:64e2780a4b53",
@@ -1067,8 +1067,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-16T07:25:39Z",
-    "active": false,
-    "closed_at": "2026-07-17T07:20:48Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:8ba4102f28af": {
     "id": "lba:8ba4102f28af",
@@ -1291,6 +1291,40 @@
     "closed_at": "2026-07-17T07:20:48Z",
     "active": false
   },
+  "lba:9f888e09fdfa": {
+    "id": "lba:9f888e09fdfa",
+    "source": "lba",
+    "entreprise": "CHAPUIS CHARLES",
+    "intitule": "Administrateur / Administratrice système et réseaux d'information et de communication",
+    "ville": "Route de Soulages 43500 Craponne-sur-Arzon",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a59efb84acef524be4c2ff1",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-18T07:02:07Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:a292377582cd": {
+    "id": "lba:a292377582cd",
+    "source": "lba",
+    "entreprise": "E.Leclerc",
+    "intitule": "E.Leclerc - Alternant(e) Technicien Service Client SI - H/F",
+    "ville": "97420 Le Port",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001",
+    "categorie": "Développement",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-18T07:02:07Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
     "source": "lba",
@@ -1324,6 +1358,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:a659bac6c409": {
+    "id": "lba:a659bac6c409",
+    "source": "lba",
+    "entreprise": "FERRY-CAPITAIN",
+    "intitule": "Alternant(e) Cybersécurité H/F",
+    "ville": "52300 Joinville",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/820755?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-18T07:02:07Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:a84fa178308f": {
     "id": "lba:a84fa178308f",
@@ -1373,8 +1424,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:b423bb137136": {
     "id": "lba:b423bb137136",
@@ -1458,8 +1509,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:ba38d7a0deb5": {
     "id": "lba:ba38d7a0deb5",
@@ -1529,6 +1580,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:c0488fc9681d": {
+    "id": "lba:c0488fc9681d",
+    "source": "lba",
+    "entreprise": "CGI Finance",
+    "intitule": "Alternant Développeur .Net H/F",
+    "ville": "59700 Marcq-en-Barœul",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/67gt4vc22c8/alternant-developpeur-net-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-18T07:02:07Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
     "source": "lba",
@@ -1577,8 +1645,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:cd8631344123": {
     "id": "lba:cd8631344123",
@@ -1696,8 +1764,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-18T07:02:07Z",
+    "active": false
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
@@ -1781,6 +1849,23 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
     "first_seen": "2026-07-17T07:20:48Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:f763319fcddc": {
+    "id": "lba:f763319fcddc",
+    "source": "lba",
+    "entreprise": "OCEASOFT",
+    "intitule": "Technicien Support IT (en apprentissage) (H/F)",
+    "ville": "34000 Montpellier",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JDJR",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-18T07:02:07Z",
     "active": true,
     "closed_at": null
   },
