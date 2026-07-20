@@ -81,8 +81,25 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
+  },
+  "lba:09a42ad043e5": {
+    "id": "lba:09a42ad043e5",
+    "source": "lba",
+    "entreprise": "LITTLE BILL",
+    "intitule": "Développeur",
+    "ville": "69140 Rillieux-la-Pape",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://annoncesatlas.opco-atlas.fr/jobads/110970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Data & IA",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-20T08:09:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:09ad9fa56a0e": {
     "id": "lba:09ad9fa56a0e",
@@ -98,8 +115,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
   },
   "lba:0b4c696e5c38": {
     "id": "lba:0b4c696e5c38",
@@ -151,6 +168,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-18T07:02:07Z",
     "active": false
+  },
+  "lba:0c833d106542": {
+    "id": "lba:0c833d106542",
+    "source": "lba",
+    "entreprise": "Sysco",
+    "intitule": "Alternance - Business Analyst H/F",
+    "ville": "69760 Limonest",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=TGFldGl0aWEuU2FtbXV0Ljc2OTU0LjY3MDZAc3lzY28uYXBsaXRyYWsuY29t",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-19",
+    "first_seen": "2026-07-20T08:09:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:0c8c3f014cb3": {
     "id": "lba:0c8c3f014cb3",
@@ -373,6 +407,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:2908eea060bc": {
+    "id": "lba:2908eea060bc",
+    "source": "lba",
+    "entreprise": "MANPOWER FRANCE",
+    "intitule": "Technicien d'exploitation (H/F)",
+    "ville": "38000 Grenoble",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/53630705?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-06-25",
+    "first_seen": "2026-07-20T08:09:34Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:2a4318a6c5be": {
     "id": "lba:2a4318a6c5be",
     "source": "lba",
@@ -455,8 +506,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
   },
   "lba:3d291f8f7b74": {
     "id": "lba:3d291f8f7b74",
@@ -1067,8 +1118,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-16T07:25:39Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
   },
   "lba:8ba4102f28af": {
     "id": "lba:8ba4102f28af",
@@ -1305,8 +1356,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-18T07:02:07Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a292377582cd": {
     "id": "lba:a292377582cd",
@@ -1322,8 +1373,8 @@
     "categorie": "Développement",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-18T07:02:07Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
@@ -1373,8 +1424,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-18T07:02:07Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a84fa178308f": {
     "id": "lba:a84fa178308f",
@@ -1505,12 +1556,12 @@
     "niveau": "",
     "duree_mois": 6,
     "teletravail": "",
-    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=3pVgjRDWc1NYiqof8coDcQ==",
+    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=Pa4uNtc2pTzfUZLG5pHAXw==",
     "categorie": "Data & IA",
-    "date_publication": "2026-07-08",
+    "date_publication": "2026-07-19",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:ba38d7a0deb5": {
     "id": "lba:ba38d7a0deb5",
@@ -1558,10 +1609,44 @@
     "teletravail": "hybride",
     "url": "https://www.meteojob.com/jobs/53548062?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-12",
+    "date_publication": "2026-07-18",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:bfa472f1ae50": {
+    "id": "lba:bfa472f1ae50",
+    "source": "lba",
+    "entreprise": "FEBUS Optics",
+    "intitule": "Alternant(e) Technicien(ne) Support Infrastructure &amp; Réseaux (H/F)",
+    "ville": "64000 Pau",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/820968?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-19",
+    "first_seen": "2026-07-20T08:09:34Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:bfd5e047015f": {
+    "id": "lba:bfd5e047015f",
+    "source": "lba",
+    "entreprise": "NEXEREN",
+    "intitule": "Administrateur Système et Réseau",
+    "ville": "69140 Rillieux-la-Pape",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://annoncesatlas.opco-atlas.fr/jobads/110971?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-17",
+    "first_seen": "2026-07-20T08:09:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:c03f2998e290": {
     "id": "lba:c03f2998e290",
@@ -1594,8 +1679,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-18T07:02:07Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-20T08:09:34Z"
   },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
@@ -1815,8 +1900,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
@@ -1866,8 +1951,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-18T07:02:07Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
@@ -1883,8 +1968,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-20T08:09:34Z",
+    "active": false
   },
   "lba:fe8d7a2f341b": {
     "id": "lba:fe8d7a2f341b",
