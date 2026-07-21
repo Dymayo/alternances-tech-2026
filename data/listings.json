@@ -98,8 +98,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-20T08:09:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:09ad9fa56a0e": {
     "id": "lba:09ad9fa56a0e",
@@ -183,8 +183,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-19",
     "first_seen": "2026-07-20T08:09:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0c8c3f014cb3": {
     "id": "lba:0c8c3f014cb3",
@@ -217,8 +217,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-21T07:34:39Z",
+    "active": false
   },
   "lba:0e3b90474925": {
     "id": "lba:0e3b90474925",
@@ -421,8 +421,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-20T08:09:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2a4318a6c5be": {
     "id": "lba:2a4318a6c5be",
@@ -574,8 +574,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-21T07:34:39Z",
+    "active": false
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -678,6 +678,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-15T07:18:17Z",
     "active": false
+  },
+  "lba:519d81301888": {
+    "id": "lba:519d81301888",
+    "source": "lba",
+    "entreprise": "IDEX ENERGIES",
+    "intitule": "Développeur d'Outils &amp; Projets Informatiques I Alternance | F/H",
+    "ville": "13080 Aix-en-Provence",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=QWx5c2VlLlByZXZvc3QuNjI2ODEuMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-07-20",
+    "first_seen": "2026-07-21T07:34:39Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -1002,6 +1019,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:84aaa87b39c4": {
+    "id": "lba:84aaa87b39c4",
+    "source": "lba",
+    "entreprise": "F2F",
+    "intitule": "Alternant Administrateur Systèmes  & Réseaux H/F",
+    "ville": "10 RUE RICHEDOUX 50480 SAINTE-MERE-EGLISE",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5e18c8e5fa1b20ee138b7b/alternant-administrateur-systèmes-réseaux-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-20",
+    "first_seen": "2026-07-21T07:34:39Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8560b9fcad54": {
     "id": "lba:8560b9fcad54",
     "source": "lba",
@@ -1084,8 +1118,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-21T07:34:39Z",
+    "active": false
   },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
@@ -1154,6 +1188,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-15T07:18:17Z",
     "active": false
+  },
+  "lba:8d2be4c291e8": {
+    "id": "lba:8d2be4c291e8",
+    "source": "lba",
+    "entreprise": "DGA Tech France Travail",
+    "intitule": "APPRENTISSAGE - CONCEPTEUR(TRICE) / DÉVELOPPEUR(EUSE) SI - H/F",
+    "ville": "44000 Nantes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://recrutement-francetravail-tech.softy.pro/offre/210970?idt=5&h=2109700",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-06-18",
+    "first_seen": "2026-07-21T07:34:39Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:8e5a2693df09": {
     "id": "lba:8e5a2693df09",
@@ -1254,8 +1305,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-20",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-21T07:34:39Z",
+    "active": false
   },
   "lba:9bf750feaa10": {
     "id": "lba:9bf750feaa10",
@@ -1628,8 +1679,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-19",
     "first_seen": "2026-07-20T08:09:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bfd5e047015f": {
     "id": "lba:bfd5e047015f",
@@ -1645,8 +1696,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
     "first_seen": "2026-07-20T08:09:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c03f2998e290": {
     "id": "lba:c03f2998e290",
@@ -1662,8 +1713,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-21T07:34:39Z",
+    "active": false
   },
   "lba:c0488fc9681d": {
     "id": "lba:c0488fc9681d",
