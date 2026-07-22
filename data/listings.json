@@ -47,8 +47,8 @@
     "categorie": "Produit, Support & Gestion de projet",
     "date_publication": "2026-07-11",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:07404f40e856": {
     "id": "lba:07404f40e856",
@@ -370,8 +370,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:1e9ec37a0a7d": {
     "id": "lba:1e9ec37a0a7d",
@@ -406,6 +406,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:262fb7f48572": {
+    "id": "lba:262fb7f48572",
+    "source": "lba",
+    "entreprise": "PARLYM",
+    "intitule": "Alternant Ingénieur projet - Sept 2026 - LYON (H/F)",
+    "ville": "69001 Lyon 1er Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.jobposting.pro/emploi-2646795-120",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:2908eea060bc": {
     "id": "lba:2908eea060bc",
@@ -693,8 +710,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-20",
     "first_seen": "2026-07-21T07:34:39Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -727,8 +744,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:53a1d4365c38": {
     "id": "lba:53a1d4365c38",
@@ -778,8 +795,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:5d63e9dcb3da": {
     "id": "lba:5d63e9dcb3da",
@@ -914,8 +931,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-08",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:73a6011630cf": {
     "id": "lba:73a6011630cf",
@@ -933,6 +950,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:778b15524626": {
+    "id": "lba:778b15524626",
+    "source": "lba",
+    "entreprise": "Trapil",
+    "intitule": "Alternance Ingénieur Méthodes Maintenance (H/F)",
+    "ville": "78300 Poissy",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/pdw28rl0si8/alternance-ingenieur-methodes-maintenance",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:77ba328872e6": {
     "id": "lba:77ba328872e6",
@@ -1033,8 +1067,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-20",
     "first_seen": "2026-07-21T07:34:39Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8560b9fcad54": {
     "id": "lba:8560b9fcad54",
@@ -1203,8 +1237,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-18",
     "first_seen": "2026-07-21T07:34:39Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8e5a2693df09": {
     "id": "lba:8e5a2693df09",
@@ -1495,6 +1529,23 @@
     "closed_at": "2026-07-15T07:18:17Z",
     "active": false
   },
+  "lba:b086928febc7": {
+    "id": "lba:b086928febc7",
+    "source": "lba",
+    "entreprise": "Direction générale de la police nationale",
+    "intitule": "Technicien d’exploitation – administrateur systèmes à DRHFS/BSNP/SAN",
+    "ville": "75012 Paris 12e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-dexploitation-administrateur-systemes-drhfsbsnpsan",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-06-26",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:b25d5a3046a9": {
     "id": "lba:b25d5a3046a9",
     "source": "lba",
@@ -1733,6 +1784,40 @@
     "active": false,
     "closed_at": "2026-07-20T08:09:34Z"
   },
+  "lba:c0d194183200": {
+    "id": "lba:c0d194183200",
+    "source": "lba",
+    "entreprise": "ETOILE SECOURS",
+    "intitule": "APPRENTI TECHNICIEN INFORMATIQUE (H/F)",
+    "ville": "17420 Saint-Palais-sur-Mer",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MDVK",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:c1dae04c7a3f": {
+    "id": "lba:c1dae04c7a3f",
+    "source": "lba",
+    "entreprise": "Batigère",
+    "intitule": "Batigère - Business analyst (H/F)",
+    "ville": "57000 Metz",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://recrutement.batigere.fr/fr/annonce/4401813-alternance-business-analyst-si-relations-metiers-57000-metz?s_o=France+Travail&s_b=DigitalRecruiters",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
     "source": "lba",
@@ -1798,8 +1883,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-22T07:37:19Z",
+    "active": false
   },
   "lba:ce14ea0d7858": {
     "id": "lba:ce14ea0d7858",
@@ -1817,6 +1902,23 @@
     "first_seen": "2026-07-14T17:00:34Z",
     "active": false,
     "closed_at": "2026-07-14T17:50:12Z"
+  },
+  "lba:cf95eff70173": {
+    "id": "lba:cf95eff70173",
+    "source": "lba",
+    "entreprise": "ADVINI",
+    "intitule": "APPRENTI.E Technicien Système et Réseaux (H/F)",
+    "ville": "34725 Saint-Félix-de-Lodez",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/n39nk2j1gd8/apprenti-e-technicien-systeme-et-reseaux-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-22T07:37:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
