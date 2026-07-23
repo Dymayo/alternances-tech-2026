@@ -261,7 +261,7 @@
     "intitule": "Technicien / Technicienne informatique",
     "ville": "7 BIS RUE DU CHAPEAU ROUGE 21000 DIJON",
     "contrat": "indifferent",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a21a1703838e57211314e16/technicien-technicienne-informatique",
@@ -421,8 +421,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2908eea060bc": {
     "id": "lba:2908eea060bc",
@@ -455,8 +455,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-24",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-23T07:35:30Z",
+    "active": false
   },
   "lba:3249ccb08100": {
     "id": "lba:3249ccb08100",
@@ -781,6 +781,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:58b5397adea6": {
+    "id": "lba:58b5397adea6",
+    "source": "lba",
+    "entreprise": "ETOILE SECOURS",
+    "intitule": "APPRENTI(e) TECHNICIEN INFORMATIQUE (H/F)",
+    "ville": "17420 Saint-Palais-sur-Mer",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MDVK",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-21",
+    "first_seen": "2026-07-23T07:35:30Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:5a10d1e199c5": {
     "id": "lba:5a10d1e199c5",
     "source": "lba",
@@ -965,8 +982,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:77ba328872e6": {
     "id": "lba:77ba328872e6",
@@ -1050,8 +1067,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-23T07:35:30Z",
+    "active": false
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1103,6 +1120,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:8670dc29b4ad": {
+    "id": "lba:8670dc29b4ad",
+    "source": "lba",
+    "entreprise": "PLACE DES TENDANCES",
+    "intitule": "ALTERNANCE - Apprenti chef de projet service client H/F",
+    "ville": "93500 Pantin",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kGxMbaxZc+mp66Xl1EkQEg==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-22",
+    "first_seen": "2026-07-23T07:35:30Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:86a9d0e614cb": {
     "id": "lba:86a9d0e614cb",
@@ -1356,8 +1390,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-23T07:35:30Z",
+    "active": false
   },
   "lba:9c9f1b2698c8": {
     "id": "lba:9c9f1b2698c8",
@@ -1543,8 +1577,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-26",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b25d5a3046a9": {
     "id": "lba:b25d5a3046a9",
@@ -1798,8 +1832,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-23T07:35:30Z"
   },
   "lba:c1dae04c7a3f": {
     "id": "lba:c1dae04c7a3f",
@@ -1815,8 +1849,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
@@ -1917,8 +1951,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
