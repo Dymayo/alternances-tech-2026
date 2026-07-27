@@ -16,6 +16,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:04700658e183": {
+    "id": "lba:04700658e183",
+    "source": "lba",
+    "entreprise": "Euralis",
+    "intitule": "Alternant(e) Cybersécurité F/H",
+    "ville": "64230 Lescar",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/0oiy0rhelj8/alternant-e-cybersecurite-f-h",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-24",
+    "first_seen": "2026-07-26T07:38:36Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
     "source": "lba",
@@ -472,8 +489,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-26T07:38:36Z",
+    "active": false
   },
   "lba:332c7c421f8a": {
     "id": "lba:332c7c421f8a",
@@ -577,6 +594,23 @@
     "closed_at": "2026-07-18T07:02:07Z",
     "active": false
   },
+  "lba:427b0894ede0": {
+    "id": "lba:427b0894ede0",
+    "source": "lba",
+    "entreprise": "Service du NUMérique",
+    "intitule": "Développeur - Programme PORTALIS",
+    "ville": "75019 Paris 19e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/developpeur-programme-portalis",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-24",
+    "first_seen": "2026-07-26T07:38:36Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:42b2a0adb8a0": {
     "id": "lba:42b2a0adb8a0",
     "source": "lba",
@@ -591,8 +625,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:456c70868817": {
     "id": "lba:456c70868817",
@@ -812,8 +846,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:58b5397adea6": {
     "id": "lba:58b5397adea6",
@@ -829,8 +863,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5a10d1e199c5": {
     "id": "lba:5a10d1e199c5",
@@ -1169,8 +1203,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-22",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:86a9d0e614cb": {
     "id": "lba:86a9d0e614cb",
@@ -1359,6 +1393,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:91a23e6712ea": {
+    "id": "lba:91a23e6712ea",
+    "source": "lba",
+    "entreprise": "SAINT-GOBAIN DISTRIBUTION BATIMENT FRANCE",
+    "intitule": "Alternance - Assistant SIRH &amp; Data RH International (F/H) (H/F)",
+    "ville": "92400 Courbevoie",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=316063&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-24",
+    "first_seen": "2026-07-26T07:38:36Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
     "source": "lba",
@@ -1475,8 +1526,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-11",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-26T07:38:36Z",
+    "active": false
   },
   "lba:9f7617417b83": {
     "id": "lba:9f7617417b83",
@@ -1696,8 +1747,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-26T07:38:36Z",
+    "active": false
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
@@ -1879,12 +1930,12 @@
     "niveau": "",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=SFIuMzUyNDguNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ",
+    "url": "https://www.aplitrak.com/?adid=SFIuMjY5NTQuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-23",
+    "date_publication": "2026-07-24",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c1dae04c7a3f": {
     "id": "lba:c1dae04c7a3f",
@@ -2002,8 +2053,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
     "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-26T07:38:36Z",
+    "active": false
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
@@ -2036,8 +2087,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
     "first_seen": "2026-07-24T07:35:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d745d7e7f41e": {
     "id": "lba:d745d7e7f41e",
@@ -2090,6 +2141,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:e8a4cdad6ad8": {
+    "id": "lba:e8a4cdad6ad8",
+    "source": "lba",
+    "entreprise": "AGC19",
+    "intitule": "Assistant Informatique",
+    "ville": "1 RUE ROBERT SCHUMAN 19000 TULLE",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6380301ae407c4c7c137c5/assistant-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-24",
+    "first_seen": "2026-07-26T07:38:36Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:e9e3f1e5fee7": {
     "id": "lba:e9e3f1e5fee7",
     "source": "lba",
@@ -2106,6 +2174,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-18T07:02:07Z",
     "active": false
+  },
+  "lba:ea415bae0920": {
+    "id": "lba:ea415bae0920",
+    "source": "lba",
+    "entreprise": "SIEGE GROUPE BIGARD",
+    "intitule": "ALTERNANCE - Technicien Informatique - F/H",
+    "ville": "29300 Quimperlé",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/dcprwwcunc8/alternance-technicien-informatique-f-h",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-24",
+    "first_seen": "2026-07-26T07:38:36Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
