@@ -30,8 +30,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
@@ -608,8 +608,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-27T08:35:08Z"
   },
   "lba:42b2a0adb8a0": {
     "id": "lba:42b2a0adb8a0",
@@ -1407,8 +1407,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -1492,8 +1492,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-26",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-27T08:35:08Z",
+    "active": false
   },
   "lba:9ea93d94af7d": {
     "id": "lba:9ea93d94af7d",
@@ -1713,8 +1713,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-27T08:35:08Z",
+    "active": false
   },
   "lba:b4989cb675ce": {
     "id": "lba:b4989cb675ce",
@@ -2155,8 +2155,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e9e3f1e5fee7": {
     "id": "lba:e9e3f1e5fee7",
@@ -2189,8 +2189,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
