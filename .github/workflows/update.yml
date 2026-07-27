@@ -12,6 +12,12 @@
 #
 # Prérequis :
 #   - secret LBA_API_KEY (jeton créé sur api.apprentissage.beta.gouv.fr) ;
+#   - secret PAT_TOKEN (fine-grained PAT du compte Dymayo, permissions
+#     Contents: write + Pull requests: write) : depuis juin 2026 GitHub
+#     exige une approbation humaine avant d'exécuter les workflows d'une
+#     PR ouverte par github-actions[bot], même hors fork. Ouvrir la PR
+#     avec un PAT utilisateur (au lieu de GITHUB_TOKEN) contourne cette
+#     exigence puisque la PR est alors attribuée à un compte de confiance ;
 #   - Settings → Actions → General : autoriser les Actions à créer des PRs ;
 #   - Settings → General → Pull Requests : cocher « Allow auto-merge » ;
 #   - Settings → Branches (protection sur `main`) : exiger le check
@@ -65,7 +71,7 @@ jobs:
         id: pr
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
           branch: bot/mise-a-jour-quotidienne
           title: "🤖 Mise à jour quotidienne des offres"
           commit-message: "data: mise à jour quotidienne des offres"
