@@ -659,8 +659,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-29T07:46:37Z",
+    "active": false
   },
   "lba:4a7820a7cc03": {
     "id": "lba:4a7820a7cc03",
@@ -965,8 +965,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-15",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-29T07:46:37Z",
+    "active": false
   },
   "lba:6af745a1f424": {
     "id": "lba:6af745a1f424",
@@ -1033,8 +1033,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-29T07:46:37Z",
+    "active": false
   },
   "lba:73e218dd4067": {
     "id": "lba:73e218dd4067",
@@ -1050,8 +1050,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:778b15524626": {
     "id": "lba:778b15524626",
@@ -1121,6 +1121,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:7c11b546203c": {
+    "id": "lba:7c11b546203c",
+    "source": "lba",
+    "entreprise": "Défi RH",
+    "intitule": "Alternance Ingénieur Méthodes (H/F)",
+    "ville": "92350 Le Plessis-Robinson",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/7ey3hkavol8/alternance-ingenieur-methodes-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-28",
+    "first_seen": "2026-07-29T07:46:37Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:7c4c7642ef44": {
     "id": "lba:7c4c7642ef44",
     "source": "lba",
@@ -1154,6 +1171,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-24T07:35:33Z",
     "active": false
+  },
+  "lba:82a18578ef36": {
+    "id": "lba:82a18578ef36",
+    "source": "lba",
+    "entreprise": "ITANCIA",
+    "intitule": "Alternant(e) méthodes électronique H/F",
+    "ville": "38320 Eybens",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/yn7v9p8vvw8/alternant-e-methodes-electronique-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-28",
+    "first_seen": "2026-07-29T07:46:37Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1628,8 +1662,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-29T07:46:37Z"
   },
   "lba:a6557e1344a9": {
     "id": "lba:a6557e1344a9",
@@ -2274,8 +2308,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ef2cd5dbc38b": {
     "id": "lba:ef2cd5dbc38b",
@@ -2308,8 +2342,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
