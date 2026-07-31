@@ -13,8 +13,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-31T07:53:03Z",
+    "active": false
   },
   "lba:04700658e183": {
     "id": "lba:04700658e183",
@@ -149,8 +149,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-31T07:53:03Z",
+    "active": false
   },
   "lba:0bbf20e50b46": {
     "id": "lba:0bbf20e50b46",
@@ -353,8 +353,8 @@
     "categorie": "Data & IA",
     "date_publication": "2026-07-29",
     "first_seen": "2026-07-30T07:36:47Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:15f4975552e7": {
     "id": "lba:15f4975552e7",
@@ -406,6 +406,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-22T07:37:19Z",
     "active": false
+  },
+  "lba:1d90b4726214": {
+    "id": "lba:1d90b4726214",
+    "source": "lba",
+    "entreprise": "BNP PARIBAS",
+    "intitule": "Alternance – Développeur Informatique H/F",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/55816712?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Développement",
+    "date_publication": "2026-07-30",
+    "first_seen": "2026-07-31T07:53:03Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:1e9ec37a0a7d": {
     "id": "lba:1e9ec37a0a7d",
@@ -574,8 +591,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-31T07:53:03Z",
+    "active": false
   },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
@@ -968,6 +985,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:66350dd354f0": {
+    "id": "lba:66350dd354f0",
+    "source": "lba",
+    "entreprise": "M.G.F. SPORTS",
+    "intitule": "Assistant administrateur réseaux en alternance (H/F)",
+    "ville": "63170 Aubière",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://taleez.com/apply/assistant-administrateur-reseaux-en-alternance-h-f-aubiere-glisshop/applying",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-30",
+    "first_seen": "2026-07-31T07:53:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:68e37bc9e5ad": {
     "id": "lba:68e37bc9e5ad",
     "source": "lba",
@@ -1016,8 +1050,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-29",
     "first_seen": "2026-07-30T07:36:47Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-07-31T07:53:03Z"
   },
   "lba:6c738ea0c4cf": {
     "id": "lba:6c738ea0c4cf",
@@ -1169,8 +1203,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-29",
     "first_seen": "2026-07-30T07:36:47Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7c11b546203c": {
     "id": "lba:7c11b546203c",
@@ -1288,8 +1322,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-31T07:53:03Z",
+    "active": false
   },
   "lba:8670dc29b4ad": {
     "id": "lba:8670dc29b4ad",
@@ -1543,8 +1577,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-07-31T07:53:03Z",
+    "active": false
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -1883,8 +1917,8 @@
     "categorie": "Développement",
     "date_publication": "2026-07-29",
     "first_seen": "2026-07-30T07:36:47Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
