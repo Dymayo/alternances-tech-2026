@@ -421,8 +421,8 @@
     "categorie": "Développement",
     "date_publication": "2026-07-30",
     "first_seen": "2026-07-31T07:53:03Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-08-01T07:30:09Z"
   },
   "lba:1e9ec37a0a7d": {
     "id": "lba:1e9ec37a0a7d",
@@ -815,6 +815,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:532212ff69ce": {
+    "id": "lba:532212ff69ce",
+    "source": "lba",
+    "entreprise": "TRANSPORTS CAILLOT",
+    "intitule": "Alternant Développeur Informatique (H/F)",
+    "ville": "51450 Bétheny",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XZDN",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-31",
+    "first_seen": "2026-08-01T07:30:09Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
     "source": "lba",
@@ -999,8 +1016,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-30",
     "first_seen": "2026-07-31T07:53:03Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:68e37bc9e5ad": {
     "id": "lba:68e37bc9e5ad",
@@ -2257,8 +2274,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-01T07:30:09Z",
+    "active": false
   },
   "lba:d745d7e7f41e": {
     "id": "lba:d745d7e7f41e",
@@ -2308,8 +2325,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-01",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-01T07:30:09Z",
+    "active": false
   },
   "lba:e8a4cdad6ad8": {
     "id": "lba:e8a4cdad6ad8",
@@ -2461,8 +2478,8 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-01T07:30:09Z",
+    "active": false
   },
   "lba:f57d52dbffae": {
     "id": "lba:f57d52dbffae",
