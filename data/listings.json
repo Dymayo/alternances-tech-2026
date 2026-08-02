@@ -30,8 +30,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-02T07:33:49Z",
+    "active": false
   },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
@@ -829,8 +829,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-31",
     "first_seen": "2026-08-01T07:30:09Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
@@ -1084,8 +1084,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-02T07:33:49Z",
+    "active": false
   },
   "lba:7075087cf54d": {
     "id": "lba:7075087cf54d",
@@ -2376,8 +2376,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
     "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-02T07:33:49Z",
+    "active": false
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
