@@ -538,7 +538,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/55489587?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-07-16",
+    "date_publication": "2026-08-01",
     "first_seen": "2026-07-17T07:20:48Z",
     "closed_at": null,
     "active": true
@@ -1050,8 +1050,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-03T08:33:20Z",
+    "active": false
   },
   "lba:6bbb6b1c3669": {
     "id": "lba:6bbb6b1c3669",
@@ -1305,8 +1305,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-20",
     "first_seen": "2026-07-21T07:34:39Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-03T08:33:20Z",
+    "active": false
   },
   "lba:8560b9fcad54": {
     "id": "lba:8560b9fcad54",
@@ -1817,6 +1817,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-15T07:18:17Z",
     "active": false
+  },
+  "lba:ab0f60b5bdfb": {
+    "id": "lba:ab0f60b5bdfb",
+    "source": "lba",
+    "entreprise": "LVD ENVIRONNEMENT",
+    "intitule": "Technicien / Technicienne informatique",
+    "ville": "216 CHE DU CHARREL 13400 AUBAGNE",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70476ebb092dca9f11d386/technicien-technicienne-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-03",
+    "first_seen": "2026-08-03T08:33:20Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:b086928febc7": {
     "id": "lba:b086928febc7",
@@ -2514,6 +2531,23 @@
     "first_seen": "2026-07-18T07:02:07Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:faa6be367a92": {
+    "id": "lba:faa6be367a92",
+    "source": "lba",
+    "entreprise": "SGA/DTPM",
+    "intitule": "Apprenti développeur full stack",
+    "ville": "75007 Paris 7e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-developpeur-full-stack-0",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-04-10",
+    "first_seen": "2026-08-03T08:33:20Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
