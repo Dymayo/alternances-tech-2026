@@ -1,4 +1,4 @@
-# 🇫🇷 Alternances Tech France — Rentrée 2026
+# Alternances Tech France — Rentrée 2026
 
 Liste communautaire et automatisée des offres d'**alternance** (apprentissage
 et contrat de professionnalisation) dans la tech en France : développement,
