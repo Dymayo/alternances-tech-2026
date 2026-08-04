@@ -455,8 +455,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-04T07:42:43Z",
+    "active": false
   },
   "lba:262fb7f48572": {
     "id": "lba:262fb7f48572",
@@ -608,8 +608,8 @@
     "categorie": "Développement",
     "date_publication": "2025-12-05",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-04T07:42:43Z",
+    "active": false
   },
   "lba:41810509b069": {
     "id": "lba:41810509b069",
@@ -1220,8 +1220,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-29",
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-04T07:42:43Z",
+    "active": false
   },
   "lba:7c11b546203c": {
     "id": "lba:7c11b546203c",
@@ -1375,6 +1375,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:86efb3b61221": {
+    "id": "lba:86efb3b61221",
+    "source": "lba",
+    "entreprise": "CARVOLIX",
+    "intitule": "Alternant R&amp;D Logiciel Embarqué (H/F)",
+    "ville": "25000 Besançon",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YJZH",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-31",
+    "first_seen": "2026-08-04T07:42:43Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -1832,8 +1849,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-03",
     "first_seen": "2026-08-03T08:33:20Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b086928febc7": {
     "id": "lba:b086928febc7",
@@ -2546,8 +2563,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-04-10",
     "first_seen": "2026-08-03T08:33:20Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-08-04T07:42:43Z"
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
