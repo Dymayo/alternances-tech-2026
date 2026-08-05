@@ -30,10 +30,7 @@ name: Mise à jour quotidienne
 
 on:
   schedule:
-    # 5h UTC = 6h/7h Paris. L'export LBA (`/job/v1/export`) est régénéré
-    # une fois par jour à 3h heure de Paris : on passe après, pour
-    # toujours consommer la version du jour.
-    - cron: "0 5 * * *"
+    - cron: "0 5 * * *" # tous les jours à 5h UTC (6h/7h Paris)
   workflow_dispatch:
 
 permissions:
