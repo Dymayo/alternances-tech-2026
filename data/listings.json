@@ -880,8 +880,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-06",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -1118,8 +1118,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
     "first_seen": "2026-08-06T07:42:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:73a6011630cf": {
     "id": "lba:73a6011630cf",
@@ -1237,8 +1237,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
     "first_seen": "2026-08-06T07:42:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7abf6564aa9c": {
     "id": "lba:7abf6564aa9c",
@@ -1611,8 +1611,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
     "first_seen": "2026-08-06T07:42:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:91a23e6712ea": {
     "id": "lba:91a23e6712ea",
@@ -1730,8 +1730,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
   },
   "lba:9f50ee766d23": {
     "id": "lba:9f50ee766d23",
@@ -2002,8 +2002,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-13",
     "first_seen": "2026-08-06T07:42:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b7fdc07eb66c": {
     "id": "lba:b7fdc07eb66c",
@@ -2410,8 +2410,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
   },
   "lba:e2fe93ed5f1e": {
     "id": "lba:e2fe93ed5f1e",
@@ -2427,8 +2427,8 @@
     "categorie": "Autre",
     "date_publication": "2026-08-04",
     "first_seen": "2026-08-06T07:42:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
