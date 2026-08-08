@@ -540,8 +540,25 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-08-01",
     "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-08T05:44:58Z",
+    "active": false
+  },
+  "lba:36740aaf034e": {
+    "id": "lba:36740aaf034e",
+    "source": "lba",
+    "entreprise": "Centre Hospitalier Universitaire de Grenoble",
+    "intitule": "TECHNICIEN EXPLOITANT INFORMATIQUE EN ALTERNANCE - H/F",
+    "ville": "38700 La Tronche",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://ght-alpes-dauphine.softy.pro/offre/217271?idt=5&h=2172710",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-07",
+    "first_seen": "2026-08-08T05:44:58Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
