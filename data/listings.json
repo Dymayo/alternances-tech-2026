@@ -489,8 +489,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-09T05:49:28Z",
+    "active": false
   },
   "lba:2a4318a6c5be": {
     "id": "lba:2a4318a6c5be",
@@ -557,8 +557,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-07",
     "first_seen": "2026-08-08T05:44:58Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
