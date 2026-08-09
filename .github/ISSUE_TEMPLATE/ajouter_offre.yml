@@ -67,6 +67,14 @@ body:
       placeholder: ex. 24
     validations:
       required: false
+  - type: input
+    id: date_debut
+    attributes:
+      label: Date de début
+      description: Début du contrat, au format AAAA-MM-JJ ou JJ/MM/AAAA. Laissez vide si à convenir.
+      placeholder: ex. 2026-09-01
+    validations:
+      required: false
   - type: dropdown
     id: teletravail
     attributes:

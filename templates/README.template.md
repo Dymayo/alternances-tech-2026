@@ -20,6 +20,8 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 - 🆕 publiée il y a moins de 7 jours (date d'ajout au repo si la date de
   publication est inconnue)
 - 🏠 télétravail (partiel ou total)
+- colonne **Début** : date de début du contrat annoncée par la source
+  (`—` = non précisée, souvent « à convenir »)
 - 🔒 les offres fermées sont archivées dans [README-Inactive.md](README-Inactive.md)
 
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.

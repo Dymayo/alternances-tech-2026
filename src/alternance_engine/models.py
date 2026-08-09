@@ -45,6 +45,7 @@ class Offre:
     url: str = ""
     categorie: str = "Autre"    # assignée par categorize.py
     date_publication: str | None = None  # ISO "YYYY-MM-DD" ou None si inconnue
+    date_debut: str | None = None        # début du contrat, ISO "YYYY-MM-DD" ou None
     description: str | None = None       # TRANSITOIRE — jamais persistée
 
     def cle_dedup(self) -> tuple[str, str, str]:

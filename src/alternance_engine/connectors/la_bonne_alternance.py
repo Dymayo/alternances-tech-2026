@@ -86,6 +86,20 @@ def _vers_offre(brut: dict) -> Offre | None:
     else:
         date_pub = None
 
+    # Début du contrat : le schéma LBA l'expose sous `contract.start`
+    # (ISO 8601). Chemins de repli pour les variantes de l'API.
+    date_debut = _premiere(
+        brut,
+        "contract.start",
+        "contract.start_date",
+        "offer.start",
+        "job.contractStart",
+    )
+    if isinstance(date_debut, str) and len(date_debut) >= 10:
+        date_debut = date_debut[:10]
+    else:
+        date_debut = None
+
     contrat = "apprentissage"
     types = _premiere(brut, "contract.type", "job.contractType") or []
     if isinstance(types, str):
@@ -120,6 +134,7 @@ def _vers_offre(brut: dict) -> Offre | None:
         teletravail=teletravail,
         url=str(url),
         date_publication=date_pub,
+        date_debut=date_debut,
         description=description if isinstance(description, str) else None,
     )
 

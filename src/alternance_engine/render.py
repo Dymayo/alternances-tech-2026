@@ -32,8 +32,8 @@ AVERTISSEMENT_TAILLE = (
 )
 
 EN_TETE_TABLE = (
-    "| Entreprise | Poste | Ville | Contrat | Niveau | Candidater | Ajoutée |\n"
-    "| --- | --- | --- | --- | --- | :---: | :---: |\n"
+    "| Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |\n"
+    "| --- | --- | --- | --- | :---: | --- | :---: | :---: |\n"
 )
 
 
@@ -44,6 +44,21 @@ def _age_court(ref: datetime, now: datetime) -> str:
     if jours < 31:
         return f"{jours}j"
     return f"{jours // 30}mo"
+
+
+def _debut_affiche(record: dict) -> str:
+    """Colonne « Début » : date de début du contrat au format JJ/MM/AAAA.
+
+    La source ne la renseigne pas toujours (et beaucoup d'offres
+    d'alternance restent sur un début « à convenir ») → « — » sinon.
+    """
+    brut = record.get("date_debut")
+    if not brut:
+        return "—"
+    try:
+        return datetime.strptime(str(brut)[:10], "%Y-%m-%d").strftime("%d/%m/%Y")
+    except ValueError:
+        return "—"
 
 
 def _date_reference(record: dict) -> datetime:
@@ -76,6 +91,7 @@ def _ligne(record: dict, now: datetime) -> str:
     duree = record.get("duree_mois")
     if duree:
         contrat += f" · {duree} mois"
+    debut = _debut_affiche(record)
     niveau = record.get("niveau") or "—"
     url = record.get("url", "")
     lien = f"[Postuler ↗]({url})" if url else "—"
@@ -84,7 +100,7 @@ def _ligne(record: dict, now: datetime) -> str:
     clean = lambda s: str(s).replace("|", "\\|").replace("\n", " ").strip()  # noqa: E731
     return (
         f"| **{clean(e)}** | {nouveau}{clean(poste)} | {clean(ville)} "
-        f"| {contrat} | {clean(niveau)} | {lien} | {age} |\n"
+        f"| {contrat} | {debut} | {clean(niveau)} | {lien} | {age} |\n"
     )
 
 

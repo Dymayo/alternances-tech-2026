@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import re
+from datetime import datetime
 
 from .categorize import categoriser
 from .models import Offre, make_id
@@ -34,10 +35,28 @@ CHAMPS = {
     "type de contrat": "contrat",
     "niveau visé": "niveau",
     "durée (en mois)": "duree_mois",
+    "date de début": "date_debut",
     "télétravail": "teletravail",
 }
 
 _NO_RESPONSE = "_no response_"
+
+# Formats acceptés pour la date de début saisie à la main : on normalise
+# vers l'ISO du modèle. Une saisie libre ("septembre 2026", "à convenir")
+# est ignorée plutôt que rejetée — le champ est facultatif.
+_FORMATS_DATE = ("%Y-%m-%d", "%d/%m/%Y", "%m/%Y", "%Y-%m")
+
+
+def _normaliser_date(valeur: str) -> str | None:
+    valeur = valeur.strip()
+    if not valeur:
+        return None
+    for fmt in _FORMATS_DATE:
+        try:
+            return datetime.strptime(valeur, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return None
 
 
 def parse_issue_body(body: str) -> dict:
@@ -78,6 +97,8 @@ def offre_depuis_issue(body: str) -> Offre:
         valeurs["duree_mois"] = int(valeurs["duree_mois"]) if valeurs["duree_mois"] else None
     except ValueError:
         valeurs["duree_mois"] = None
+
+    valeurs["date_debut"] = _normaliser_date(valeurs["date_debut"])
 
     tt = valeurs["teletravail"].strip().lower()
     valeurs["teletravail"] = (

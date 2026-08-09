@@ -162,6 +162,28 @@ def test_render_respecte_la_limite_github():
     assert "Poste" in inactive  # le surplus est bien archivé
 
 
+def test_render_colonne_debut():
+    """La date de début est affichée en JJ/MM/AAAA, « — » si inconnue."""
+    data = {}
+    store_mod.merge(
+        data,
+        [
+            offre(entreprise="AvecDebut", date_debut="2026-09-01"),
+            offre(entreprise="SansDebut", ville="Nantes"),
+        ],
+        sources_reussies={"lba"},
+    )
+    readme, _ = render(data, TEMPLATE)
+    assert "| Début |" in readme
+    assert "01/09/2026" in readme
+    lignes = readme.splitlines()
+    entete = next(li for li in lignes if li.startswith("| Entreprise |"))
+    ligne_sans = next(li for li in lignes if "SansDebut" in li)
+    assert "—" in ligne_sans
+    # Le nombre de colonnes doit rester aligné sur l'en-tête.
+    assert ligne_sans.count("|") == entete.count("|")
+
+
 def test_age_affiche_en_mois():
     data = {}
     o = offre()
@@ -202,6 +224,10 @@ Bac+5 (Master, Ingénieur)
 
 24
 
+### Date de début
+
+01/09/2026
+
 ### Télétravail
 
 Hybride
@@ -214,6 +240,7 @@ def test_parse_issue_form():
     assert o.source == "communaute"
     assert o.contrat == "apprentissage"
     assert o.duree_mois == 24
+    assert o.date_debut == "2026-09-01"
     assert o.teletravail == "hybride"
     assert o.categorie == "Développement"
     assert o.id.startswith("communaute:")

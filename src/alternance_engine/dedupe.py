@@ -22,6 +22,7 @@ CHAMPS_COMPLETABLES = (
     "teletravail",
     "url",
     "date_publication",
+    "date_debut",
     "description",
 )
 
