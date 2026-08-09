@@ -47,8 +47,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
   },
   "lba:067b7cc93a46": {
     "id": "lba:067b7cc93a46",
@@ -489,8 +489,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-25",
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-09T05:49:28Z",
+    "active": false
   },
   "lba:2a4318a6c5be": {
     "id": "lba:2a4318a6c5be",
@@ -540,6 +540,23 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-08-01",
     "first_seen": "2026-07-17T07:20:48Z",
+    "closed_at": "2026-08-08T05:44:58Z",
+    "active": false
+  },
+  "lba:36740aaf034e": {
+    "id": "lba:36740aaf034e",
+    "source": "lba",
+    "entreprise": "Centre Hospitalier Universitaire de Grenoble",
+    "intitule": "TECHNICIEN EXPLOITANT INFORMATIQUE EN ALTERNANCE - H/F",
+    "ville": "38700 La Tronche",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://ght-alpes-dauphine.softy.pro/offre/217271?idt=5&h=2172710",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-07",
+    "first_seen": "2026-08-08T05:44:58Z",
     "closed_at": null,
     "active": true
   },
@@ -744,8 +761,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-04",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
   },
   "lba:4f8c4009fce4": {
     "id": "lba:4f8c4009fce4",
@@ -880,8 +897,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-06",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -965,8 +982,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
   },
   "lba:600ec77be5b2": {
     "id": "lba:600ec77be5b2",
@@ -1016,8 +1033,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-30",
     "first_seen": "2026-07-31T07:53:03Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
   },
   "lba:68e37bc9e5ad": {
     "id": "lba:68e37bc9e5ad",
@@ -1103,6 +1120,23 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-22T07:37:19Z",
     "active": false
+  },
+  "lba:7282e59f5b12": {
+    "id": "lba:7282e59f5b12",
+    "source": "lba",
+    "entreprise": "MW FRANCE",
+    "intitule": "Apprenti(e) Informatique H/F",
+    "ville": "02700 Tergnier",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/822427?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-05",
+    "first_seen": "2026-08-06T07:42:50Z",
+    "closed_at": null,
+    "active": true
   },
   "lba:73a6011630cf": {
     "id": "lba:73a6011630cf",
@@ -1206,6 +1240,23 @@
     "closed_at": null,
     "active": true
   },
+  "lba:7a68390110b8": {
+    "id": "lba:7a68390110b8",
+    "source": "lba",
+    "entreprise": "ARKEMA France",
+    "intitule": "Technicien / Technicienne études électriques (20138) (H/F)",
+    "ville": "27470 Serquigny",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 36,
+    "teletravail": "",
+    "url": "https://arkema-france.contactrh.com/jobs/6469/44357651",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-05",
+    "first_seen": "2026-08-06T07:42:50Z",
+    "closed_at": null,
+    "active": true
+  },
   "lba:7abf6564aa9c": {
     "id": "lba:7abf6564aa9c",
     "source": "lba",
@@ -1288,8 +1339,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-28",
     "first_seen": "2026-07-29T07:46:37Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1390,8 +1441,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-31",
     "first_seen": "2026-08-04T07:42:43Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -1563,6 +1614,23 @@
     "closed_at": "2026-07-28T07:41:49Z",
     "active": false
   },
+  "lba:917002af9588": {
+    "id": "lba:917002af9588",
+    "source": "lba",
+    "entreprise": "Thelem assurances",
+    "intitule": "Alternance - Chargé de gestion des outils collaboratifs M365 (F/H)",
+    "ville": "45430 Chécy",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/l75l23j4ya8/alternance-charge-de-gestion-des-outils-collaboratifs-m365-f-h",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-05",
+    "first_seen": "2026-08-06T07:42:50Z",
+    "closed_at": null,
+    "active": true
+  },
   "lba:91a23e6712ea": {
     "id": "lba:91a23e6712ea",
     "source": "lba",
@@ -1679,8 +1747,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
   },
   "lba:9f50ee766d23": {
     "id": "lba:9f50ee766d23",
@@ -1934,6 +2002,23 @@
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-03",
     "first_seen": "2026-07-14T17:50:12Z",
+    "closed_at": "2026-08-06T07:42:50Z",
+    "active": false
+  },
+  "lba:b6aaaacde725": {
+    "id": "lba:b6aaaacde725",
+    "source": "lba",
+    "entreprise": "CAPGEMINI TECHNOLOGY SERVICES",
+    "intitule": "Développeuse / Développeur C# - Alternance",
+    "ville": "30200 Bagnols-sur-Cèze",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/bagnols-sur-ceze/développeuse-développeur-c#-alternance-195784874",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-13",
+    "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
   },
@@ -2051,7 +2136,7 @@
     "teletravail": "hybride",
     "url": "https://www.meteojob.com/jobs/53548062?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-18",
+    "date_publication": "2026-08-04",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2342,6 +2427,23 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-09",
     "first_seen": "2026-07-14T17:50:12Z",
+    "closed_at": "2026-08-07T06:10:51Z",
+    "active": false
+  },
+  "lba:e2fe93ed5f1e": {
+    "id": "lba:e2fe93ed5f1e",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Technicien d'Exploitation (H/F) - Niort",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a71adc670f5c146a43ff46d/technicien-d-exploitation-h-f-niort",
+    "categorie": "Autre",
+    "date_publication": "2026-08-04",
+    "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
   },
@@ -2563,8 +2665,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-04-10",
     "first_seen": "2026-08-03T08:33:20Z",
-    "active": false,
-    "closed_at": "2026-08-04T07:42:43Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
