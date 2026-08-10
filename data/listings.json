@@ -80,6 +80,7 @@
     "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-25879?idOrigine=502",
     "categorie": "Cybersécurité",
     "date_publication": "2026-04-02",
+    "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -114,6 +115,7 @@
     "url": "https://annoncesatlas.opco-atlas.fr/jobads/110970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Data & IA",
     "date_publication": "2026-07-17",
+    "date_debut": "2026-08-30",
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": null,
     "active": true
@@ -199,6 +201,7 @@
     "url": "https://www.aplitrak.com/?adid=TGFldGl0aWEuU2FtbXV0Ljc2OTU0LjY3MDZAc3lzY28uYXBsaXRyYWsuY29t",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-19",
+    "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": null,
     "active": true
@@ -352,6 +355,7 @@
     "url": "https://career.wink-lab.com/apply/350583a6-41fc-4e11-8d14-1d80fda26363?utm_source=francetravailbasic",
     "categorie": "Data & IA",
     "date_publication": "2026-07-29",
+    "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
     "closed_at": null,
     "active": true
@@ -437,6 +441,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a217d4e3838e57211310c2e/alternance-technicien-ne-réseaux-et-infrastructures-entreprises-f-h",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-04",
+    "date_debut": "2026-07-27",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -471,6 +476,7 @@
     "url": "https://www.jobposting.pro/emploi-2646795-120",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
+    "date_debut": null,
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": null,
     "active": true
@@ -556,6 +562,7 @@
     "url": "https://ght-alpes-dauphine.softy.pro/offre/217271?idt=5&h=2172710",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-07",
+    "date_debut": null,
     "first_seen": "2026-08-08T05:44:58Z",
     "closed_at": null,
     "active": true
@@ -675,6 +682,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a61e5031ae407c4c7bec774/technicien-conseil",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
+    "date_debut": "2026-08-31",
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": null,
     "active": true
@@ -778,8 +786,8 @@
     "categorie": "Développement",
     "date_publication": "2026-06-17",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-10T06:12:58Z",
+    "active": false
   },
   "lba:4f969502c349": {
     "id": "lba:4f969502c349",
@@ -798,6 +806,24 @@
     "closed_at": "2026-07-15T07:18:17Z",
     "active": false
   },
+  "lba:4fb282baf5af": {
+    "id": "lba:4fb282baf5af",
+    "source": "lba",
+    "entreprise": "CEDRIC CONTENSOUZAS",
+    "intitule": "Technicien / Technicienne informatique",
+    "ville": "15 RUE MICHELET 19200 USSEL",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a78b39b4a687277352685b4/technicien-technicienne-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-09",
+    "date_debut": "2026-09-01",
+    "first_seen": "2026-08-10T06:12:58Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:519d81301888": {
     "id": "lba:519d81301888",
     "source": "lba",
@@ -811,6 +837,7 @@
     "url": "https://www.aplitrak.com/?adid=QWx5c2VlLlByZXZvc3QuNjI2ODEuMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-07-20",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-07-21T07:34:39Z",
     "closed_at": null,
     "active": true
@@ -828,6 +855,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/69f9f881cdf4b19e1fc5b8bc/informaticien-informaticienne",
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-05",
+    "date_debut": "2026-07-29",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -845,6 +873,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XZDN",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-31",
+    "date_debut": null,
     "first_seen": "2026-08-01T07:30:09Z",
     "closed_at": null,
     "active": true
@@ -879,6 +908,7 @@
     "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/q9648ws7j08/apprenti-developpement-et-configuration-dans-un-outil-de-gestion-electronique-des-documents-ged-et-d-automatisation-de-processus-h-f",
     "categorie": "Embarqué & Électronique",
     "date_publication": "2026-07-14",
+    "date_debut": null,
     "first_seen": "2026-07-15T07:18:17Z",
     "closed_at": null,
     "active": true
@@ -913,6 +943,7 @@
     "url": "https://carrieres.groupe-ldlc.com/fr/annonce/4514943-technicien-informatique-en-apprentisage-hf-33700-merignac?s_o=France+Travail&s_b=DigitalRecruiters",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-23",
+    "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": null,
     "active": true
@@ -930,6 +961,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MDVK",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
+    "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": null,
     "active": true
@@ -998,6 +1030,7 @@
     "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hk29f5t74h8/alternance-ingenieur-methode-h-f",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
+    "date_debut": null,
     "first_seen": "2026-07-17T07:20:48Z",
     "closed_at": null,
     "active": true
@@ -1015,6 +1048,7 @@
     "url": "https://careers.werecruit.io/fr/groupe-breger/offres/assistante-dexploitation-trm---alternance-3d9f78?utm_source=francetravail&utm_medium=job-board",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-07",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1134,6 +1168,7 @@
     "url": "https://www.lindustrie-recrute.fr/candidat/offre/822427?utm_source=NQ==",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
+    "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
@@ -1168,6 +1203,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67661b8bbc3358a678e074/data-analyst-bts-sio-f-h-alternance",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-27",
+    "date_debut": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
     "closed_at": null,
     "active": true
@@ -1185,6 +1221,7 @@
     "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/pdw28rl0si8/alternance-ingenieur-methodes-maintenance",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-21",
+    "date_debut": null,
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": null,
     "active": true
@@ -1219,6 +1256,7 @@
     "url": "https://recrutement.legouessant.com/fr/offres/alternant-service-informatique---data-7f8d8c?utm_source=francetravail&utm_medium=job-board",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-06",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1236,6 +1274,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/bachelor-informatique-specialite-administrateur-des-systemes-reseaux-et-securite",
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-11",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1253,6 +1292,7 @@
     "url": "https://arkema-france.contactrh.com/jobs/6469/44357651",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
+    "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
@@ -1287,6 +1327,7 @@
     "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/7ey3hkavol8/alternance-ingenieur-methodes-h-f",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-28",
+    "date_debut": null,
     "first_seen": "2026-07-29T07:46:37Z",
     "closed_at": null,
     "active": true
@@ -1406,6 +1447,7 @@
     "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kGxMbaxZc+mp66Xl1EkQEg==",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-22",
+    "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": null,
     "active": true
@@ -1423,6 +1465,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a3e4e9e93947690a1ed8fd2/alternance-4è-année-expert-en-architecture-et-développement-logiciel",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-26",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1440,6 +1483,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YJZH",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-31",
+    "date_debut": null,
     "first_seen": "2026-08-04T07:42:43Z",
     "closed_at": null,
     "active": true
@@ -1491,6 +1535,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/developpeurse",
     "categorie": "Cybersécurité",
     "date_publication": "2026-02-20",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1525,6 +1570,7 @@
     "url": "https://couach-imsshipyard.talentview.io/jobs/wr13e5?source=la_bonne_alternance",
     "categorie": "Cybersécurité",
     "date_publication": "2026-03-18",
+    "date_debut": "2026-08-03",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1559,6 +1605,7 @@
     "url": "https://recrutement-francetravail-tech.softy.pro/offre/210970?idt=5&h=2109700",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-18",
+    "date_debut": null,
     "first_seen": "2026-07-21T07:34:39Z",
     "closed_at": null,
     "active": true
@@ -1576,6 +1623,7 @@
     "url": "https://maazi.fr/job/alternance-developpeur-full-stack-h-f-bnp-paribas-bnp-paribas-cardif-hauts-de-seine?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=%20!A_CARNA26_0092",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-12",
+    "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1594,8 +1642,8 @@
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-10T06:12:58Z",
+    "active": false
   },
   "lba:9166bf4ef7e5": {
     "id": "lba:9166bf4ef7e5",
@@ -1627,6 +1675,7 @@
     "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/l75l23j4ya8/alternance-charge-de-gestion-des-outils-collaboratifs-m365-f-h",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-05",
+    "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
@@ -1644,6 +1693,7 @@
     "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=316063&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
+    "date_debut": null,
     "first_seen": "2026-07-26T07:38:36Z",
     "closed_at": null,
     "active": true
@@ -1661,6 +1711,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a565b57a8013626d33ce8e9/administrateur-administratrice-de-plateforme-de-service",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-14",
+    "date_debut": "2026-08-31",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1797,6 +1848,7 @@
     "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a59efb84acef524be4c2ff1",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-07-18T07:02:07Z",
     "closed_at": null,
     "active": true
@@ -1814,6 +1866,7 @@
     "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001",
     "categorie": "Développement",
     "date_publication": "2026-07-17",
+    "date_debut": null,
     "first_seen": "2026-07-18T07:02:07Z",
     "closed_at": null,
     "active": true
@@ -1831,6 +1884,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XKPM",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-08",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -1916,6 +1970,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70476ebb092dca9f11d386/technicien-technicienne-informatique",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-03",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-08-03T08:33:20Z",
     "closed_at": null,
     "active": true
@@ -1933,6 +1988,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-dexploitation-administrateur-systemes-drhfsbsnpsan",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-06-26",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": null,
     "active": true
@@ -2018,6 +2074,7 @@
     "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/bagnols-sur-ceze/développeuse-développeur-c#-alternance-195784874",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-13",
+    "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
@@ -2052,6 +2109,7 @@
     "url": "https://www.lindustrie-recrute.fr/candidat/offre/822043?utm_source=NQ==",
     "categorie": "Développement",
     "date_publication": "2026-07-29",
+    "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
     "closed_at": null,
     "active": true
@@ -2069,6 +2127,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a2fcc775d74f81b70393ec2/technicien-it-réseaux-en-alternance-h-f",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-15",
+    "date_debut": "2026-07-27",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2086,6 +2145,7 @@
     "url": "http://app.mytalentplug.com/redirection.aspx?ojid=pHo3gwabgy1qA03wvL/rWA==",
     "categorie": "Data & IA",
     "date_publication": "2026-07-23",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2120,6 +2180,7 @@
     "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a5120b94acef524be499fc0",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-10",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2137,6 +2198,7 @@
     "url": "https://www.meteojob.com/jobs/53548062?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Cybersécurité",
     "date_publication": "2026-08-04",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2154,6 +2216,7 @@
     "url": "https://www.lindustrie-recrute.fr/candidat/offre/820968?utm_source=NQ==",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-19",
+    "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": null,
     "active": true
@@ -2171,6 +2234,7 @@
     "url": "https://annoncesatlas.opco-atlas.fr/jobads/110971?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
+    "date_debut": "2026-08-30",
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": null,
     "active": true
@@ -2239,6 +2303,7 @@
     "url": "https://www.aplitrak.com/?adid=SFIuMjY5NTQuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
+    "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": null,
     "active": true
@@ -2273,6 +2338,7 @@
     "url": "https://www.aplitrak.com/?adid=VmluY2lJbW1vYmlsaWVyLjE0NDA0LjY3MDZAZ3JvdXBldmluY2kuYXBsaXRyYWsuY29t",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-04",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2290,6 +2356,7 @@
     "url": "https://www.lindustrie-recrute.fr/candidat/offre/817027?utm_source=NQ==",
     "categorie": "Développement",
     "date_publication": "2026-06-24",
+    "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2307,6 +2374,7 @@
     "url": "https://www.aplitrak.com/?adid=ZHJ0Ljg5NTUwLjEzNjgwQGNlYWZyLmFwbGl0cmFrLmNvbQ",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
+    "date_debut": "2026-10-01",
     "first_seen": "2026-07-17T07:20:48Z",
     "closed_at": null,
     "active": true
@@ -2375,6 +2443,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-administrateur-systeme-de-gestion-du-cycle-de-vie-des-certificats-sic-hf",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-16",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2443,6 +2512,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a71adc670f5c146a43ff46d/technicien-d-exploitation-h-f-niort",
     "categorie": "Autre",
     "date_publication": "2026-08-04",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": null,
     "active": true
@@ -2477,6 +2547,7 @@
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6380301ae407c4c7c137c5/assistant-informatique",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-24",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-07-26T07:38:36Z",
     "closed_at": null,
     "active": true
@@ -2528,6 +2599,7 @@
     "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3b989c4acef524be44347a",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-24",
+    "date_debut": "2026-09-01",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
@@ -2596,6 +2668,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SPJS",
     "categorie": "Data & IA",
     "date_publication": "2026-07-27",
+    "date_debut": null,
     "first_seen": "2026-07-28T07:41:49Z",
     "closed_at": null,
     "active": true
@@ -2630,6 +2703,7 @@
     "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=304161&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-16",
+    "date_debut": null,
     "first_seen": "2026-07-17T07:20:48Z",
     "closed_at": null,
     "active": true
@@ -2647,6 +2721,7 @@
     "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JDJR",
     "categorie": "Cybersécurité",
     "date_publication": "2026-07-17",
+    "date_debut": null,
     "first_seen": "2026-07-18T07:02:07Z",
     "closed_at": null,
     "active": true
@@ -2664,6 +2739,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-developpeur-full-stack-0",
     "categorie": "Cybersécurité",
     "date_publication": "2026-04-10",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
     "closed_at": null,
     "active": true
@@ -2732,6 +2808,7 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/dgamaitrise-de-linformationapprentie-developpeur-logiciel-cyber",
     "categorie": "Cybersécurité",
     "date_publication": "2026-05-28",
+    "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
