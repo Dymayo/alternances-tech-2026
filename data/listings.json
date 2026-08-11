@@ -463,6 +463,24 @@
     "closed_at": "2026-08-04T07:42:43Z",
     "active": false
   },
+  "lba:20c33ebd28eb": {
+    "id": "lba:20c33ebd28eb",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Ingénieur systèmes VMware H/F",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a79d65922a147e1a1f92364/ingénieur-systèmes-v-mware-h-f",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-08-10",
+    "date_debut": "2026-09-12",
+    "first_seen": "2026-08-11T05:55:24Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:262fb7f48572": {
     "id": "lba:262fb7f48572",
     "source": "lba",
@@ -821,8 +839,8 @@
     "date_publication": "2026-08-09",
     "date_debut": "2026-09-01",
     "first_seen": "2026-08-10T06:12:58Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-08-11T05:55:24Z"
   },
   "lba:519d81301888": {
     "id": "lba:519d81301888",
@@ -963,8 +981,8 @@
     "date_publication": "2026-07-21",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-11T05:55:24Z",
+    "active": false
   },
   "lba:5a10d1e199c5": {
     "id": "lba:5a10d1e199c5",
@@ -1972,8 +1990,8 @@
     "date_publication": "2026-08-03",
     "date_debut": "2026-09-01",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-11T05:55:24Z",
+    "active": false
   },
   "lba:b086928febc7": {
     "id": "lba:b086928febc7",
@@ -2705,8 +2723,8 @@
     "date_publication": "2026-07-16",
     "date_debut": null,
     "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-11T05:55:24Z",
+    "active": false
   },
   "lba:f763319fcddc": {
     "id": "lba:f763319fcddc",
