@@ -203,8 +203,8 @@
     "date_publication": "2026-07-19",
     "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:0c8c3f014cb3": {
     "id": "lba:0c8c3f014cb3",
@@ -478,8 +478,8 @@
     "date_publication": "2026-08-10",
     "date_debut": "2026-09-12",
     "first_seen": "2026-08-11T05:55:24Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:262fb7f48572": {
     "id": "lba:262fb7f48572",
@@ -928,8 +928,8 @@
     "date_publication": "2026-07-14",
     "date_debut": null,
     "first_seen": "2026-07-15T07:18:17Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:542a1110651a": {
     "id": "lba:542a1110651a",
@@ -1643,8 +1643,8 @@
     "date_publication": "2026-06-12",
     "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:90a98a5a9048": {
     "id": "lba:90a98a5a9048",
@@ -2218,8 +2218,8 @@
     "date_publication": "2026-08-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:bfa472f1ae50": {
     "id": "lba:bfa472f1ae50",
@@ -2358,8 +2358,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2532,8 +2532,8 @@
     "date_publication": "2026-08-04",
     "date_debut": "2026-09-01",
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-12T06:18:08Z",
+    "active": false
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
