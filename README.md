@@ -13,7 +13,7 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 [Signalez-la ici](../../issues/new?template=signaler_offre.yml).
 
 <!-- BEGIN MAJ -->
-_Dernière mise à jour : 15/08/2026 05:28 UTC_
+_Dernière mise à jour : 16/08/2026 05:31 UTC_
 <!-- END MAJ -->
 
 ## Légende
@@ -28,29 +28,29 @@ _Dernière mise à jour : 15/08/2026 05:28 UTC_
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.
 
 <!-- BEGIN OFFRES -->
-### 42 offres actives
+### 41 offres actives
 
 ## 🔐 Cybersécurité (31)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **PARIS FASHION SHOPS - PFS** | 🆕 Apprenti/e développeur/se informatique (H/F) | 93210 ST DENIS | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/212MBDM) | 14/08/2026 (1j) |
-| **CRISTAL UNION** | Alternant(e) Technicien d'Exploitation Informatique F/H | 45490 Corbeilles | Indifférent | — | — | [Postuler ↗](https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 31/07/2026 (15j) |
-| **Centre Hospitalier Universitaire de Grenoble** | TECHNICIEN EXPLOITANT INFORMATIQUE EN ALTERNANCE - H/F | 38700 La Tronche | Apprentissage · 12 mois | — | — | [Postuler ↗](https://ght-alpes-dauphine.softy.pro/offre/217271?idt=5&h=2172710) | 07/08/2026 (8j) |
-| **MW FRANCE** | Apprenti(e) Informatique H/F | 02700 Tergnier | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/822427?utm_source=NQ==) | 05/08/2026 (10j) |
-| **ARKEMA France** | Technicien / Technicienne études électriques (20138) (H/F) | 27470 Serquigny | Apprentissage · 36 mois | — | — | [Postuler ↗](https://arkema-france.contactrh.com/jobs/6469/44357651) | 05/08/2026 (10j) |
-| **CARVOLIX** | Alternant R&amp;D Logiciel Embarqué (H/F) | 25000 Besançon | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211YJZH) | 31/07/2026 (15j) |
+| **PARIS FASHION SHOPS - PFS** | 🆕 Apprenti/e développeur/se informatique (H/F) | 93210 ST DENIS | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/212MBDM) | 14/08/2026 (2j) |
+| **CRISTAL UNION** | Alternant(e) Technicien d'Exploitation Informatique F/H | 45490 Corbeilles | Indifférent | — | — | [Postuler ↗](https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 31/07/2026 (16j) |
+| **Centre Hospitalier Universitaire de Grenoble** | TECHNICIEN EXPLOITANT INFORMATIQUE EN ALTERNANCE - H/F | 38700 La Tronche | Apprentissage · 12 mois | — | — | [Postuler ↗](https://ght-alpes-dauphine.softy.pro/offre/217271?idt=5&h=2172710) | 07/08/2026 (9j) |
+| **MW FRANCE** | Apprenti(e) Informatique H/F | 02700 Tergnier | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/822427?utm_source=NQ==) | 05/08/2026 (11j) |
+| **ARKEMA France** | Technicien / Technicienne études électriques (20138) (H/F) | 27470 Serquigny | Apprentissage · 36 mois | — | — | [Postuler ↗](https://arkema-france.contactrh.com/jobs/6469/44357651) | 05/08/2026 (11j) |
+| **CARVOLIX** | Alternant R&amp;D Logiciel Embarqué (H/F) | 25000 Besançon | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211YJZH) | 31/07/2026 (16j) |
 | **SGA/DTPM** | Apprenti développeur full stack | 75007 Paris 7e Arrondissement | Apprentissage · 24 mois | 14/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/apprenti-developpeur-full-stack-0) | 10/04/2026 (4mo) |
-| **TRANSPORTS CAILLOT** | Alternant Développeur Informatique (H/F) | 51450 Bétheny | Apprentissage · 24 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211XZDN) | 31/07/2026 (15j) |
-| **Défi RH** | Alternance Ingénieur Méthodes (H/F) | 92350 Le Plessis-Robinson | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/7ey3hkavol8/alternance-ingenieur-methodes-h-f) | 28/07/2026 (18j) |
-| **ASSOCIATION IMC ALTERNANCE** | Data Analyst – BTS SIO (F/H) – Alternance | 276 Avenue du Président Wilson 93210 Saint-Denis | Apprentissage · 24 mois | 27/07/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67661b8bbc3358a678e074/data-analyst-bts-sio-f-h-alternance) | 27/07/2026 (19j) |
-| **SAINT-GOBAIN DISTRIBUTION BATIMENT FRANCE** | Alternance - Assistant SIRH &amp; Data RH International (F/H) (H/F) | 92400 Courbevoie | Apprentissage · 24 mois | — | — | [Postuler ↗](https://joinus.saint-gobain.com/description?nPostingTargetId=316063&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail) | 24/07/2026 (22j) |
-| **DAILYVERY** | Technicien Conseil | 2507 AVENUE DE L'EUROPE 69140 RILLIEUX-LA-PAPE | Apprentissage · 12 mois | 31/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a61e5031ae407c4c7bec774/technicien-conseil) | 23/07/2026 (23j) |
-| **Groupe LDLC** | Groupe LDLC - Technicien / Technicienne informatique (H/F) | 33700 Mérignac | Contrat pro · 24 mois | — | — | [Postuler ↗](https://carrieres.groupe-ldlc.com/fr/annonce/4514943-technicien-informatique-en-apprentisage-hf-33700-merignac?s_o=France+Travail&s_b=DigitalRecruiters) | 23/07/2026 (23j) |
-| **SPIE Groupe** | Chargé de SIRH Junior &amp; Data Quality H/F | 95000 Cergy | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.aplitrak.com/?adid=SFIuMjY5NTQuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ) | 24/07/2026 (22j) |
-| **FEBUS Optics** | Alternant(e) Technicien(ne) Support Infrastructure &amp; Réseaux (H/F) | 64000 Pau | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/820968?utm_source=NQ==) | 19/07/2026 (27j) |
-| **NEXEREN** | Administrateur Système et Réseau | 69140 Rillieux-la-Pape | Indifférent · 12 mois | 30/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://annoncesatlas.opco-atlas.fr/jobads/110971?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 17/07/2026 (29j) |
-| **OCEASOFT** | Technicien Support IT (en apprentissage) (H/F) | 34000 Montpellier | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211JDJR) | 17/07/2026 (29j) |
+| **TRANSPORTS CAILLOT** | Alternant Développeur Informatique (H/F) | 51450 Bétheny | Apprentissage · 24 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211XZDN) | 31/07/2026 (16j) |
+| **Défi RH** | Alternance Ingénieur Méthodes (H/F) | 92350 Le Plessis-Robinson | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/7ey3hkavol8/alternance-ingenieur-methodes-h-f) | 28/07/2026 (19j) |
+| **ASSOCIATION IMC ALTERNANCE** | Data Analyst – BTS SIO (F/H) – Alternance | 276 Avenue du Président Wilson 93210 Saint-Denis | Apprentissage · 24 mois | 27/07/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67661b8bbc3358a678e074/data-analyst-bts-sio-f-h-alternance) | 27/07/2026 (20j) |
+| **SAINT-GOBAIN DISTRIBUTION BATIMENT FRANCE** | Alternance - Assistant SIRH &amp; Data RH International (F/H) (H/F) | 92400 Courbevoie | Apprentissage · 24 mois | — | — | [Postuler ↗](https://joinus.saint-gobain.com/description?nPostingTargetId=316063&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail) | 24/07/2026 (23j) |
+| **DAILYVERY** | Technicien Conseil | 2507 AVENUE DE L'EUROPE 69140 RILLIEUX-LA-PAPE | Apprentissage · 12 mois | 31/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a61e5031ae407c4c7bec774/technicien-conseil) | 23/07/2026 (24j) |
+| **Groupe LDLC** | Groupe LDLC - Technicien / Technicienne informatique (H/F) | 33700 Mérignac | Contrat pro · 24 mois | — | — | [Postuler ↗](https://carrieres.groupe-ldlc.com/fr/annonce/4514943-technicien-informatique-en-apprentisage-hf-33700-merignac?s_o=France+Travail&s_b=DigitalRecruiters) | 23/07/2026 (24j) |
+| **SPIE Groupe** | Chargé de SIRH Junior &amp; Data Quality H/F | 95000 Cergy | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.aplitrak.com/?adid=SFIuMjY5NTQuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ) | 24/07/2026 (23j) |
+| **FEBUS Optics** | Alternant(e) Technicien(ne) Support Infrastructure &amp; Réseaux (H/F) | 64000 Pau | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/820968?utm_source=NQ==) | 19/07/2026 (28j) |
+| **NEXEREN** | Administrateur Système et Réseau | 69140 Rillieux-la-Pape | Indifférent · 12 mois | 30/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://annoncesatlas.opco-atlas.fr/jobads/110971?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 17/07/2026 (30j) |
+| **OCEASOFT** | Technicien Support IT (en apprentissage) (H/F) | 34000 Montpellier | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211JDJR) | 17/07/2026 (30j) |
 | **EDF** | Alternance - Developpeur Application F/H | 73400 Ugine | Indifférent | 07/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-25879?idOrigine=502) | 02/04/2026 (4mo) |
 | **ILEC NICE** | Informaticien / Informaticienne | 12 BOULEVARD DUBOUCHAGE 06000 NICE | Apprentissage · 12 mois | 29/07/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/69f9f881cdf4b19e1fc5b8bc/informaticien-informaticienne) | 05/05/2026 (3mo) |
 | **BREGER - ROMORANTIN** | Assistant(e) d'exploitation TRM - alternance F/H - BREGER - ROMORANTIN | 41200 Romorantin-Lanthenay | Contrat pro · 12 mois | — | — | [Postuler ↗](https://careers.werecruit.io/fr/groupe-breger/offres/assistante-dexploitation-trm---alternance-3d9f78?utm_source=francetravail&utm_medium=job-board) | 07/07/2026 (1mo) |
@@ -70,26 +70,25 @@ _Dernière mise à jour : 15/08/2026 05:28 UTC_
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **Wink** | Growth Marketing - B2B SaaS (H/F) | 75008 Paris 8e Arrondissement | Apprentissage · 12 mois | — | — | [Postuler ↗](https://career.wink-lab.com/apply/350583a6-41fc-4e11-8d14-1d80fda26363?utm_source=francetravailbasic) | 29/07/2026 (17j) |
-| **PIXALIONE** | Alternance data, produit Saas &amp; marketing (H/F) | 75015 Paris 15e Arrondissement | Apprentissage · 12 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211SPJS) | 27/07/2026 (19j) |
-| **LITTLE BILL** | Développeur | 69140 Rillieux-la-Pape | Indifférent · 12 mois | 30/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://annoncesatlas.opco-atlas.fr/jobads/110970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 17/07/2026 (29j) |
-| **Chantiers de l'Atlantique** | Stage de cesure Développement Informatique H/F | 44600 Saint-Nazaire | Apprentissage · 6 mois | — | — | [Postuler ↗](http://app.mytalentplug.com/redirection.aspx?ojid=pHo3gwabgy1qA03wvL/rWA==) | 23/07/2026 (23j) |
+| **Wink** | Growth Marketing - B2B SaaS (H/F) | 75008 Paris 8e Arrondissement | Apprentissage · 12 mois | — | — | [Postuler ↗](https://career.wink-lab.com/apply/350583a6-41fc-4e11-8d14-1d80fda26363?utm_source=francetravailbasic) | 29/07/2026 (18j) |
+| **PIXALIONE** | Alternance data, produit Saas &amp; marketing (H/F) | 75015 Paris 15e Arrondissement | Apprentissage · 12 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211SPJS) | 27/07/2026 (20j) |
+| **LITTLE BILL** | Développeur | 69140 Rillieux-la-Pape | Indifférent · 12 mois | 30/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://annoncesatlas.opco-atlas.fr/jobads/110970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 17/07/2026 (30j) |
+| **Chantiers de l'Atlantique** | Stage de cesure Développement Informatique H/F | 44600 Saint-Nazaire | Apprentissage · 6 mois | — | — | [Postuler ↗](http://app.mytalentplug.com/redirection.aspx?ojid=pHo3gwabgy1qA03wvL/rWA==) | 23/07/2026 (24j) |
 
-## 🌐 Réseaux, Cloud & Infra (4)
+## 🌐 Réseaux, Cloud & Infra (3)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **EXPERIS FRANCE** | 🆕 Ingénieur systèmes VMware H/F | Route de Saint Joseph 44300 Nantes | Indifférent | 12/09/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a79d65922a147e1a1f92364/ingénieur-systèmes-v-mware-h-f) | 10/08/2026 (5j) |
-| **Direction générale de la police nationale** | Technicien d’exploitation – administrateur systèmes à DRHFS/BSNP/SAN | 75012 Paris 12e Arrondissement | Apprentissage · 12 mois | 14/09/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/technicien-dexploitation-administrateur-systemes-drhfsbsnpsan) | 26/06/2026 (1mo) |
-| **IDEX ENERGIES** | Développeur d'Outils &amp; Projets Informatiques I Alternance \| F/H | 13080 Aix-en-Provence | Indifférent | 01/09/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.aplitrak.com/?adid=QWx5c2VlLlByZXZvc3QuNjI2ODEuMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ) | 20/07/2026 (26j) |
+| **EXPERIS FRANCE** | 🆕 Ingénieur systèmes VMware H/F | Route de Saint Joseph 44300 Nantes | Indifférent | 12/09/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a79d65922a147e1a1f92364/ingénieur-systèmes-v-mware-h-f) | 10/08/2026 (6j) |
+| **IDEX ENERGIES** | Développeur d'Outils &amp; Projets Informatiques I Alternance \| F/H | 13080 Aix-en-Provence | Indifférent | 01/09/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.aplitrak.com/?adid=QWx5c2VlLlByZXZvc3QuNjI2ODEuMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ) | 20/07/2026 (27j) |
 | **DGA Tech France Travail** | APPRENTISSAGE - CONCEPTEUR(TRICE) / DÉVELOPPEUR(EUSE) SI - H/F | 44000 Nantes | Apprentissage · 24 mois | — | — | [Postuler ↗](https://recrutement-francetravail-tech.softy.pro/offre/210970?idt=5&h=2109700) | 18/06/2026 (1mo) |
 
 ## 💻 Développement (3)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **MAUGUIN CITAGRI** | ALTERNANT Services Informatiques aux Organisations (SIO) - Option SLAM H/F | 53940 Saint-Berthevin | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/822043?utm_source=NQ==) | 29/07/2026 (17j) |
-| **E.Leclerc** | E.Leclerc - Alternant(e) Technicien Service Client SI - H/F | 97420 Le Port | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001) | 17/07/2026 (29j) |
+| **MAUGUIN CITAGRI** | ALTERNANT Services Informatiques aux Organisations (SIO) - Option SLAM H/F | 53940 Saint-Berthevin | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/822043?utm_source=NQ==) | 29/07/2026 (18j) |
+| **E.Leclerc** | E.Leclerc - Alternant(e) Technicien Service Client SI - H/F | 97420 Le Port | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001) | 17/07/2026 (30j) |
 | **BRM INDUSTRIE** | ALTERNANT AMÉLORATION CONTINUE H/F | 60100 Creil | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/817027?utm_source=NQ==) | 24/06/2026 (1mo) |
 
 

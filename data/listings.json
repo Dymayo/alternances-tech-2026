@@ -737,8 +737,8 @@
     "date_publication": "2026-08-14",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -1784,8 +1784,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -2044,8 +2044,8 @@
     "date_publication": "2026-06-26",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-16T05:31:54Z",
+    "active": false
   },
   "lba:b25d5a3046a9": {
     "id": "lba:b25d5a3046a9",
