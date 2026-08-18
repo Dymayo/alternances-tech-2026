@@ -357,8 +357,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:15f4975552e7": {
     "id": "lba:15f4975552e7",
@@ -582,8 +582,8 @@
     "date_publication": "2026-08-07",
     "date_debut": null,
     "first_seen": "2026-08-08T05:44:58Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
@@ -737,8 +737,8 @@
     "date_publication": "2026-08-14",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -875,8 +875,8 @@
     "date_publication": "2026-07-20",
     "date_debut": "2026-09-01",
     "first_seen": "2026-07-21T07:34:39Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -911,8 +911,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-01T07:30:09Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
@@ -981,8 +981,8 @@
     "date_publication": "2026-07-23",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:58b5397adea6": {
     "id": "lba:58b5397adea6",
@@ -1086,8 +1086,8 @@
     "date_publication": "2026-07-07",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:66350dd354f0": {
     "id": "lba:66350dd354f0",
@@ -1191,6 +1191,24 @@
     "closed_at": "2026-07-22T07:37:19Z",
     "active": false
   },
+  "lba:709c48ea88c9": {
+    "id": "lba:709c48ea88c9",
+    "source": "lba",
+    "entreprise": "CRISTAL UNION",
+    "intitule": "Alternant(e) Technicien d'Exploitation Informatique F/H",
+    "ville": "Corbeilles (45)",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-07-31",
+    "date_debut": null,
+    "first_seen": "2026-08-18T05:33:53Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:7282e59f5b12": {
     "id": "lba:7282e59f5b12",
     "source": "lba",
@@ -1206,8 +1224,8 @@
     "date_publication": "2026-08-05",
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:73a6011630cf": {
     "id": "lba:73a6011630cf",
@@ -1294,8 +1312,8 @@
     "date_publication": "2026-07-06",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:79fa5cda1a34": {
     "id": "lba:79fa5cda1a34",
@@ -1330,8 +1348,8 @@
     "date_publication": "2026-08-05",
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:7abf6564aa9c": {
     "id": "lba:7abf6564aa9c",
@@ -1365,8 +1383,8 @@
     "date_publication": "2026-07-28",
     "date_debut": null,
     "first_seen": "2026-07-29T07:46:37Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:7c4c7642ef44": {
     "id": "lba:7c4c7642ef44",
@@ -1521,8 +1539,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-04T07:42:43Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -1643,8 +1661,8 @@
     "date_publication": "2026-06-18",
     "date_debut": null,
     "first_seen": "2026-07-21T07:34:39Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:8e5a2693df09": {
     "id": "lba:8e5a2693df09",
@@ -1731,8 +1749,8 @@
     "date_publication": "2026-07-24",
     "date_debut": null,
     "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -1784,8 +1802,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -2165,8 +2183,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
@@ -2201,8 +2219,8 @@
     "date_publication": "2026-07-23",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:ba38d7a0deb5": {
     "id": "lba:ba38d7a0deb5",
@@ -2272,8 +2290,8 @@
     "date_publication": "2026-07-19",
     "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:bfd5e047015f": {
     "id": "lba:bfd5e047015f",
@@ -2359,8 +2377,8 @@
     "date_publication": "2026-07-24",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:c1dae04c7a3f": {
     "id": "lba:c1dae04c7a3f",
@@ -2394,8 +2412,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2412,8 +2430,8 @@
     "date_publication": "2026-06-24",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:c9536cca4282": {
     "id": "lba:c9536cca4282",
@@ -2499,8 +2517,8 @@
     "date_publication": "2026-06-16",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:d2a5e70ea8cc": {
     "id": "lba:d2a5e70ea8cc",
@@ -2724,8 +2742,8 @@
     "date_publication": "2026-07-27",
     "date_debut": null,
     "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
@@ -2864,7 +2882,7 @@
     "date_publication": "2026-05-28",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-18T05:33:53Z",
+    "active": false
   }
 }
