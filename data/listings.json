@@ -357,8 +357,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:15f4975552e7": {
     "id": "lba:15f4975552e7",
@@ -582,8 +582,8 @@
     "date_publication": "2026-08-07",
     "date_debut": null,
     "first_seen": "2026-08-08T05:44:58Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
@@ -737,8 +737,8 @@
     "date_publication": "2026-08-14",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -911,8 +911,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-01T07:30:09Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
@@ -981,8 +981,8 @@
     "date_publication": "2026-07-23",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:58b5397adea6": {
     "id": "lba:58b5397adea6",
@@ -1086,8 +1086,8 @@
     "date_publication": "2026-07-07",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:66350dd354f0": {
     "id": "lba:66350dd354f0",
@@ -1206,8 +1206,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-18T05:33:53Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-08-19T05:34:40Z"
   },
   "lba:7282e59f5b12": {
     "id": "lba:7282e59f5b12",
@@ -1312,8 +1312,8 @@
     "date_publication": "2026-07-06",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:79fa5cda1a34": {
     "id": "lba:79fa5cda1a34",
@@ -1383,8 +1383,8 @@
     "date_publication": "2026-07-28",
     "date_debut": null,
     "first_seen": "2026-07-29T07:46:37Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:7c4c7642ef44": {
     "id": "lba:7c4c7642ef44",
@@ -1436,6 +1436,24 @@
     "first_seen": "2026-07-29T07:46:37Z",
     "closed_at": "2026-08-06T07:42:50Z",
     "active": false
+  },
+  "lba:82f660a0fd48": {
+    "id": "lba:82f660a0fd48",
+    "source": "lba",
+    "entreprise": "ZALKIN (ETS A. &amp; CIE)",
+    "intitule": "Alternant IT systèmes et réseaux H/F",
+    "ville": "27390 Montreuil-l'Argillé",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/823167?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-18",
+    "date_debut": null,
+    "first_seen": "2026-08-19T05:34:40Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1539,8 +1557,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-04T07:42:43Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -1591,8 +1609,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-17T05:38:37Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -1749,8 +1767,8 @@
     "date_publication": "2026-07-24",
     "date_debut": null,
     "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -1802,8 +1820,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -2183,8 +2201,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
@@ -2290,8 +2308,8 @@
     "date_publication": "2026-07-19",
     "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:bfd5e047015f": {
     "id": "lba:bfd5e047015f",
@@ -2377,8 +2395,8 @@
     "date_publication": "2026-07-24",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:c1dae04c7a3f": {
     "id": "lba:c1dae04c7a3f",
@@ -2412,8 +2430,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2430,8 +2448,8 @@
     "date_publication": "2026-06-24",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:c9536cca4282": {
     "id": "lba:c9536cca4282",
@@ -2517,8 +2535,8 @@
     "date_publication": "2026-06-16",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:d2a5e70ea8cc": {
     "id": "lba:d2a5e70ea8cc",
@@ -2588,6 +2606,24 @@
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": "2026-08-12T06:18:08Z",
     "active": false
+  },
+  "lba:e6ca032226fb": {
+    "id": "lba:e6ca032226fb",
+    "source": "lba",
+    "entreprise": "Direction générale des patrimoines et de l'architecture",
+    "intitule": "Assistant informatique H/F",
+    "ville": "94220 Charenton-le-Pont",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/assistant-informatique-hf",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-04-22",
+    "date_debut": "2026-09-14",
+    "first_seen": "2026-08-19T05:34:40Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
@@ -2742,8 +2778,8 @@
     "date_publication": "2026-07-27",
     "date_debut": null,
     "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
@@ -2882,7 +2918,7 @@
     "date_publication": "2026-05-28",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   }
 }
