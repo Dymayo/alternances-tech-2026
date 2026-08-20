@@ -82,8 +82,8 @@
     "date_publication": "2026-04-02",
     "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-20T05:35:13Z",
+    "active": false
   },
   "lba:078f06711e67": {
     "id": "lba:078f06711e67",
@@ -290,6 +290,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-24T07:35:33Z",
     "active": false
+  },
+  "lba:111e55dbc1c3": {
+    "id": "lba:111e55dbc1c3",
+    "source": "lba",
+    "entreprise": "SOCIETE PUBLIQUE LOCALE AEROPORTUAIRE REGIONALE",
+    "intitule": "Administrateur systèmes et réseaux en alternance (H/F)",
+    "ville": "65290 Juillan",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/212QWBF",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-19",
+    "date_debut": null,
+    "first_seen": "2026-08-20T05:35:13Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:119f1a0fcb54": {
     "id": "lba:119f1a0fcb54",
@@ -702,8 +720,8 @@
     "date_publication": "2026-07-23",
     "date_debut": "2026-08-31",
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-20T05:35:13Z",
+    "active": false
   },
   "lba:456c70868817": {
     "id": "lba:456c70868817",
@@ -1452,8 +1470,8 @@
     "date_publication": "2026-08-18",
     "date_debut": null,
     "first_seen": "2026-08-19T05:34:40Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1749,8 +1767,8 @@
     "date_publication": "2026-08-05",
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-15T05:28:52Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:91a23e6712ea": {
     "id": "lba:91a23e6712ea",
@@ -1767,8 +1785,8 @@
     "date_publication": "2026-07-24",
     "date_debut": null,
     "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-20T05:35:13Z",
+    "active": false
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -2622,8 +2640,8 @@
     "date_publication": "2026-04-22",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-19T05:34:40Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
@@ -2849,8 +2867,8 @@
     "date_publication": "2026-04-10",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": "2026-08-17T05:38:37Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
