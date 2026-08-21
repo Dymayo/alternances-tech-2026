@@ -291,6 +291,24 @@
     "closed_at": "2026-07-24T07:35:33Z",
     "active": false
   },
+  "lba:0f777b3ade65": {
+    "id": "lba:0f777b3ade65",
+    "source": "lba",
+    "entreprise": "EF2C",
+    "intitule": "Technicien / Technicienne informatique",
+    "ville": "RESIDENCE L'EPI D'OR 78000 VERSAILLES",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a86fb7f8a7c7745ea75e7d6/technicien-technicienne-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-20",
+    "date_debut": "2026-08-20",
+    "first_seen": "2026-08-21T05:36:18Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:111e55dbc1c3": {
     "id": "lba:111e55dbc1c3",
     "source": "lba",
@@ -306,8 +324,8 @@
     "date_publication": "2026-08-19",
     "date_debut": null,
     "first_seen": "2026-08-20T05:35:13Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:119f1a0fcb54": {
     "id": "lba:119f1a0fcb54",
@@ -1767,8 +1785,8 @@
     "date_publication": "2026-08-05",
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-21T05:36:18Z",
+    "active": false
   },
   "lba:91a23e6712ea": {
     "id": "lba:91a23e6712ea",
@@ -2237,8 +2255,8 @@
     "date_publication": "2026-06-15",
     "date_debut": "2026-07-27",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-21T05:36:18Z",
+    "active": false
   },
   "lba:ba2ac97e45c2": {
     "id": "lba:ba2ac97e45c2",
@@ -2310,6 +2328,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-12T06:18:08Z",
     "active": false
+  },
+  "lba:bc8436dfed7d": {
+    "id": "lba:bc8436dfed7d",
+    "source": "lba",
+    "entreprise": "IFCV APPRENTISSAGE",
+    "intitule": "Alternance - Chargé(e) de Missions Opérationnel & Relations Client",
+    "ville": "70 RUE ANATOLE FRANCE",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a87033bdc67ee321f638d58/chargé-e-de-missions-opérationnel-relations-client",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-20",
+    "date_debut": "2026-08-20",
+    "first_seen": "2026-08-21T05:36:18Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:bfa472f1ae50": {
     "id": "lba:bfa472f1ae50",
@@ -2466,8 +2502,8 @@
     "date_publication": "2026-06-24",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-21T05:36:18Z",
+    "active": false
   },
   "lba:c9536cca4282": {
     "id": "lba:c9536cca4282",
@@ -2867,8 +2903,8 @@
     "date_publication": "2026-04-10",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-21T05:36:18Z",
+    "active": false
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
