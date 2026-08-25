@@ -1542,6 +1542,24 @@
     "closed_at": "2026-07-31T07:53:03Z",
     "active": false
   },
+  "lba:866f4b01c84b": {
+    "id": "lba:866f4b01c84b",
+    "source": "lba",
+    "entreprise": "FACTORY 456",
+    "intitule": "Informaticien / Informaticienne",
+    "ville": "10 PLACE FRANCOISE HERITIER 34000 MONTPELLIER",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c40d2a9f7e898624c620b/informaticien-informaticienne",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-24",
+    "date_debut": "2026-08-24",
+    "first_seen": "2026-08-25T05:35:39Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8670dc29b4ad": {
     "id": "lba:8670dc29b4ad",
     "source": "lba",
@@ -1853,7 +1871,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-31",
+    "date_publication": "2026-08-23",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
     "closed_at": null,
