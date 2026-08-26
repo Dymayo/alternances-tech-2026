@@ -306,8 +306,8 @@
     "date_publication": "2026-08-20",
     "date_debut": "2026-08-20",
     "first_seen": "2026-08-21T05:36:18Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-26T05:38:08Z",
+    "active": false
   },
   "lba:111e55dbc1c3": {
     "id": "lba:111e55dbc1c3",
@@ -1419,8 +1419,8 @@
     "date_publication": "2026-07-28",
     "date_debut": null,
     "first_seen": "2026-07-29T07:46:37Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-26T05:38:08Z",
+    "active": false
   },
   "lba:7c4c7642ef44": {
     "id": "lba:7c4c7642ef44",
@@ -1491,6 +1491,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:8348348aafe8": {
+    "id": "lba:8348348aafe8",
+    "source": "lba",
+    "entreprise": "LOIC SERVICES",
+    "intitule": "Alternant en sécurité et réseaux (H/F)",
+    "ville": "93100 Montreuil",
+    "contrat": "professionnalisation",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RVBR",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-20",
+    "date_debut": null,
+    "first_seen": "2026-08-26T05:38:08Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
     "source": "lba",
@@ -1557,8 +1575,8 @@
     "date_publication": "2026-08-24",
     "date_debut": "2026-08-24",
     "first_seen": "2026-08-25T05:35:39Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8670dc29b4ad": {
     "id": "lba:8670dc29b4ad",
@@ -1593,8 +1611,8 @@
     "date_publication": "2026-06-26",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-26T05:38:08Z",
+    "active": false
   },
   "lba:86efb3b61221": {
     "id": "lba:86efb3b61221",
@@ -1698,8 +1716,8 @@
     "date_publication": "2026-03-18",
     "date_debut": "2026-08-03",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-26T05:38:08Z",
+    "active": false
   },
   "lba:8bbcd6f5ca0f": {
     "id": "lba:8bbcd6f5ca0f",
@@ -2009,11 +2027,11 @@
     "teletravail": "",
     "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001",
     "categorie": "Développement",
-    "date_publication": "2026-07-17",
+    "date_publication": "2026-08-25",
     "date_debut": null,
     "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": "2026-08-17T05:38:37Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
@@ -2921,8 +2939,8 @@
     "date_publication": "2026-04-10",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": "2026-08-24T05:41:35Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
@@ -2940,6 +2958,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-20T08:09:34Z",
     "active": false
+  },
+  "lba:fddfbb4ffe33": {
+    "id": "lba:fddfbb4ffe33",
+    "source": "lba",
+    "entreprise": "SEPROLEC SAS",
+    "intitule": "Technicien(ne) Informatique &amp; Support bancs de test H/F",
+    "ville": "14500 Vire Normandie",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/824167?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-25",
+    "date_debut": null,
+    "first_seen": "2026-08-26T05:38:08Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:fe8d7a2f341b": {
     "id": "lba:fe8d7a2f341b",
