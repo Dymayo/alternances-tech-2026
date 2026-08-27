@@ -672,6 +672,24 @@
     "closed_at": "2026-07-31T07:53:03Z",
     "active": false
   },
+  "lba:3eb7ade65eb5": {
+    "id": "lba:3eb7ade65eb5",
+    "source": "lba",
+    "entreprise": "Murata Integrated Passive Solutions",
+    "intitule": "Technicien(ne) support digitalisation et automatisation des processus achats et sous-traitance H/F",
+    "ville": "14000 Caen",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/824366?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-26",
+    "date_debut": null,
+    "first_seen": "2026-08-27T16:17:48Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
     "source": "lba",
@@ -844,6 +862,24 @@
     "closed_at": "2026-08-06T07:42:50Z",
     "active": false
   },
+  "lba:4eebf6d5b6f5": {
+    "id": "lba:4eebf6d5b6f5",
+    "source": "lba",
+    "entreprise": "DEKRA France",
+    "intitule": "Chargé/e de projet IT en alternance H/F",
+    "ville": "33110 Le Bouscat",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=U7o5wTngYTSLnPF9iUy0mQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-26",
+    "date_debut": null,
+    "first_seen": "2026-08-27T16:17:48Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:4f8c4009fce4": {
     "id": "lba:4f8c4009fce4",
     "source": "lba",
@@ -947,8 +983,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-01T07:30:09Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:5360e29f92c9": {
     "id": "lba:5360e29f92c9",
@@ -1295,8 +1331,8 @@
     "date_publication": "2026-07-27",
     "date_debut": "2026-07-27",
     "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:778b15524626": {
     "id": "lba:778b15524626",
@@ -1506,8 +1542,8 @@
     "date_publication": "2026-08-20",
     "date_debut": null,
     "first_seen": "2026-08-26T05:38:08Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1681,8 +1717,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -1892,8 +1928,8 @@
     "date_publication": "2026-08-23",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:9b9d08100854": {
     "id": "lba:9b9d08100854",
@@ -2030,8 +2066,8 @@
     "date_publication": "2026-08-25",
     "date_debut": null,
     "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:a35dbaa7b3f2": {
     "id": "lba:a35dbaa7b3f2",
@@ -2398,8 +2434,8 @@
     "date_publication": "2026-07-19",
     "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:bfd5e047015f": {
     "id": "lba:bfd5e047015f",
@@ -2868,8 +2904,8 @@
     "date_publication": "2026-07-27",
     "date_debut": null,
     "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:f32d32b07865": {
     "id": "lba:f32d32b07865",
@@ -2939,8 +2975,8 @@
     "date_publication": "2026-04-10",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-27T16:17:48Z",
+    "active": false
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
@@ -2974,8 +3010,8 @@
     "date_publication": "2026-08-25",
     "date_debut": null,
     "first_seen": "2026-08-26T05:38:08Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fe8d7a2f341b": {
     "id": "lba:fe8d7a2f341b",
