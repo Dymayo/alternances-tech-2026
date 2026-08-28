@@ -324,8 +324,8 @@
     "date_publication": "2026-08-19",
     "date_debut": null,
     "first_seen": "2026-08-20T05:35:13Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-28T17:13:19Z",
+    "active": false
   },
   "lba:119f1a0fcb54": {
     "id": "lba:119f1a0fcb54",
@@ -687,8 +687,8 @@
     "date_publication": "2026-08-26",
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
@@ -877,8 +877,8 @@
     "date_publication": "2026-08-26",
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4f8c4009fce4": {
     "id": "lba:4f8c4009fce4",
@@ -1717,8 +1717,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -2556,8 +2556,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-28T17:13:19Z",
+    "active": false
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2888,6 +2888,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-20T08:09:34Z",
     "active": false
+  },
+  "lba:f0c981597ec4": {
+    "id": "lba:f0c981597ec4",
+    "source": "lba",
+    "entreprise": "FH INDUSTRIE SAS",
+    "intitule": "Alternance en Toxicologie H/F",
+    "ville": "29000 Quimper",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.lindustrie-recrute.fr/candidat/offre/824507?utm_source=NQ==",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-27",
+    "date_debut": null,
+    "first_seen": "2026-08-28T17:13:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f21dc8240a95": {
     "id": "lba:f21dc8240a95",
