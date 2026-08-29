@@ -393,8 +393,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-29T11:31:37Z",
+    "active": false
   },
   "lba:15f4975552e7": {
     "id": "lba:15f4975552e7",
@@ -811,23 +811,6 @@
     "closed_at": "2026-07-29T07:46:37Z",
     "active": false
   },
-  "lba:4a7820a7cc03": {
-    "id": "lba:4a7820a7cc03",
-    "source": "lba",
-    "entreprise": "Orange",
-    "intitule": "Alternant Data Analyst",
-    "ville": "Châtillon (92)",
-    "contrat": "apprentissage",
-    "niveau": "Bac+3",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr",
-    "categorie": "Data & IA",
-    "date_publication": null,
-    "first_seen": "2026-07-14T17:00:34Z",
-    "active": false,
-    "closed_at": "2026-07-14T17:50:12Z"
-  },
   "lba:4dc3f9f9599d": {
     "id": "lba:4dc3f9f9599d",
     "source": "lba",
@@ -895,23 +878,6 @@
     "date_publication": "2026-06-17",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-10T06:12:58Z",
-    "active": false
-  },
-  "lba:4f969502c349": {
-    "id": "lba:4f969502c349",
-    "source": "lba",
-    "entreprise": "Défi RH",
-    "intitule": "Alternance Ingénieur Méthode (H/F)",
-    "ville": "75001 Paris",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/nm0vw5hvye8/alternance-ingenieur-methode-h-f",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-16",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
     "active": false
   },
   "lba:4fb282baf5af": {
@@ -1089,23 +1055,6 @@
     "date_publication": "2026-05-22",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-22T07:37:19Z",
-    "active": false
-  },
-  "lba:5d63e9dcb3da": {
-    "id": "lba:5d63e9dcb3da",
-    "source": "lba",
-    "entreprise": "AUREIS FORMATION",
-    "intitule": "Programmeur / Programmeuse de maintenance informatique",
-    "ville": "322 RUE DES PYRENEES 75020 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a0740ae2e6f65bd512ee4a7/programmeur-programmeuse-de-maintenance-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-15",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
     "active": false
   },
   "lba:5e5518388de0": {
@@ -1352,23 +1301,6 @@
     "closed_at": "2026-08-14T06:17:46Z",
     "active": false
   },
-  "lba:77ba328872e6": {
-    "id": "lba:77ba328872e6",
-    "source": "lba",
-    "entreprise": "OVHcloud",
-    "intitule": "Alternance Ingénieur DevOps",
-    "ville": "Roubaix (59)",
-    "contrat": "apprentissage",
-    "niveau": "Bac+5",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": null,
-    "first_seen": "2026-07-14T17:00:34Z",
-    "active": false,
-    "closed_at": "2026-07-14T17:50:12Z"
-  },
   "lba:799d2cf20cd9": {
     "id": "lba:799d2cf20cd9",
     "source": "lba",
@@ -1457,23 +1389,6 @@
     "first_seen": "2026-07-29T07:46:37Z",
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
-  },
-  "lba:7c4c7642ef44": {
-    "id": "lba:7c4c7642ef44",
-    "source": "lba",
-    "entreprise": "Thales",
-    "intitule": "Alternance Développeur C++ (H/F)",
-    "ville": "Toulouse (31)",
-    "contrat": "apprentissage",
-    "niveau": "Bac+5",
-    "duree_mois": 24,
-    "teletravail": "hybride",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr",
-    "categorie": "Développement",
-    "date_publication": null,
-    "first_seen": "2026-07-14T17:00:34Z",
-    "active": false,
-    "closed_at": "2026-07-14T17:50:12Z"
   },
   "lba:7f127e36b137": {
     "id": "lba:7f127e36b137",
@@ -1717,8 +1632,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-29T11:31:37Z",
+    "active": false
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -1753,23 +1668,6 @@
     "date_debut": "2026-08-03",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-26T05:38:08Z",
-    "active": false
-  },
-  "lba:8bbcd6f5ca0f": {
-    "id": "lba:8bbcd6f5ca0f",
-    "source": "lba",
-    "entreprise": "AUREIS FORMATION",
-    "intitule": "Informaticien / Informaticienne",
-    "ville": "322 RUE DES PYRENEES 75020 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a07453a2e6f65bd512ee58e/informaticien-informaticienne",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-15",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
     "active": false
   },
   "lba:8d2be4c291e8": {
@@ -2138,23 +2036,6 @@
     "closed_at": "2026-07-30T07:36:47Z",
     "active": false
   },
-  "lba:a84fa178308f": {
-    "id": "lba:a84fa178308f",
-    "source": "lba",
-    "entreprise": "LOUNNA",
-    "intitule": "Business analyst",
-    "ville": "54 RUE DE SEINE 75006 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4cce38689956564490cf9e/business-analyst",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-07-07",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
-    "active": false
-  },
   "lba:ab0f60b5bdfb": {
     "id": "lba:ab0f60b5bdfb",
     "source": "lba",
@@ -2348,23 +2229,6 @@
     "closed_at": "2026-08-18T05:33:53Z",
     "active": false
   },
-  "lba:ba38d7a0deb5": {
-    "id": "lba:ba38d7a0deb5",
-    "source": "lba",
-    "entreprise": "AUREIS FORMATION",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "322 RUE DES PYRENEES 75020 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a0743ea2e6f65bd512ee53f/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-15",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
-    "active": false
-  },
   "lba:bc21b544228e": {
     "id": "lba:bc21b544228e",
     "source": "lba",
@@ -2556,8 +2420,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-28T17:13:19Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2612,23 +2476,6 @@
     "closed_at": "2026-07-22T07:37:19Z",
     "active": false
   },
-  "lba:ce14ea0d7858": {
-    "id": "lba:ce14ea0d7858",
-    "source": "lba",
-    "entreprise": "STMicroelectronics",
-    "intitule": "Alternance Firmware Embarqué STM32",
-    "ville": "Grenoble (38)",
-    "contrat": "apprentissage",
-    "niveau": "Bac+5",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr",
-    "categorie": "Embarqué & Électronique",
-    "date_publication": null,
-    "first_seen": "2026-07-14T17:00:34Z",
-    "active": false,
-    "closed_at": "2026-07-14T17:50:12Z"
-  },
   "lba:cf95eff70173": {
     "id": "lba:cf95eff70173",
     "source": "lba",
@@ -2680,23 +2527,6 @@
     "first_seen": "2026-07-24T07:35:33Z",
     "closed_at": "2026-08-01T07:30:09Z",
     "active": false
-  },
-  "lba:d745d7e7f41e": {
-    "id": "lba:d745d7e7f41e",
-    "source": "lba",
-    "entreprise": "Capgemini",
-    "intitule": "Alternance Analyste SOC Cybersécurité",
-    "ville": "Rennes (35)",
-    "contrat": "apprentissage",
-    "niveau": "Bac+5",
-    "duree_mois": 36,
-    "teletravail": "hybride",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr",
-    "categorie": "Cybersécurité",
-    "date_publication": null,
-    "first_seen": "2026-07-14T17:00:34Z",
-    "active": false,
-    "closed_at": "2026-07-14T17:50:12Z"
   },
   "lba:df3fa35a1c02": {
     "id": "lba:df3fa35a1c02",
@@ -2838,23 +2668,6 @@
     "closed_at": "2026-08-24T05:41:35Z",
     "active": false
   },
-  "lba:ebda6ec565f0": {
-    "id": "lba:ebda6ec565f0",
-    "source": "lba",
-    "entreprise": "AUREIS FORMATION",
-    "intitule": "Assistant / Assistante d'exploitation informatique",
-    "ville": "322 RUE DES PYRENEES 75020 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a0736c32e6f65bd512ee1ed/assistant-assistante-d-exploitation-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-15",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-15T07:18:17Z",
-    "active": false
-  },
   "lba:ed6c57036161": {
     "id": "lba:ed6c57036161",
     "source": "lba",
@@ -2904,8 +2717,8 @@
     "date_publication": "2026-08-27",
     "date_debut": null,
     "first_seen": "2026-08-28T17:13:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f21dc8240a95": {
     "id": "lba:f21dc8240a95",
