@@ -327,23 +327,6 @@
     "closed_at": "2026-08-28T17:13:19Z",
     "active": false
   },
-  "lba:119f1a0fcb54": {
-    "id": "lba:119f1a0fcb54",
-    "source": "lba",
-    "entreprise": "Service du Commissariat des Armées",
-    "intitule": "TECHNICIEN EXPLOITATION SYSTEMES INFORMATION – Apprenti(e)",
-    "ville": "35136 Saint-Jacques-de-la-Lande",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 36,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-exploitation-systemes-information-apprentie-0",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-03-30",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-17T07:20:48Z",
-    "active": false
-  },
   "lba:157cd4908652": {
     "id": "lba:157cd4908652",
     "source": "lba",
@@ -394,23 +377,6 @@
     "date_publication": "2026-06-30",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-24T07:35:33Z",
-    "active": false
-  },
-  "lba:16f0d0586a7e": {
-    "id": "lba:16f0d0586a7e",
-    "source": "lba",
-    "entreprise": "EDF",
-    "intitule": "ALTERNANCE - Développement Informatique - F/H",
-    "ville": "50340 Flamanville",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-163629?idOrigine=502",
-    "categorie": "Développement",
-    "date_publication": "2026-02-24",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-17T07:20:48Z",
     "active": false
   },
   "lba:1aed9db05c4c": {
@@ -1615,8 +1581,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-08-31T11:28:15Z",
+    "active": false
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -1897,23 +1863,6 @@
     "closed_at": "2026-07-26T07:38:36Z",
     "active": false
   },
-  "lba:9f7617417b83": {
-    "id": "lba:9f7617417b83",
-    "source": "lba",
-    "entreprise": "Direction générale des douanes et droits indirects",
-    "intitule": "Alternance développeur Full-Stack (Java/Spring,  VueJs 3)",
-    "ville": "95520 Osny",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-developpeur-full-stack-javaspring-vuejs-3",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-23",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-17T07:20:48Z",
-    "active": false
-  },
   "lba:9f888e09fdfa": {
     "id": "lba:9f888e09fdfa",
     "source": "lba",
@@ -2053,23 +2002,6 @@
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": "2026-08-16T05:31:54Z",
-    "active": false
-  },
-  "lba:b25d5a3046a9": {
-    "id": "lba:b25d5a3046a9",
-    "source": "lba",
-    "entreprise": "ORSENNA",
-    "intitule": "Ingénieur Supervision en alternance F/H - ORSENNA",
-    "ville": "78600 Maisons-Laffitte",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://careers.werecruit.io/fr/bechtle/offres/ingenieur-supervision-en-alternance-d6284f?utm_source=francetravail&utm_medium=job-board",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-07",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-17T07:20:48Z",
     "active": false
   },
   "lba:b2edb4669ad8": {
