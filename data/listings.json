@@ -171,23 +171,6 @@
     "closed_at": "2026-07-28T07:41:49Z",
     "active": false
   },
-  "lba:0bf96cbf3ec5": {
-    "id": "lba:0bf96cbf3ec5",
-    "source": "lba",
-    "entreprise": "750197-GEOPOST SA",
-    "intitule": "Alternance Développeur BOT IA F/H (H/F)",
-    "ville": "92130 Issy-les-Moulineaux",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 6,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=YmJnZW5lcmljLjY2NDM1LjY3MDZAZ3JvdXBlbGFwb3N0ZS5hcGxpdHJhay5jb20",
-    "categorie": "Data & IA",
-    "date_publication": "2026-06-19",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
-    "active": false
-  },
   "lba:0c833d106542": {
     "id": "lba:0c833d106542",
     "source": "lba",
@@ -204,23 +187,6 @@
     "date_debut": null,
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": "2026-08-12T06:18:08Z",
-    "active": false
-  },
-  "lba:0c8c3f014cb3": {
-    "id": "lba:0c8c3f014cb3",
-    "source": "lba",
-    "entreprise": "UIMM",
-    "intitule": "Technicien(ne) Développement Bancs de Test H/F",
-    "ville": "14500 Vire Normandie",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/55228294?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-05",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
     "active": false
   },
   "lba:0d5aab891956": {
@@ -518,6 +484,24 @@
     "closed_at": "2026-07-24T07:35:33Z",
     "active": false
   },
+  "lba:2c9e1ae2994f": {
+    "id": "lba:2c9e1ae2994f",
+    "source": "lba",
+    "entreprise": "INFASS SYSTEMES",
+    "intitule": "Administrateur / Administratrice système et réseaux d'information et de communication",
+    "ville": "92 RUE DE LA GLACIERE 91230 MONTGERON",
+    "contrat": "professionnalisation",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a954308896188246aced895/administrateur-administratrice-système-et-réseaux-d-information-et-de-communication",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-08-31",
+    "date_debut": "2026-10-01",
+    "first_seen": "2026-09-01T09:50:56Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3249ccb08100": {
     "id": "lba:3249ccb08100",
     "source": "lba",
@@ -567,8 +551,8 @@
     "date_publication": "2026-08-07",
     "date_debut": null,
     "first_seen": "2026-08-08T05:44:58Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
@@ -636,8 +620,8 @@
     "date_publication": "2026-08-26",
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
@@ -654,23 +638,6 @@
     "date_publication": "2025-12-05",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-04T07:42:43Z",
-    "active": false
-  },
-  "lba:41810509b069": {
-    "id": "lba:41810509b069",
-    "source": "lba",
-    "entreprise": "TRIALP",
-    "intitule": "Alternant Informatique Systèmes et Réseaux H/F (H/F)",
-    "ville": "73000 Chambéry",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210BDZZ",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-19",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
     "active": false
   },
   "lba:427b0894ede0": {
@@ -740,8 +707,8 @@
     "date_publication": "2026-08-14",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -758,23 +725,6 @@
     "date_publication": "2026-06-05",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-29T07:46:37Z",
-    "active": false
-  },
-  "lba:4dc3f9f9599d": {
-    "id": "lba:4dc3f9f9599d",
-    "source": "lba",
-    "entreprise": "PARSIDER",
-    "intitule": "Apprenti Systèmes et Réseaux H/F",
-    "ville": "54230 Neuves-Maisons",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/804605?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-17",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
     "active": false
   },
   "lba:4e30892b2f96": {
@@ -809,8 +759,8 @@
     "date_publication": "2026-08-26",
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:4f8c4009fce4": {
     "id": "lba:4f8c4009fce4",
@@ -968,8 +918,8 @@
     "date_publication": "2026-07-23",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:58b5397adea6": {
     "id": "lba:58b5397adea6",
@@ -1056,8 +1006,8 @@
     "date_publication": "2026-07-07",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:66350dd354f0": {
     "id": "lba:66350dd354f0",
@@ -1265,8 +1215,8 @@
     "date_publication": "2026-07-06",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:79fa5cda1a34": {
     "id": "lba:79fa5cda1a34",
@@ -1388,8 +1338,8 @@
     "date_publication": "2026-08-18",
     "date_debut": null,
     "first_seen": "2026-08-19T05:34:40Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:8348348aafe8": {
     "id": "lba:8348348aafe8",
@@ -1406,8 +1356,8 @@
     "date_publication": "2026-08-20",
     "date_debut": null,
     "first_seen": "2026-08-26T05:38:08Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:84aaa87b39c4": {
     "id": "lba:84aaa87b39c4",
@@ -1529,8 +1479,8 @@
     "date_publication": "2026-07-31",
     "date_debut": null,
     "first_seen": "2026-08-04T07:42:43Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:87e182cc725e": {
     "id": "lba:87e182cc725e",
@@ -2004,23 +1954,6 @@
     "closed_at": "2026-08-16T05:31:54Z",
     "active": false
   },
-  "lba:b2edb4669ad8": {
-    "id": "lba:b2edb4669ad8",
-    "source": "lba",
-    "entreprise": "SGAMI Ile-de-France / Préfecture de Police",
-    "intitule": "TECHNICIEN EN SYSTEMES EMBARQUES",
-    "ville": "75005 Paris 5e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-en-systemes-embarques-0",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-08",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
-    "active": false
-  },
   "lba:b423bb137136": {
     "id": "lba:b423bb137136",
     "source": "lba",
@@ -2105,8 +2038,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
@@ -2159,8 +2092,8 @@
     "date_publication": "2026-07-10",
     "date_debut": "2026-09-01",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:bc3b6512ced0": {
     "id": "lba:bc3b6512ced0",
@@ -2335,8 +2268,8 @@
     "date_publication": "2026-07-04",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:c812576d4836": {
     "id": "lba:c812576d4836",
@@ -2423,8 +2356,8 @@
     "date_publication": "2026-06-16",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:d2a5e70ea8cc": {
     "id": "lba:d2a5e70ea8cc",
@@ -2493,8 +2426,8 @@
     "date_publication": "2026-04-22",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-19T05:34:40Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
@@ -2529,23 +2462,6 @@
     "date_debut": "2026-09-01",
     "first_seen": "2026-07-26T07:38:36Z",
     "closed_at": "2026-08-15T05:28:52Z",
-    "active": false
-  },
-  "lba:e9e3f1e5fee7": {
-    "id": "lba:e9e3f1e5fee7",
-    "source": "lba",
-    "entreprise": "PIVAUDRAN",
-    "intitule": "Apprenti performance industrielle (H/F)",
-    "ville": "46200 Souillac",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/817014?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-20",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-18T07:02:07Z",
     "active": false
   },
   "lba:ea415bae0920": {
@@ -2632,8 +2548,8 @@
     "date_publication": "2026-08-27",
     "date_debut": null,
     "first_seen": "2026-08-28T17:13:19Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:f21dc8240a95": {
     "id": "lba:f21dc8240a95",
@@ -2756,8 +2672,8 @@
     "date_publication": "2026-08-25",
     "date_debut": null,
     "first_seen": "2026-08-26T05:38:08Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   },
   "lba:fe8d7a2f341b": {
     "id": "lba:fe8d7a2f341b",
@@ -2791,7 +2707,7 @@
     "date_publication": "2026-05-28",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-01T09:50:56Z",
+    "active": false
   }
 }
