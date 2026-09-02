@@ -16,6 +16,24 @@
     "closed_at": "2026-07-31T07:53:03Z",
     "active": false
   },
+  "lba:043dd8fff4a0": {
+    "id": "lba:043dd8fff4a0",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Technicien d'exploitation H/F",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a96f00850bc4e06f868bf51/technicien-d-exploitation-h-f",
+    "categorie": "Autre",
+    "date_publication": "2026-09-01",
+    "date_debut": "2026-10-01",
+    "first_seen": "2026-09-02T09:22:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:04700658e183": {
     "id": "lba:04700658e183",
     "source": "lba",
@@ -499,8 +517,8 @@
     "date_publication": "2026-08-31",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-01T09:50:56Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-09-02T09:22:45Z"
   },
   "lba:3249ccb08100": {
     "id": "lba:3249ccb08100",
@@ -1531,8 +1549,8 @@
     "date_publication": "2026-02-20",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-31T11:28:15Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:8a448ae6e578": {
     "id": "lba:8a448ae6e578",
@@ -1917,6 +1935,24 @@
     "first_seen": "2026-07-18T07:02:07Z",
     "closed_at": "2026-07-30T07:36:47Z",
     "active": false
+  },
+  "lba:a765b7a8f4d6": {
+    "id": "lba:a765b7a8f4d6",
+    "source": "lba",
+    "entreprise": "ISAE Supaero",
+    "intitule": "Apprenti.e Développeur.euse Edtech - BIS",
+    "ville": "31000 Toulouse",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-developpeureuse-edtech-bis",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-01",
+    "date_debut": "2026-11-14",
+    "first_seen": "2026-09-02T09:22:45Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:ab0f60b5bdfb": {
     "id": "lba:ab0f60b5bdfb",
@@ -2356,8 +2392,8 @@
     "date_publication": "2026-06-16",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-01T09:50:56Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:d2a5e70ea8cc": {
     "id": "lba:d2a5e70ea8cc",
@@ -2426,8 +2462,8 @@
     "date_publication": "2026-04-22",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-19T05:34:40Z",
-    "closed_at": "2026-09-01T09:50:56Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
@@ -2637,8 +2673,8 @@
     "date_publication": "2026-04-10",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:fbf8356bc6b2": {
     "id": "lba:fbf8356bc6b2",
@@ -2707,7 +2743,7 @@
     "date_publication": "2026-05-28",
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-01T09:50:56Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   }
 }
