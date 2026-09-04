@@ -173,23 +173,6 @@
     "closed_at": "2026-08-12T06:18:08Z",
     "active": false
   },
-  "lba:0d5aab891956": {
-    "id": "lba:0d5aab891956",
-    "source": "lba",
-    "entreprise": "COMMUNE DE EPERNAY",
-    "intitule": "APPRENTI H/F BTS SERVICES INFORMATIQUES AUX ORGANISATIONS (SIO) – Option SISR ou équivalent",
-    "ville": "7 BIS AVENUE DE CHAMPAGNE 51200 EPERNAY",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a293701d42244de8c4ec3a1/apprenti-h-f-bts-services-informatiques-aux-organisations-sio-option-sisr-ou-équivalent",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-10",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-21T07:34:39Z",
-    "active": false
-  },
   "lba:0e3b90474925": {
     "id": "lba:0e3b90474925",
     "source": "lba",
@@ -426,13 +409,13 @@
     "niveau": "",
     "duree_mois": 24,
     "teletravail": "",
-    "url": "https://www.jobposting.pro/emploi-2646795-120",
+    "url": "https://www.jobposting.pro/emploi-2688129-120",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-21",
+    "date_publication": "2026-09-03",
     "date_debut": null,
     "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:2908eea060bc": {
     "id": "lba:2908eea060bc",
@@ -642,23 +625,6 @@
     "closed_at": "2026-08-20T05:35:13Z",
     "active": false
   },
-  "lba:456c70868817": {
-    "id": "lba:456c70868817",
-    "source": "lba",
-    "entreprise": "FM Logistic",
-    "intitule": "FM Logistic - Informaticien / Informaticienne (H/F)",
-    "ville": "21110 Fauverney",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://recrutement.fmlogistic.com/fr/annonce/4468883-alternance-informaticien-infrastructure-hf-21110-fauverney?s_o=France+Travail&s_b=DigitalRecruiters",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-25",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-21T07:34:39Z",
-    "active": false
-  },
   "lba:46f0a5989a47": {
     "id": "lba:46f0a5989a47",
     "source": "lba",
@@ -797,8 +763,8 @@
     "date_publication": "2026-05-05",
     "date_debut": "2026-07-29",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-04T09:24:24Z",
+    "active": false
   },
   "lba:532212ff69ce": {
     "id": "lba:532212ff69ce",
@@ -973,8 +939,8 @@
     "date_publication": "2026-09-02",
     "date_debut": null,
     "first_seen": "2026-09-03T09:32:32Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-09-04T09:24:24Z"
   },
   "lba:64e2780a4b53": {
     "id": "lba:64e2780a4b53",
@@ -1484,23 +1450,6 @@
     "closed_at": "2026-07-30T07:36:47Z",
     "active": false
   },
-  "lba:89ff01e719d1": {
-    "id": "lba:89ff01e719d1",
-    "source": "lba",
-    "entreprise": "FRANCE TRAVAIL",
-    "intitule": "Offre APPRENTISSAGE Concepteur(trice) / développeur(euse) SI F/H",
-    "ville": "44000 Nantes",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://recrute.francetravail.org/Pages/Offre/detailoffre.aspx?idOffre=88435&idOrigine=502&LCID=1036&offerReference=2026-88435",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-18",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-21T07:34:39Z",
-    "active": false
-  },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
     "source": "lba",
@@ -1694,23 +1643,6 @@
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
     "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
-  },
-  "lba:9b9d08100854": {
-    "id": "lba:9b9d08100854",
-    "source": "lba",
-    "entreprise": "bioMérieux sa",
-    "intitule": "Informaticien / Informaticienne de développement (15569) (H/F)",
-    "ville": "69290 Craponne",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://biomerieux-sa.contactrh.com/jobs/6469/44258434",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-20",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-21T07:34:39Z",
     "active": false
   },
   "lba:9bf750feaa10": {
@@ -2153,23 +2085,6 @@
     "closed_at": "2026-08-17T05:38:37Z",
     "active": false
   },
-  "lba:c03f2998e290": {
-    "id": "lba:c03f2998e290",
-    "source": "lba",
-    "entreprise": "MI Secrétariat général",
-    "intitule": "Technicien supérieur en support informatique - BEAUVAU",
-    "ville": "75008 Paris 8e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-superieur-en-support-informatique-beauvau",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-18",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-21T07:34:39Z",
-    "active": false
-  },
   "lba:c0d194183200": {
     "id": "lba:c0d194183200",
     "source": "lba",
@@ -2291,8 +2206,8 @@
     "date_publication": "2026-09-02",
     "date_debut": null,
     "first_seen": "2026-09-03T09:32:32Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:cd8631344123": {
     "id": "lba:cd8631344123",
@@ -2390,13 +2305,13 @@
     "niveau": "",
     "duree_mois": 0,
     "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a71adc670f5c146a43ff46d/technicien-d-exploitation-h-f-niort",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a999e4706fad1942d11b619/technicien-d-exploitation-h-f-niort",
     "categorie": "Autre",
-    "date_publication": "2026-08-04",
+    "date_publication": "2026-09-03",
     "date_debut": "2026-09-01",
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-12T06:18:08Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:e6ca032226fb": {
     "id": "lba:e6ca032226fb",
@@ -2501,8 +2416,8 @@
     "date_publication": "2026-08-18",
     "date_debut": null,
     "first_seen": "2026-09-03T09:32:32Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ed6c57036161": {
     "id": "lba:ed6c57036161",
