@@ -487,6 +487,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:385588d6a7e4": {
+    "id": "lba:385588d6a7e4",
+    "source": "lba",
+    "entreprise": "NXO OCEAN INDIEN",
+    "intitule": "Apprenti.e Exploitant.e IT (H/F)",
+    "ville": "Chemin Finette 97490 Saint-Denis",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HRSB",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-03",
+    "date_debut": null,
+    "first_seen": "2026-09-06T09:13:21Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:393cddd4b5a5": {
     "id": "lba:393cddd4b5a5",
     "source": "lba",
@@ -1871,8 +1889,8 @@
     "date_publication": "2026-07-29",
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-06T09:13:21Z",
+    "active": false
   },
   "lba:b8503cc64efa": {
     "id": "lba:b8503cc64efa",
