@@ -277,8 +277,8 @@
     "date_publication": "2026-08-10",
     "date_debut": "2026-09-12",
     "first_seen": "2026-08-11T05:55:24Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-08T09:27:04Z",
+    "active": false
   },
   "lba:262fb7f48572": {
     "id": "lba:262fb7f48572",
@@ -805,8 +805,8 @@
     "date_publication": "2026-07-07",
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-08T09:27:04Z",
+    "active": false
   },
   "lba:66350dd354f0": {
     "id": "lba:66350dd354f0",
@@ -2039,6 +2039,24 @@
     "date_publication": "2026-09-07",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-07T10:01:53Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:e1eba1b717bd": {
+    "id": "lba:e1eba1b717bd",
+    "source": "lba",
+    "entreprise": "ETABLISSEMENTS LAVAL",
+    "intitule": "Chef(fe) de projet SI junior - ERP & Applications métiers",
+    "ville": "ZA DE CHEDIGNY 37310 CHEDIGNY",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9eb74406fad1942d143a57/chef-fe-de-projet-si-junior-erp-applications-métiers",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-07",
+    "date_debut": "2026-09-07",
+    "first_seen": "2026-09-08T09:27:04Z",
     "active": true,
     "closed_at": null
   },
