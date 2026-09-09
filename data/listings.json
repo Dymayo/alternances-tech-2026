@@ -333,23 +333,6 @@
     "active": false,
     "closed_at": "2026-09-02T09:22:45Z"
   },
-  "lba:3249ccb08100": {
-    "id": "lba:3249ccb08100",
-    "source": "lba",
-    "entreprise": "FERGUSS",
-    "intitule": "Développeur(se) Fullstack PHP / Symfony en Alternance - Préparation d’une formation de niveau bac +3 minimum F/H",
-    "ville": "69960 Corbas",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/15888342?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-09",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-26T07:38:36Z",
-    "active": false
-  },
   "lba:332c7c421f8a": {
     "id": "lba:332c7c421f8a",
     "source": "lba",
@@ -524,6 +507,24 @@
     "first_seen": "2026-08-15T05:28:52Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:46fae3ff7348": {
+    "id": "lba:46fae3ff7348",
+    "source": "lba",
+    "entreprise": "STE DIFFAZUR",
+    "intitule": "Développeur informatique junior (H/F)",
+    "ville": "06700 Saint-Laurent-du-Var",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JHQG",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-03",
+    "date_debut": null,
+    "first_seen": "2026-09-09T09:28:26Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -700,6 +701,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-07T06:10:51Z",
     "active": false
+  },
+  "lba:55bdcabe8dec": {
+    "id": "lba:55bdcabe8dec",
+    "source": "lba",
+    "entreprise": "ASSIST DEVELOPPEMENT INFORMATIQUE",
+    "intitule": "Analyste-programmeur / Analyste-programmeuse informatique",
+    "ville": "70 RUE DE L'ECOLE 47300 LEDAT",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa00a46a4090cbb976ec69b/analyste-programmeur-analyste-programmeuse-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-08",
+    "date_debut": "2026-09-08",
+    "first_seen": "2026-09-09T09:28:26Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -1476,23 +1495,6 @@
     "closed_at": "2026-08-07T06:10:51Z",
     "active": false
   },
-  "lba:9f50ee766d23": {
-    "id": "lba:9f50ee766d23",
-    "source": "lba",
-    "entreprise": "SPIE Groupe",
-    "intitule": "Alternance - Technicien télécom et réseaux H/F",
-    "ville": "69007 Lyon 7e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=SFIuNDMxMTcuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-11",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-26T07:38:36Z",
-    "active": false
-  },
   "lba:9f888e09fdfa": {
     "id": "lba:9f888e09fdfa",
     "source": "lba",
@@ -1702,23 +1704,6 @@
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
-  },
-  "lba:b7fdc07eb66c": {
-    "id": "lba:b7fdc07eb66c",
-    "source": "lba",
-    "entreprise": "FONDATION DU BOCAGE",
-    "intitule": "Administrateur Systèmes et Réseaux H/F (H/F)",
-    "ville": "73000 Chambéry",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210HJSR",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-25",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-26T07:38:36Z",
     "active": false
   },
   "lba:b83e5ca99cbe": {
@@ -1955,23 +1940,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:cf95eff70173": {
-    "id": "lba:cf95eff70173",
-    "source": "lba",
-    "entreprise": "ADVINI",
-    "intitule": "APPRENTI.E Technicien Système et Réseaux (H/F)",
-    "ville": "34725 Saint-Félix-de-Lodez",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/n39nk2j1gd8/apprenti-e-technicien-systeme-et-reseaux-h-f",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-21",
-    "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": "2026-07-26T07:38:36Z",
-    "active": false
-  },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
     "source": "lba",
@@ -2039,8 +2007,8 @@
     "date_publication": "2026-09-07",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-07T10:01:53Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-09T09:28:26Z",
+    "active": false
   },
   "lba:e1eba1b717bd": {
     "id": "lba:e1eba1b717bd",
@@ -2057,8 +2025,8 @@
     "date_publication": "2026-09-07",
     "date_debut": "2026-09-07",
     "first_seen": "2026-09-08T09:27:04Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e2fe93ed5f1e": {
     "id": "lba:e2fe93ed5f1e",
