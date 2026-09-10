@@ -51,6 +51,24 @@
     "closed_at": "2026-08-02T07:33:49Z",
     "active": false
   },
+  "lba:0493d3ed8d38": {
+    "id": "lba:0493d3ed8d38",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Technicien proximité (F/H)",
+    "ville": "Rue des Pays de la Loire 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa25860744920529fea9362/technicien-proximité-f-h",
+    "categorie": "Autre",
+    "date_publication": "2026-09-10",
+    "date_debut": "2026-10-01",
+    "first_seen": "2026-09-10T09:27:30Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
     "source": "lba",
@@ -435,8 +453,8 @@
     "date_publication": "2026-08-26",
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-10T09:27:30Z",
+    "active": false
   },
   "lba:401c4f46c083": {
     "id": "lba:401c4f46c083",
@@ -454,23 +472,6 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-04T07:42:43Z",
     "active": false
-  },
-  "lba:427b0894ede0": {
-    "id": "lba:427b0894ede0",
-    "source": "lba",
-    "entreprise": "Service du NUMérique",
-    "intitule": "Développeur - Programme PORTALIS",
-    "ville": "75019 Paris 19e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/developpeur-programme-portalis",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-24",
-    "first_seen": "2026-07-26T07:38:36Z",
-    "active": false,
-    "closed_at": "2026-07-27T08:35:08Z"
   },
   "lba:42b2a0adb8a0": {
     "id": "lba:42b2a0adb8a0",
@@ -523,8 +524,8 @@
     "date_publication": "2026-09-03",
     "date_debut": null,
     "first_seen": "2026-09-09T09:28:26Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4a151d4f9559": {
     "id": "lba:4a151d4f9559",
@@ -717,8 +718,8 @@
     "date_publication": "2026-09-08",
     "date_debut": "2026-09-08",
     "first_seen": "2026-09-09T09:28:26Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-09-10T09:27:30Z"
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -1426,6 +1427,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:980a70455a79": {
+    "id": "lba:980a70455a79",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Administrateur infrastructure H/F",
+    "ville": "Chemin de la Boire 44240 La Chapelle-sur-Erdre",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa14d05744920529fea0296/administrateur-infrastructure-h-f",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-09-09",
+    "date_debut": "2026-10-01",
+    "first_seen": "2026-09-10T09:27:30Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:9828c71fa51d": {
     "id": "lba:9828c71fa51d",
     "source": "lba",
@@ -1443,6 +1462,24 @@
     "closed_at": "2026-07-31T07:53:03Z",
     "active": false
   },
+  "lba:985996e697c3": {
+    "id": "lba:985996e697c3",
+    "source": "lba",
+    "entreprise": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
+    "intitule": "Chargé Système d'information des Ressources Humaines (H/F)",
+    "ville": "27100 Val-de-Reuil",
+    "contrat": "professionnalisation",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QJGG",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-09",
+    "date_debut": null,
+    "first_seen": "2026-09-10T09:27:30Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:9a467c789847": {
     "id": "lba:9a467c789847",
     "source": "lba",
@@ -1459,23 +1496,6 @@
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
     "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
-  },
-  "lba:9c9f1b2698c8": {
-    "id": "lba:9c9f1b2698c8",
-    "source": "lba",
-    "entreprise": "CUBE SARL",
-    "intitule": "Apprenti technicien(ne) Systèmes &amp; Réseaux Informatiques (H/F)",
-    "ville": "91160 Champlan",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/208TGPV",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-26",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-27T08:35:08Z",
     "active": false
   },
   "lba:9ea93d94af7d": {
@@ -1652,23 +1672,6 @@
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": "2026-08-16T05:31:54Z",
-    "active": false
-  },
-  "lba:b423bb137136": {
-    "id": "lba:b423bb137136",
-    "source": "lba",
-    "entreprise": "GROUPE IGF",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "8 RUE DE LA VEGA 75012 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a3d2e1c93947690a1ebcbfc/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-25",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-27T08:35:08Z",
     "active": false
   },
   "lba:b4989cb675ce": {
@@ -2061,8 +2064,8 @@
     "date_publication": "2026-04-22",
     "date_debut": "2026-09-14",
     "first_seen": "2026-08-19T05:34:40Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-10T09:27:30Z",
+    "active": false
   },
   "lba:e7fa7bac1ab6": {
     "id": "lba:e7fa7bac1ab6",
