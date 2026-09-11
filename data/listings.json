@@ -66,8 +66,8 @@
     "date_publication": "2026-09-10",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-10T09:27:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:05a59df609bc": {
     "id": "lba:05a59df609bc",
@@ -137,23 +137,6 @@
     "date_publication": "2026-06-23",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-07-31T07:53:03Z",
-    "active": false
-  },
-  "lba:0bbf20e50b46": {
-    "id": "lba:0bbf20e50b46",
-    "source": "lba",
-    "entreprise": "Inserm",
-    "intitule": "ALTERNANCE EN INFORMATIQUE - H/F",
-    "ville": "59000 Lille",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://inserm.softy.pro/offre/214527?idt=5&h=2145270",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-16",
-    "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": "2026-07-28T07:41:49Z",
     "active": false
   },
   "lba:0c833d106542": {
@@ -383,8 +366,8 @@
     "date_publication": "2026-08-07",
     "date_debut": null,
     "first_seen": "2026-08-08T05:44:58Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-11T09:26:04Z",
+    "active": false
   },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
@@ -1356,23 +1339,6 @@
     "closed_at": "2026-08-10T06:12:58Z",
     "active": false
   },
-  "lba:9166bf4ef7e5": {
-    "id": "lba:9166bf4ef7e5",
-    "source": "lba",
-    "entreprise": "Freeland",
-    "intitule": "Alternant Technicien Support &amp; Assistance F/H - Freeland",
-    "ville": "92400 Courbevoie",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://careers.werecruit.io/fr/freeland/offres/alternant-technicien-support--assistance-2b181e?utm_source=francetravail&utm_medium=job-board",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-14",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-28T07:41:49Z",
-    "active": false
-  },
   "lba:917002af9588": {
     "id": "lba:917002af9588",
     "source": "lba",
@@ -1442,8 +1408,8 @@
     "date_publication": "2026-09-09",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-10T09:27:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9828c71fa51d": {
     "id": "lba:9828c71fa51d",
@@ -1477,8 +1443,8 @@
     "date_publication": "2026-09-09",
     "date_debut": null,
     "first_seen": "2026-09-10T09:27:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9a467c789847": {
     "id": "lba:9a467c789847",
@@ -1585,23 +1551,6 @@
     "first_seen": "2026-07-28T07:41:49Z",
     "active": false,
     "closed_at": "2026-07-29T07:46:37Z"
-  },
-  "lba:a6557e1344a9": {
-    "id": "lba:a6557e1344a9",
-    "source": "lba",
-    "entreprise": "COMPAGNIE DE SAINT-GOBAIN",
-    "intitule": "Alternant(e) Chargé SIRH (H/F)",
-    "ville": "78700 Conflans-Sainte-Honorine",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=310242&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-02",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-28T07:41:49Z",
-    "active": false
   },
   "lba:a659bac6c409": {
     "id": "lba:a659bac6c409",
@@ -2046,8 +1995,8 @@
     "date_publication": "2026-09-03",
     "date_debut": "2026-09-01",
     "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-11T09:26:04Z",
+    "active": false
   },
   "lba:e6ca032226fb": {
     "id": "lba:e6ca032226fb",
