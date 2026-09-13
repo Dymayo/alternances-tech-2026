@@ -387,23 +387,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:393cddd4b5a5": {
-    "id": "lba:393cddd4b5a5",
-    "source": "lba",
-    "entreprise": "Direction générale de la police nationale",
-    "intitule": "Apprenti Concepteur / Développeur d’applications",
-    "ville": "93200 Saint-Denis",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-concepteur-developpeur-dapplications-0",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-16",
-    "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": "2026-07-30T07:36:47Z",
-    "active": false
-  },
   "lba:3d291f8f7b74": {
     "id": "lba:3d291f8f7b74",
     "source": "lba",
@@ -720,8 +703,8 @@
     "date_publication": "2026-09-11",
     "date_debut": null,
     "first_seen": "2026-09-12T09:07:01Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:58b5397adea6": {
     "id": "lba:58b5397adea6",
@@ -1200,23 +1183,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:87e182cc725e": {
-    "id": "lba:87e182cc725e",
-    "source": "lba",
-    "entreprise": "EMOVA GROUP",
-    "intitule": "Analyste développeur / Analyste développeuse",
-    "ville": "23 Rue d'Anjou 75008 Paris",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a34e73b4acef524be41ab97",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-19",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-30T07:36:47Z",
-    "active": false
-  },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
     "source": "lba",
@@ -1446,8 +1412,8 @@
     "date_publication": "2026-09-02",
     "date_debut": null,
     "first_seen": "2026-09-12T09:07:01Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-09-13T10:05:05Z"
   },
   "lba:9ea93d94af7d": {
     "id": "lba:9ea93d94af7d",
@@ -1518,23 +1484,6 @@
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
-  },
-  "lba:a659bac6c409": {
-    "id": "lba:a659bac6c409",
-    "source": "lba",
-    "entreprise": "FERRY-CAPITAIN",
-    "intitule": "Alternant(e) Cybersécurité H/F",
-    "ville": "52300 Joinville",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/820755?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-17",
-    "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": "2026-07-30T07:36:47Z",
     "active": false
   },
   "lba:a765b7a8f4d6": {
@@ -2072,23 +2021,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:ed6c57036161": {
-    "id": "lba:ed6c57036161",
-    "source": "lba",
-    "entreprise": "SGI",
-    "intitule": "Technicien / Technicienne système informatique",
-    "ville": "AVENUE DE LA CREATIVITE 59491 VILLENEUVE D ASCQ",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6724581ae407c4c7c58eeb/technicien-technicienne-système-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-27",
-    "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": "2026-07-30T07:36:47Z",
-    "active": false
-  },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
     "source": "lba",
@@ -2175,8 +2107,8 @@
     "date_publication": "2026-09-11",
     "date_debut": "2026-09-14",
     "first_seen": "2026-09-12T09:07:01Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f763319fcddc": {
     "id": "lba:f763319fcddc",
@@ -2231,23 +2163,6 @@
     "first_seen": "2026-08-26T05:38:08Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:fe8d7a2f341b": {
-    "id": "lba:fe8d7a2f341b",
-    "source": "lba",
-    "entreprise": "DISCOUNT INFORMATIQUE 64",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "1 AVENUE DE MINERVA 64600 ANGLET",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a22ce663838e57211339023/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-05",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-30T07:36:47Z",
-    "active": false
   },
   "lba:fff1bfb8ac6a": {
     "id": "lba:fff1bfb8ac6a",
