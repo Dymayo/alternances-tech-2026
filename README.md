@@ -13,7 +13,7 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 [Signalez-la ici](../../issues/new?template=signaler_offre.yml).
 
 <!-- BEGIN MAJ -->
-_Dernière mise à jour : 12/09/2026 09:07 UTC_
+_Dernière mise à jour : 13/09/2026 10:05 UTC_
 <!-- END MAJ -->
 
 ## Légende
@@ -28,26 +28,25 @@ _Dernière mise à jour : 12/09/2026 09:07 UTC_
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.
 
 <!-- BEGIN OFFRES -->
-### 20 offres actives
+### 19 offres actives
 
-## 🔐 Cybersécurité (16)
+## 🔐 Cybersécurité (15)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **OPEN** | 🆕 Ingénieur système Linux (F/H) | 92300 Levallois-Perret | Apprentissage · 36 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213SLZN) | 11/09/2026 (1j) |
-| **Fiducial** | Développeur Informatique Alternant (Lyon) H/F | 69001 Lyon | Indifférent | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.meteojob.com/jobs/56511788?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 02/09/2026 (10j) |
-| **Direction de l'administration pénitentiaire** | 🆕 APPRENTI CORRESPONDANT LOCAL DES SYSTEMES D'INFORMATIONS | 89440 Joux-la-Ville | Apprentissage · 12 mois | 14/09/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/apprenti-correspondant-local-des-systemes-dinformations) | 11/09/2026 (1j) |
-| **VEOLIA EAU - COMPAGNIE GENERALE DES EAUX** | 🆕 Chargé Système d'information des Ressources Humaines (H/F) | 27100 Val-de-Reuil | Contrat pro · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213QJGG) | 09/09/2026 (3j) |
-| **STE DIFFAZUR** | Développeur informatique junior (H/F) | 06700 Saint-Laurent-du-Var | Apprentissage · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213JHQG) | 03/09/2026 (9j) |
-| **ETABLISSEMENTS LAVAL** | 🆕 Chef(fe) de projet SI junior - ERP & Applications métiers | ZA DE CHEDIGNY 37310 CHEDIGNY | Indifférent · 24 mois | 07/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9eb74406fad1942d143a57/chef-fe-de-projet-si-junior-erp-applications-métiers) | 07/09/2026 (5j) |
-| **NXO OCEAN INDIEN** | Apprenti.e Exploitant.e IT (H/F) | Chemin Finette 97490 Saint-Denis | Apprentissage · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213HRSB) | 03/09/2026 (9j) |
-| **MINISTERE DE LA CULTURE** | Assistant informatique H/F | 94220 Charenton-le-Pont | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/maintenance-et-entretien/charenton-le-pont/assistant-informatique-h-f-732462651) | 18/08/2026 (25j) |
-| **SEPROLEC SAS** | Technicien(ne) Informatique &amp; Support bancs de test H/F | 14500 Vire Normandie | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/824167?utm_source=NQ==) | 25/08/2026 (18j) |
-| **IFCV APPRENTISSAGE** | Alternance - Chargé(e) de Missions Opérationnel & Relations Client | 70 RUE ANATOLE FRANCE | Apprentissage · 12 mois | 20/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a87033bdc67ee321f638d58/chargé-e-de-missions-opérationnel-relations-client) | 20/08/2026 (23j) |
-| **PARIS FASHION SHOPS - PFS** | Apprenti/e développeur/se informatique (H/F) | 93210 ST DENIS | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/212MBDM) | 14/08/2026 (29j) |
+| **OPEN** | 🆕 Ingénieur système Linux (F/H) | 92300 Levallois-Perret | Apprentissage · 36 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213SLZN) | 11/09/2026 (2j) |
+| **Direction de l'administration pénitentiaire** | 🆕 APPRENTI CORRESPONDANT LOCAL DES SYSTEMES D'INFORMATIONS | 89440 Joux-la-Ville | Apprentissage · 12 mois | 14/09/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/apprenti-correspondant-local-des-systemes-dinformations) | 11/09/2026 (2j) |
+| **VEOLIA EAU - COMPAGNIE GENERALE DES EAUX** | 🆕 Chargé Système d'information des Ressources Humaines (H/F) | 27100 Val-de-Reuil | Contrat pro · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213QJGG) | 09/09/2026 (4j) |
+| **STE DIFFAZUR** | Développeur informatique junior (H/F) | 06700 Saint-Laurent-du-Var | Apprentissage · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213JHQG) | 03/09/2026 (10j) |
+| **ETABLISSEMENTS LAVAL** | 🆕 Chef(fe) de projet SI junior - ERP & Applications métiers | ZA DE CHEDIGNY 37310 CHEDIGNY | Indifférent · 24 mois | 07/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9eb74406fad1942d143a57/chef-fe-de-projet-si-junior-erp-applications-métiers) | 07/09/2026 (6j) |
+| **NXO OCEAN INDIEN** | Apprenti.e Exploitant.e IT (H/F) | Chemin Finette 97490 Saint-Denis | Apprentissage · 12 mois | — | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/213HRSB) | 03/09/2026 (10j) |
+| **MINISTERE DE LA CULTURE** | Assistant informatique H/F | 94220 Charenton-le-Pont | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/maintenance-et-entretien/charenton-le-pont/assistant-informatique-h-f-732462651) | 18/08/2026 (26j) |
+| **SEPROLEC SAS** | Technicien(ne) Informatique &amp; Support bancs de test H/F | 14500 Vire Normandie | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.lindustrie-recrute.fr/candidat/offre/824167?utm_source=NQ==) | 25/08/2026 (19j) |
+| **IFCV APPRENTISSAGE** | Alternance - Chargé(e) de Missions Opérationnel & Relations Client | 70 RUE ANATOLE FRANCE | Apprentissage · 12 mois | 20/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a87033bdc67ee321f638d58/chargé-e-de-missions-opérationnel-relations-client) | 20/08/2026 (24j) |
+| **PARIS FASHION SHOPS - PFS** | Apprenti/e développeur/se informatique (H/F) | 93210 ST DENIS | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/212MBDM) | 14/08/2026 (30j) |
 | **CARVOLIX** | Alternant R&amp;D Logiciel Embarqué (H/F) | 25000 Besançon | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/211YJZH) | 31/07/2026 (1mo) |
 | **Groupe LDLC** | Groupe LDLC - Technicien / Technicienne informatique (H/F) | 33700 Mérignac | Contrat pro · 24 mois | — | — | [Postuler ↗](https://carrieres.groupe-ldlc.com/fr/annonce/4514943-technicien-informatique-en-apprentisage-hf-33700-merignac?s_o=France+Travail&s_b=DigitalRecruiters) | 23/07/2026 (1mo) |
-| **PARLYM** | Alternant Ingénieur projet - Sept 2026 - LYON (H/F) | 69001 Lyon 1er Arrondissement | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.jobposting.pro/emploi-2688129-120) | 03/09/2026 (9j) |
+| **PARLYM** | Alternant Ingénieur projet - Sept 2026 - LYON (H/F) | 69001 Lyon 1er Arrondissement | Apprentissage · 24 mois | — | — | [Postuler ↗](https://www.jobposting.pro/emploi-2688129-120) | 03/09/2026 (10j) |
 | **AUREIS FORMATION** | Administrateur / Administratrice de plateforme de service | 322 RUE DES PYRENEES 75020 PARIS | Apprentissage · 12 mois | 31/08/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a565b57a8013626d33ce8e9/administrateur-administratrice-de-plateforme-de-service) | 14/07/2026 (2mo) |
 | **DGA - Maitrise de l'information** | DGA/Maitrise de l'information/Apprenti/e – Développeur Logiciel  Cyber | 35170 Bruz | Apprentissage · 36 mois | 14/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/dgamaitrise-de-linformationapprentie-developpeur-logiciel-cyber) | 28/05/2026 (3mo) |
 
@@ -55,15 +54,15 @@ _Dernière mise à jour : 12/09/2026 09:07 UTC_
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **EXPERIS FRANCE** | 🆕 Administrateur infrastructure H/F | Chemin de la Boire 44240 La Chapelle-sur-Erdre | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa14d05744920529fea0296/administrateur-infrastructure-h-f) | 09/09/2026 (3j) |
-| **PROFILAE** | STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE &amp; DIGITALE (H/F) | 95870 Bezons | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/ie3shckjjf8/stage-alternance-graphiste-production-graphique-digitale) | 02/09/2026 (10j) |
+| **EXPERIS FRANCE** | 🆕 Administrateur infrastructure H/F | Chemin de la Boire 44240 La Chapelle-sur-Erdre | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa14d05744920529fea0296/administrateur-infrastructure-h-f) | 09/09/2026 (4j) |
+| **PROFILAE** | STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE &amp; DIGITALE (H/F) | 95870 Bezons | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/ie3shckjjf8/stage-alternance-graphiste-production-graphique-digitale) | 02/09/2026 (11j) |
 
 ## 📦 Autre (2)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **EXPERIS FRANCE** | 🆕 Technicien proximité (F/H) | Rue des Pays de la Loire 44300 Nantes | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa25860744920529fea9362/technicien-proximité-f-h) | 10/09/2026 (2j) |
-| **EXPERIS FRANCE** | Technicien d'exploitation H/F | Route de Saint Joseph 44300 Nantes | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a98488ffb0dd635d1a6d0a7/technicien-d-exploitation-h-f) | 02/09/2026 (10j) |
+| **EXPERIS FRANCE** | 🆕 Technicien proximité (F/H) | Rue des Pays de la Loire 44300 Nantes | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa25860744920529fea9362/technicien-proximité-f-h) | 10/09/2026 (3j) |
+| **EXPERIS FRANCE** | Technicien d'exploitation H/F | Route de Saint Joseph 44300 Nantes | Indifférent | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6a98488ffb0dd635d1a6d0a7/technicien-d-exploitation-h-f) | 02/09/2026 (11j) |
 
 
 <!-- END OFFRES -->
