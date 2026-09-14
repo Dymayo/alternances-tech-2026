@@ -1,21 +1,4 @@
 {
-  "lba:021f0d070ca3": {
-    "id": "lba:021f0d070ca3",
-    "source": "lba",
-    "entreprise": "C'LABO",
-    "intitule": "Technicien/ Technicienne informatique en alternance (H/F)",
-    "ville": "97427 L'Étang-Salé",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210SFKL",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-03",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-31T07:53:03Z",
-    "active": false
-  },
   "lba:043dd8fff4a0": {
     "id": "lba:043dd8fff4a0",
     "source": "lba",
@@ -120,23 +103,6 @@
     "date_debut": "2026-08-30",
     "first_seen": "2026-07-20T08:09:34Z",
     "closed_at": "2026-08-17T05:38:37Z",
-    "active": false
-  },
-  "lba:0b4c696e5c38": {
-    "id": "lba:0b4c696e5c38",
-    "source": "lba",
-    "entreprise": "Direction Générale de la Gendarmerie Nationale",
-    "intitule": "Développeur Web &amp; Innovation Numérique",
-    "ville": "31000 Toulouse",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/developpeur-web-innovation-numerique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-23",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-31T07:53:03Z",
     "active": false
   },
   "lba:0c833d106542": {
@@ -386,23 +352,6 @@
     "first_seen": "2026-09-06T09:13:21Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:3d291f8f7b74": {
-    "id": "lba:3d291f8f7b74",
-    "source": "lba",
-    "entreprise": "Université Technologique de Tarbes Occitanie Pyrénées",
-    "intitule": "Apprenti(e) Technicien-ne d'exploitation, d'assistance et de traitement de l'information",
-    "ville": "65000 Tarbes",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-technicien-ne-dexploitation-dassistance-et-de-traitement-de-linformation",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-29",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-31T07:53:03Z",
-    "active": false
   },
   "lba:3eb7ade65eb5": {
     "id": "lba:3eb7ade65eb5",
@@ -829,23 +778,6 @@
     "closed_at": "2026-08-03T08:33:20Z",
     "active": false
   },
-  "lba:6bbb6b1c3669": {
-    "id": "lba:6bbb6b1c3669",
-    "source": "lba",
-    "entreprise": "SNCF",
-    "intitule": "SNCF - ALTERNANCE - BAC +4/5 - Chargé(e) de Projets Formation &amp; Digital Learning (H/F)",
-    "ville": "69003 Lyon 3e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.altays-progiciels.com/sncf-recrutement-externe/back/offre/redirectOffreSiteCarriere/1?NoOffre=2806861&NoSociete=389&NoLangue=1&NoSource=16003",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-29",
-    "first_seen": "2026-07-30T07:36:47Z",
-    "active": false,
-    "closed_at": "2026-07-31T07:53:03Z"
-  },
   "lba:6c738ea0c4cf": {
     "id": "lba:6c738ea0c4cf",
     "source": "lba",
@@ -1094,23 +1026,6 @@
     "closed_at": "2026-08-03T08:33:20Z",
     "active": false
   },
-  "lba:86244a57c014": {
-    "id": "lba:86244a57c014",
-    "source": "lba",
-    "entreprise": "SECRETARIAT GENERAL POUR L'ADMINISTRATION DU MINISTERE DE L'INTERIEUR EST",
-    "intitule": "Apprenti(e) Administrateur d’Infrastructures Sécurisées au Bureau DATACENTER",
-    "ville": "10 RUE BELLE-ISLE 57000 METZ",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a50e51da8013626d3358f58/apprenti-e-administrateur-d-infrastructures-sécurisées-au-bureau-datacenter",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-10",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-31T07:53:03Z",
-    "active": false
-  },
   "lba:866f4b01c84b": {
     "id": "lba:866f4b01c84b",
     "source": "lba",
@@ -1323,8 +1238,8 @@
     "date_publication": "2026-07-14",
     "date_debut": "2026-08-31",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-14T10:27:01Z",
+    "active": false
   },
   "lba:980a70455a79": {
     "id": "lba:980a70455a79",
@@ -1343,23 +1258,6 @@
     "first_seen": "2026-09-10T09:27:30Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:9828c71fa51d": {
-    "id": "lba:9828c71fa51d",
-    "source": "lba",
-    "entreprise": "Groupe LDLC",
-    "intitule": "Groupe LDLC - Technicien / Technicienne informatique (H/F)",
-    "ville": "60200 Compiègne",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://carrieres.groupe-ldlc.com/fr/annonce/4491977-technicien-en-informatique-en-apprentissage-hf-60200-compiegne?s_o=France+Travail&s_b=DigitalRecruiters",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-09",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-07-31T07:53:03Z",
-    "active": false
   },
   "lba:985996e697c3": {
     "id": "lba:985996e697c3",
