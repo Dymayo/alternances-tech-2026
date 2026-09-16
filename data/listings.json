@@ -17,23 +17,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:04700658e183": {
-    "id": "lba:04700658e183",
-    "source": "lba",
-    "entreprise": "Euralis",
-    "intitule": "Alternant(e) Cybersécurité F/H",
-    "ville": "64230 Lescar",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/0oiy0rhelj8/alternant-e-cybersecurite-f-h",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-24",
-    "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": "2026-08-02T07:33:49Z",
-    "active": false
-  },
   "lba:0493d3ed8d38": {
     "id": "lba:0493d3ed8d38",
     "source": "lba",
@@ -671,8 +654,8 @@
     "date_publication": "2026-09-14",
     "date_debut": null,
     "first_seen": "2026-09-15T09:52:42Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-09-16T09:46:16Z"
   },
   "lba:5e5518388de0": {
     "id": "lba:5e5518388de0",
@@ -777,23 +760,6 @@
     "date_publication": "2026-06-03",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-03T08:33:20Z",
-    "active": false
-  },
-  "lba:6c738ea0c4cf": {
-    "id": "lba:6c738ea0c4cf",
-    "source": "lba",
-    "entreprise": "INSERM",
-    "intitule": "Apprentissage - Gestionnaire d’application métier F/H",
-    "ville": "75013 Paris 13e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentissage-gestionnaire-dapplication-metier-fh-0",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-22",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-02T07:33:49Z",
     "active": false
   },
   "lba:709c48ea88c9": {
@@ -1721,10 +1687,10 @@
     "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-administrateur-systeme-de-gestion-du-cycle-de-vie-des-certificats-sic-hf",
     "categorie": "Cybersécurité",
     "date_publication": "2026-06-16",
-    "date_debut": "2026-09-14",
+    "date_debut": "2026-10-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-03T09:32:32Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:df3fa35a1c02": {
     "id": "lba:df3fa35a1c02",
@@ -1833,23 +1799,6 @@
     "closed_at": "2026-08-15T05:28:52Z",
     "active": false
   },
-  "lba:ea415bae0920": {
-    "id": "lba:ea415bae0920",
-    "source": "lba",
-    "entreprise": "SIEGE GROUPE BIGARD",
-    "intitule": "ALTERNANCE - Technicien Informatique - F/H",
-    "ville": "29300 Quimperlé",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/dcprwwcunc8/alternance-technicien-informatique-f-h",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-24",
-    "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": "2026-08-02T07:33:49Z",
-    "active": false
-  },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
     "source": "lba",
@@ -1883,8 +1832,8 @@
     "date_publication": "2026-09-15",
     "date_debut": "2027-09-01",
     "first_seen": "2026-09-15T09:52:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ebc9b25c5e35": {
     "id": "lba:ebc9b25c5e35",
