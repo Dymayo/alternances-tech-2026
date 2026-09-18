@@ -178,23 +178,6 @@
     "closed_at": "2026-08-13T06:20:13Z",
     "active": false
   },
-  "lba:1f060ef70eff": {
-    "id": "lba:1f060ef70eff",
-    "source": "lba",
-    "entreprise": "COMPAGNIE DE SAINT-GOBAIN",
-    "intitule": "ALTERNANCE - Chargé(e) de projet (H/F)",
-    "ville": "92400 Courbevoie",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=304155&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-09",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-04T07:42:43Z",
-    "active": false
-  },
   "lba:20c33ebd28eb": {
     "id": "lba:20c33ebd28eb",
     "source": "lba",
@@ -335,23 +318,6 @@
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
     "closed_at": "2026-09-10T09:27:30Z",
-    "active": false
-  },
-  "lba:401c4f46c083": {
-    "id": "lba:401c4f46c083",
-    "source": "lba",
-    "entreprise": "CESI - Campus Nancy",
-    "intitule": "Concepteur·trice développeur·se d’applications en alternance H/F",
-    "ville": "54500 Nancy",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://cesirh.talentview.io/jobs/04bgry?source=la_bonne_alternance",
-    "categorie": "Développement",
-    "date_publication": "2025-12-05",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-04T07:42:43Z",
     "active": false
   },
   "lba:42b2a0adb8a0": {
@@ -869,23 +835,6 @@
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
-  "lba:7abf6564aa9c": {
-    "id": "lba:7abf6564aa9c",
-    "source": "lba",
-    "entreprise": "LABORATOIRE DUMANI",
-    "intitule": "Analyste-programmeur / Analyste-programmeuse gestion informatique",
-    "ville": "RUE DU CAPITAINE GEORGES 20130 CARGESE",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6a05cc1afdac9d88494091/analyste-programmeur-analyste-programmeuse-gestion-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-29",
-    "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": "2026-08-04T07:42:43Z",
     "active": false
   },
   "lba:7c11b546203c": {
@@ -1780,8 +1729,8 @@
     "date_publication": "2026-09-16",
     "date_debut": null,
     "first_seen": "2026-09-17T09:53:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:eaef04b1d990": {
     "id": "lba:eaef04b1d990",
