@@ -482,23 +482,6 @@
     "closed_at": "2026-08-12T06:18:08Z",
     "active": false
   },
-  "lba:542a1110651a": {
-    "id": "lba:542a1110651a",
-    "source": "lba",
-    "entreprise": "Ecole Nationale Vétérinaire de Toulouse",
-    "intitule": "Ingénieure junior / Ingénieur junior en développement d’applications _2026",
-    "ville": "31000 Toulouse",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/ingenieure-junior-ingenieur-junior-en-developpement-dapplications-2026",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-06",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-07T06:10:51Z",
-    "active": false
-  },
   "lba:55bdcabe8dec": {
     "id": "lba:55bdcabe8dec",
     "source": "lba",
@@ -1110,23 +1093,6 @@
     "active": false,
     "closed_at": "2026-09-13T10:05:05Z"
   },
-  "lba:9ea93d94af7d": {
-    "id": "lba:9ea93d94af7d",
-    "source": "lba",
-    "entreprise": "SPIE Groupe",
-    "intitule": "Alternance - Ingénieur / Ingénieure Infrastructures (H/F)",
-    "ville": "13001 Marseille 1er Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=SFIuNTc4NDYuNjcwNkBzcGllLmFwbGl0cmFrLmNvbQ",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-09",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-07T06:10:51Z",
-    "active": false
-  },
   "lba:9f888e09fdfa": {
     "id": "lba:9f888e09fdfa",
     "source": "lba",
@@ -1504,23 +1470,6 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:df3fa35a1c02": {
-    "id": "lba:df3fa35a1c02",
-    "source": "lba",
-    "entreprise": "SOCIETE NATIONALE SNCF",
-    "intitule": "ALTERNANCE BAC +3  - Gestionnaire informatique (H/F)",
-    "ville": "69000 LYON",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://emploi.sncf.com/nos-offres/783934?extId=2026-015114&source=sncf-prod&NoSociete=389&NoSource=16023%3Futm_source%3Dfrancetravail&utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-09",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-07T06:10:51Z",
-    "active": false
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
