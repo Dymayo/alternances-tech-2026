@@ -197,23 +197,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:2908eea060bc": {
-    "id": "lba:2908eea060bc",
-    "source": "lba",
-    "entreprise": "MANPOWER FRANCE",
-    "intitule": "Technicien d'exploitation (H/F)",
-    "ville": "38000 Grenoble",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/53630705?utm_source=pole-emploi&utm_medium=aggregator-free",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-25",
-    "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-09T05:49:28Z",
-    "active": false
-  },
   "lba:2c9e1ae2994f": {
     "id": "lba:2c9e1ae2994f",
     "source": "lba",
@@ -231,6 +214,24 @@
     "first_seen": "2026-09-01T09:50:56Z",
     "active": false,
     "closed_at": "2026-09-02T09:22:45Z"
+  },
+  "lba:2e3d0b07ecc8": {
+    "id": "lba:2e3d0b07ecc8",
+    "source": "lba",
+    "entreprise": "EDF",
+    "intitule": "Alternance - Conception moyen de test de développement de carte électronique embarquant du FPGA F/H",
+    "ville": "69001 Lyon",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27674?idOrigine=502",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-22",
+    "date_debut": "2026-11-16",
+    "first_seen": "2026-09-23T09:49:29Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:36740aaf034e": {
     "id": "lba:36740aaf034e",
@@ -283,8 +284,8 @@
     "date_publication": "2026-09-15",
     "date_debut": "2027-09-01",
     "first_seen": "2026-09-22T09:43:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3eb7ade65eb5": {
     "id": "lba:3eb7ade65eb5",
@@ -355,8 +356,8 @@
     "date_publication": "2026-09-03",
     "date_debut": null,
     "first_seen": "2026-09-09T09:28:26Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-23T09:49:29Z",
+    "active": false
   },
   "lba:4eebf6d5b6f5": {
     "id": "lba:4eebf6d5b6f5",
@@ -1199,8 +1200,8 @@
     "date_publication": "2026-09-21",
     "date_debut": null,
     "first_seen": "2026-09-22T09:43:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b086928febc7": {
     "id": "lba:b086928febc7",
