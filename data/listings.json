@@ -230,8 +230,8 @@
     "date_publication": "2026-09-22",
     "date_debut": "2026-11-16",
     "first_seen": "2026-09-23T09:49:29Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:36740aaf034e": {
     "id": "lba:36740aaf034e",
@@ -377,23 +377,6 @@
     "closed_at": "2026-09-01T09:50:56Z",
     "active": false
   },
-  "lba:4f8c4009fce4": {
-    "id": "lba:4f8c4009fce4",
-    "source": "lba",
-    "entreprise": "ELEMENTS IMPACT",
-    "intitule": "Alternance - Développeur Full Stack, pour contribuer à faire accélérer les projets à impact positif !",
-    "ville": "59700 Marcq-en-Barœul",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://jobs.makesense.org/fr/jobs/elements-impact-alternance-developpeur-full-stack-pour-contribuer-a-faire-accelerer-les-projets-a-impact-positif-FL3UlyO9okVitw4B5Iq5?source=api-apprentissage",
-    "categorie": "Développement",
-    "date_publication": "2026-06-17",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-10T06:12:58Z",
-    "active": false
-  },
   "lba:4fb282baf5af": {
     "id": "lba:4fb282baf5af",
     "source": "lba",
@@ -517,8 +500,8 @@
     "date_publication": "2026-07-23",
     "date_debut": null,
     "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-24T09:46:42Z",
+    "active": false
   },
   "lba:577b6900bba8": {
     "id": "lba:577b6900bba8",
@@ -869,16 +852,16 @@
     "intitule": "Alternant R&amp;D Logiciel Embarqué (H/F)",
     "ville": "25000 Besançon",
     "contrat": "apprentissage",
-    "niveau": "",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YJZH",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/214CZVT",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-07-31",
+    "date_publication": "2026-09-21",
     "date_debut": null,
     "first_seen": "2026-08-04T07:42:43Z",
-    "closed_at": "2026-09-22T09:43:50Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
@@ -950,23 +933,6 @@
     "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-12T06:18:08Z",
-    "active": false
-  },
-  "lba:90a98a5a9048": {
-    "id": "lba:90a98a5a9048",
-    "source": "lba",
-    "entreprise": "Siège de l'AP-HP",
-    "intitule": "Apprenti exploitant technique F/H",
-    "ville": "75012 Paris 12e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=RfGwuU6sClMDk46FaL5Brg==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-10",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-10T06:12:58Z",
     "active": false
   },
   "lba:917002af9588": {
@@ -1490,6 +1456,24 @@
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:d1521db739ce": {
+    "id": "lba:d1521db739ce",
+    "source": "lba",
+    "entreprise": "Institut National Universitaire Champollion",
+    "intitule": "Administrateur.trice systèmes (H/F)",
+    "ville": "81000 Albi",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/fvoaqafxhl8/administrateur-trice-systemes",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-23",
+    "date_debut": null,
+    "first_seen": "2026-09-24T09:46:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
