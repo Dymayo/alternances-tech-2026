@@ -194,8 +194,8 @@
     "date_publication": "2026-09-03",
     "date_debut": null,
     "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-25T10:04:35Z",
+    "active": false
   },
   "lba:2c9e1ae2994f": {
     "id": "lba:2c9e1ae2994f",
@@ -338,8 +338,8 @@
     "date_publication": "2026-08-14",
     "date_debut": null,
     "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-25T10:04:35Z",
+    "active": false
   },
   "lba:46fae3ff7348": {
     "id": "lba:46fae3ff7348",
@@ -376,24 +376,6 @@
     "first_seen": "2026-08-27T16:17:48Z",
     "closed_at": "2026-09-01T09:50:56Z",
     "active": false
-  },
-  "lba:4fb282baf5af": {
-    "id": "lba:4fb282baf5af",
-    "source": "lba",
-    "entreprise": "CEDRIC CONTENSOUZAS",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "15 RUE MICHELET 19200 USSEL",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a78b39b4a687277352685b4/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-09",
-    "date_debut": "2026-09-01",
-    "first_seen": "2026-08-10T06:12:58Z",
-    "active": false,
-    "closed_at": "2026-08-11T05:55:24Z"
   },
   "lba:519d81301888": {
     "id": "lba:519d81301888",
@@ -521,24 +503,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:58b5397adea6": {
-    "id": "lba:58b5397adea6",
-    "source": "lba",
-    "entreprise": "ETOILE SECOURS",
-    "intitule": "APPRENTI(e) TECHNICIEN INFORMATIQUE (H/F)",
-    "ville": "17420 Saint-Palais-sur-Mer",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MDVK",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-21",
-    "date_debut": null,
-    "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-08-11T05:55:24Z",
-    "active": false
-  },
   "lba:5b0855ff1c55": {
     "id": "lba:5b0855ff1c55",
     "source": "lba",
@@ -665,6 +629,24 @@
     "closed_at": "2026-08-27T16:17:48Z",
     "active": false
   },
+  "lba:73eb58e9d2c1": {
+    "id": "lba:73eb58e9d2c1",
+    "source": "lba",
+    "entreprise": "SCHEPPACH - FRANCE SARL",
+    "intitule": "Assistant ERP &amp; Support Opérationnel (H/F)",
+    "ville": "31700 Blagnac",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLFK",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-24",
+    "date_debut": null,
+    "first_seen": "2026-09-25T10:04:35Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:778b15524626": {
     "id": "lba:778b15524626",
     "source": "lba",
@@ -754,6 +736,24 @@
     "first_seen": "2026-07-29T07:46:37Z",
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
+  },
+  "lba:8259a120bfcc": {
+    "id": "lba:8259a120bfcc",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "IT Infrastructure Resilience Lead F/H",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ab5275e1b8f9e1e0837c132/it-infrastructure-resilience-lead-f-h",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-09-24",
+    "date_debut": "2026-11-02",
+    "first_seen": "2026-09-25T10:04:35Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:82f660a0fd48": {
     "id": "lba:82f660a0fd48",
@@ -1115,6 +1115,24 @@
     "closed_at": "2026-08-13T06:20:13Z",
     "active": false
   },
+  "lba:a75721ff6cfe": {
+    "id": "lba:a75721ff6cfe",
+    "source": "lba",
+    "entreprise": "CENTRE HOSPITALIER DE VALENCIENNES",
+    "intitule": "APPRENTI(E) Administrateur/Administratrice Réseaux (H/F)",
+    "ville": "59300 Valenciennes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://ch-valenciennes.nous-recrutons.fr/poste/9cg9a0vhpk-pole-13apprentie-administrateur-administratrice-reseaux/",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-09-24",
+    "date_debut": null,
+    "first_seen": "2026-09-25T10:04:35Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:a765b7a8f4d6": {
     "id": "lba:a765b7a8f4d6",
     "source": "lba",
@@ -1131,24 +1149,6 @@
     "date_debut": "2026-11-14",
     "first_seen": "2026-09-02T09:22:45Z",
     "closed_at": "2026-09-05T08:53:02Z",
-    "active": false
-  },
-  "lba:ab0f60b5bdfb": {
-    "id": "lba:ab0f60b5bdfb",
-    "source": "lba",
-    "entreprise": "LVD ENVIRONNEMENT",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "216 CHE DU CHARREL 13400 AUBAGNE",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70476ebb092dca9f11d386/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-03",
-    "date_debut": "2026-09-01",
-    "first_seen": "2026-08-03T08:33:20Z",
-    "closed_at": "2026-08-11T05:55:24Z",
     "active": false
   },
   "lba:afc8763fa734": {
@@ -1472,8 +1472,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-09-24T09:46:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
@@ -1671,24 +1671,6 @@
     "date_debut": null,
     "first_seen": "2026-07-28T07:41:49Z",
     "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
-  },
-  "lba:f57d52dbffae": {
-    "id": "lba:f57d52dbffae",
-    "source": "lba",
-    "entreprise": "COMPAGNIE DE SAINT-GOBAIN",
-    "intitule": "ALTERNANCE - Chargé(e) de Projet et Support SIRH (F/H) (H/F)",
-    "ville": "92400 Courbevoie",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=304161&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-16",
-    "date_debut": null,
-    "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": "2026-08-11T05:55:24Z",
     "active": false
   },
   "lba:f5c18d90d0a4": {
