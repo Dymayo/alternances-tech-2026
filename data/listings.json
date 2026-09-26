@@ -71,24 +71,6 @@
     "closed_at": "2026-08-17T05:38:37Z",
     "active": false
   },
-  "lba:0c833d106542": {
-    "id": "lba:0c833d106542",
-    "source": "lba",
-    "entreprise": "Sysco",
-    "intitule": "Alternance - Business Analyst H/F",
-    "ville": "69760 Limonest",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=TGFldGl0aWEuU2FtbXV0Ljc2OTU0LjY3MDZAc3lzY28uYXBsaXRyYWsuY29t",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-19",
-    "date_debut": null,
-    "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-12T06:18:08Z",
-    "active": false
-  },
   "lba:0f777b3ade65": {
     "id": "lba:0f777b3ade65",
     "source": "lba",
@@ -284,8 +266,8 @@
     "date_publication": "2026-09-15",
     "date_debut": "2027-09-01",
     "first_seen": "2026-09-22T09:43:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-26T09:45:34Z",
+    "active": false
   },
   "lba:3eb7ade65eb5": {
     "id": "lba:3eb7ade65eb5",
@@ -429,24 +411,6 @@
     "date_debut": null,
     "first_seen": "2026-08-01T07:30:09Z",
     "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
-  },
-  "lba:53a1d4365c38": {
-    "id": "lba:53a1d4365c38",
-    "source": "lba",
-    "entreprise": "CY CERGY PARIS UNIVERSITE",
-    "intitule": "Apprenti Développement et configuration dans un outil de Gestion électronique des documents (GED) et d’automatisation de processus (H/F)",
-    "ville": "95000 Cergy",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/q9648ws7j08/apprenti-developpement-et-configuration-dans-un-outil-de-gestion-electronique-des-documents-ged-et-d-automatisation-de-processus-h-f",
-    "categorie": "Embarqué & Électronique",
-    "date_publication": "2026-07-14",
-    "date_debut": null,
-    "first_seen": "2026-07-15T07:18:17Z",
-    "closed_at": "2026-08-12T06:18:08Z",
     "active": false
   },
   "lba:55bdcabe8dec": {
@@ -644,8 +608,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-09-25T10:04:35Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:778b15524626": {
     "id": "lba:778b15524626",
@@ -752,8 +716,8 @@
     "date_publication": "2026-09-24",
     "date_debut": "2026-11-02",
     "first_seen": "2026-09-25T10:04:35Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:82f660a0fd48": {
     "id": "lba:82f660a0fd48",
@@ -915,24 +879,6 @@
     "date_debut": null,
     "first_seen": "2026-07-21T07:34:39Z",
     "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
-  "lba:8e5a2693df09": {
-    "id": "lba:8e5a2693df09",
-    "source": "lba",
-    "entreprise": "BNP PARIBAS",
-    "intitule": "Alternance - Développeur Full Stack H/F",
-    "ville": "92000 Nanterre",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "hybride",
-    "url": "https://maazi.fr/job/alternance-developpeur-full-stack-h-f-bnp-paribas-bnp-paribas-cardif-hauts-de-seine?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=%20!A_CARNA26_0092",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-12",
-    "date_debut": "2026-09-07",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-12T06:18:08Z",
     "active": false
   },
   "lba:917002af9588": {
@@ -1130,8 +1076,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-09-25T10:04:35Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a765b7a8f4d6": {
     "id": "lba:a765b7a8f4d6",
@@ -1275,24 +1221,6 @@
     "date_debut": "2026-09-01",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-09-01T09:50:56Z",
-    "active": false
-  },
-  "lba:bc3b6512ced0": {
-    "id": "lba:bc3b6512ced0",
-    "source": "lba",
-    "entreprise": "RTE - Réseau de transport d'électricité",
-    "intitule": "Alternance - Développeur / codeur F/H",
-    "ville": "84310 Morières-lès-Avignon",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "hybride",
-    "url": "https://www.meteojob.com/jobs/53548062?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-04",
-    "date_debut": null,
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-12T06:18:08Z",
     "active": false
   },
   "lba:bc8436dfed7d": {
@@ -1636,6 +1564,24 @@
     "first_seen": "2026-09-03T09:32:32Z",
     "closed_at": "2026-09-19T09:18:19Z",
     "active": false
+  },
+  "lba:ec0220d8c82c": {
+    "id": "lba:ec0220d8c82c",
+    "source": "lba",
+    "entreprise": "AUTOMOTIVE CELLS COMPANY SE",
+    "intitule": "(ALTERNANCE) Chargé Génie Electrique F/H (H/F)",
+    "ville": "62138 Billy-Berclau",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://taleez.com/apply/-alternance-charge-genie-electrique-f-h-billy-berclau-acc-automotive-cells-company/applying",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-25",
+    "date_debut": null,
+    "first_seen": "2026-09-26T09:45:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
