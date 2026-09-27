@@ -125,24 +125,6 @@
     "closed_at": "2026-08-29T11:31:37Z",
     "active": false
   },
-  "lba:1e9ec37a0a7d": {
-    "id": "lba:1e9ec37a0a7d",
-    "source": "lba",
-    "entreprise": "ASSOCIATION IMC ALTERNANCE",
-    "intitule": "Alternance - Technicien(ne) Réseaux et Infrastructures Entreprises F/H",
-    "ville": "276 Avenue du Président Wilson 93210 Saint-Denis",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a217d4e3838e57211310c2e/alternance-technicien-ne-réseaux-et-infrastructures-entreprises-f-h",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-04",
-    "date_debut": "2026-07-27",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
-  },
   "lba:20c33ebd28eb": {
     "id": "lba:20c33ebd28eb",
     "source": "lba",
@@ -647,24 +629,6 @@
     "closed_at": "2026-09-01T09:50:56Z",
     "active": false
   },
-  "lba:79fa5cda1a34": {
-    "id": "lba:79fa5cda1a34",
-    "source": "lba",
-    "entreprise": "CNRS",
-    "intitule": "Bachelor Informatique spécialité Administrateur des Systèmes, Réseaux et Sécurité",
-    "ville": "54500 Vandœuvre-lès-Nancy",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/bachelor-informatique-specialite-administrateur-des-systemes-reseaux-et-securite",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-11",
-    "date_debut": "2026-09-14",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
-  },
   "lba:7a68390110b8": {
     "id": "lba:7a68390110b8",
     "source": "lba",
@@ -1043,24 +1007,6 @@
     "closed_at": "2026-08-27T16:17:48Z",
     "active": false
   },
-  "lba:a35dbaa7b3f2": {
-    "id": "lba:a35dbaa7b3f2",
-    "source": "lba",
-    "entreprise": "CRISTAL LASER",
-    "intitule": "Alternant IUT GEII H/F",
-    "ville": "54850 Messein",
-    "contrat": "professionnalisation",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XKPM",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-08",
-    "date_debut": null,
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-13T06:20:13Z",
-    "active": false
-  },
   "lba:a75721ff6cfe": {
     "id": "lba:a75721ff6cfe",
     "source": "lba",
@@ -1131,24 +1077,6 @@
     "date_debut": "2026-09-14",
     "first_seen": "2026-07-22T07:37:19Z",
     "closed_at": "2026-08-16T05:31:54Z",
-    "active": false
-  },
-  "lba:b6aaaacde725": {
-    "id": "lba:b6aaaacde725",
-    "source": "lba",
-    "entreprise": "CAPGEMINI TECHNOLOGY SERVICES",
-    "intitule": "Développeuse / Développeur C# - Alternance",
-    "ville": "30200 Bagnols-sur-Cèze",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/bagnols-sur-ceze/développeuse-développeur-c#-alternance-195784874",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-13",
-    "date_debut": null,
-    "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-13T06:20:13Z",
     "active": false
   },
   "lba:b83e5ca99cbe": {
@@ -1580,8 +1508,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-09-26T09:45:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
