@@ -467,24 +467,6 @@
     "active": false,
     "closed_at": "2026-09-16T09:46:16Z"
   },
-  "lba:600ec77be5b2": {
-    "id": "lba:600ec77be5b2",
-    "source": "lba",
-    "entreprise": "Défi RH",
-    "intitule": "Alternance Ingénieur Méthode (H/F)",
-    "ville": "62680 Méricourt",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hk29f5t74h8/alternance-ingenieur-methode-h-f",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-16",
-    "date_debut": null,
-    "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": "2026-08-14T06:17:46Z",
-    "active": false
-  },
   "lba:64c06ed4f935": {
     "id": "lba:64c06ed4f935",
     "source": "lba",
@@ -592,24 +574,6 @@
     "first_seen": "2026-09-25T10:04:35Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:778b15524626": {
-    "id": "lba:778b15524626",
-    "source": "lba",
-    "entreprise": "Trapil",
-    "intitule": "Alternance Ingénieur Méthodes Maintenance (H/F)",
-    "ville": "78300 Poissy",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/pdw28rl0si8/alternance-ingenieur-methodes-maintenance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-21",
-    "date_debut": null,
-    "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": "2026-08-14T06:17:46Z",
-    "active": false
   },
   "lba:799d2cf20cd9": {
     "id": "lba:799d2cf20cd9",
@@ -735,24 +699,6 @@
     "date_debut": "2026-08-24",
     "first_seen": "2026-08-25T05:35:39Z",
     "closed_at": "2026-09-05T08:53:02Z",
-    "active": false
-  },
-  "lba:8670dc29b4ad": {
-    "id": "lba:8670dc29b4ad",
-    "source": "lba",
-    "entreprise": "PLACE DES TENDANCES",
-    "intitule": "ALTERNANCE - Apprenti chef de projet service client H/F",
-    "ville": "93500 Pantin",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kGxMbaxZc+mp66Xl1EkQEg==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-22",
-    "date_debut": null,
-    "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-08-14T06:17:46Z",
     "active": false
   },
   "lba:86a9d0e614cb": {
@@ -970,24 +916,6 @@
     "first_seen": "2026-09-12T09:07:01Z",
     "active": false,
     "closed_at": "2026-09-13T10:05:05Z"
-  },
-  "lba:9f888e09fdfa": {
-    "id": "lba:9f888e09fdfa",
-    "source": "lba",
-    "entreprise": "CHAPUIS CHARLES",
-    "intitule": "Administrateur / Administratrice système et réseaux d'information et de communication",
-    "ville": "Route de Soulages 43500 Craponne-sur-Arzon",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a59efb84acef524be4c2ff1",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-17",
-    "date_debut": "2026-09-01",
-    "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": "2026-08-14T06:17:46Z",
-    "active": false
   },
   "lba:a292377582cd": {
     "id": "lba:a292377582cd",
@@ -1257,24 +1185,6 @@
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-21T05:36:18Z",
-    "active": false
-  },
-  "lba:c9536cca4282": {
-    "id": "lba:c9536cca4282",
-    "source": "lba",
-    "entreprise": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-    "intitule": "Administrateur LINUX pour conception de circuits intégrés H/F",
-    "ville": "91400 Saclay",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=ZHJ0Ljg5NTUwLjEzNjgwQGNlYWZyLmFwbGl0cmFrLmNvbQ",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-16",
-    "date_debut": "2026-10-01",
-    "first_seen": "2026-07-17T07:20:48Z",
-    "closed_at": "2026-08-14T06:17:46Z",
     "active": false
   },
   "lba:c9dbcb8583aa": {
