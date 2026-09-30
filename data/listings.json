@@ -467,6 +467,24 @@
     "active": false,
     "closed_at": "2026-09-16T09:46:16Z"
   },
+  "lba:5e81c6ce4de9": {
+    "id": "lba:5e81c6ce4de9",
+    "source": "lba",
+    "entreprise": "BOW MEDICAL",
+    "intitule": "Chef de projet fonctionnel F/H en contrat d’alternance",
+    "ville": "43 AVENUE D'ITALIE 80090 AMIENS",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abcd946c5256f3f6f916891/chef-de-projet-fonctionnel-f-h-en-contrat-d-alternance",
+    "categorie": "Développement",
+    "date_publication": "2026-09-30",
+    "date_debut": "2026-09-30",
+    "first_seen": "2026-09-30T11:01:02Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:64c06ed4f935": {
     "id": "lba:64c06ed4f935",
     "source": "lba",
@@ -989,24 +1007,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:b086928febc7": {
-    "id": "lba:b086928febc7",
-    "source": "lba",
-    "entreprise": "Direction générale de la police nationale",
-    "intitule": "Technicien d’exploitation – administrateur systèmes à DRHFS/BSNP/SAN",
-    "ville": "75012 Paris 12e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/technicien-dexploitation-administrateur-systemes-drhfsbsnpsan",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-06-26",
-    "date_debut": "2026-09-14",
-    "first_seen": "2026-07-22T07:37:19Z",
-    "closed_at": "2026-08-16T05:31:54Z",
-    "active": false
-  },
   "lba:b83e5ca99cbe": {
     "id": "lba:b83e5ca99cbe",
     "source": "lba",
@@ -1220,8 +1220,8 @@
     "date_publication": "2026-06-16",
     "date_debut": "2026-10-14",
     "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-09-30T11:01:02Z",
+    "active": false
   },
   "lba:d1521db739ce": {
     "id": "lba:d1521db739ce",
@@ -1256,8 +1256,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-09-29T11:12:35Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
