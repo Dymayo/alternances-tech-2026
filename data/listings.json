@@ -32,8 +32,8 @@
     "date_publication": "2026-09-10",
     "date_debut": "2026-10-01",
     "first_seen": "2026-09-10T09:27:30Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-01T11:27:32Z",
+    "active": false
   },
   "lba:07404f40e856": {
     "id": "lba:07404f40e856",
@@ -51,24 +51,6 @@
     "date_debut": "2026-09-07",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-20T05:35:13Z",
-    "active": false
-  },
-  "lba:09a42ad043e5": {
-    "id": "lba:09a42ad043e5",
-    "source": "lba",
-    "entreprise": "LITTLE BILL",
-    "intitule": "Développeur",
-    "ville": "69140 Rillieux-la-Pape",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://annoncesatlas.opco-atlas.fr/jobads/110970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Data & IA",
-    "date_publication": "2026-07-17",
-    "date_debut": "2026-08-30",
-    "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-17T05:38:37Z",
     "active": false
   },
   "lba:0f777b3ade65": {
@@ -194,8 +176,8 @@
     "date_publication": "2026-09-22",
     "date_debut": "2026-11-16",
     "first_seen": "2026-09-23T09:49:29Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-01T11:27:32Z",
+    "active": false
   },
   "lba:36740aaf034e": {
     "id": "lba:36740aaf034e",
@@ -431,6 +413,24 @@
     "closed_at": "2026-09-24T09:46:42Z",
     "active": false
   },
+  "lba:56aaad9ab761": {
+    "id": "lba:56aaad9ab761",
+    "source": "lba",
+    "entreprise": "ORT LYON",
+    "intitule": "Alternance - Concepteur Développeur Web Full Stack (F/H)",
+    "ville": "Lyon (69)",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57162845?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-29",
+    "date_debut": null,
+    "first_seen": "2026-10-01T11:27:32Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:577b6900bba8": {
     "id": "lba:577b6900bba8",
     "source": "lba",
@@ -446,8 +446,8 @@
     "date_publication": "2026-09-11",
     "date_debut": null,
     "first_seen": "2026-09-12T09:07:01Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-01T11:27:32Z",
+    "active": false
   },
   "lba:5b0855ff1c55": {
     "id": "lba:5b0855ff1c55",
@@ -482,8 +482,8 @@
     "date_publication": "2026-09-30",
     "date_debut": "2026-09-30",
     "first_seen": "2026-09-30T11:01:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:64c06ed4f935": {
     "id": "lba:64c06ed4f935",
@@ -1115,24 +1115,6 @@
     "closed_at": "2026-08-27T16:17:48Z",
     "active": false
   },
-  "lba:bfd5e047015f": {
-    "id": "lba:bfd5e047015f",
-    "source": "lba",
-    "entreprise": "NEXEREN",
-    "intitule": "Administrateur Système et Réseau",
-    "ville": "69140 Rillieux-la-Pape",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://annoncesatlas.opco-atlas.fr/jobads/110971?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-17",
-    "date_debut": "2026-08-30",
-    "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-17T05:38:37Z",
-    "active": false
-  },
   "lba:c11ff5a92f55": {
     "id": "lba:c11ff5a92f55",
     "source": "lba",
@@ -1202,8 +1184,8 @@
     "date_publication": "2026-09-02",
     "date_debut": null,
     "first_seen": "2026-09-03T09:32:32Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-01T11:27:32Z",
+    "active": false
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
@@ -1421,6 +1403,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:f08e41b0a998": {
+    "id": "lba:f08e41b0a998",
+    "source": "lba",
+    "entreprise": "Université de Poitiers",
+    "intitule": "Apprenti-e gestionnaire d'infrastructures - IAE (27120) (H/F)",
+    "ville": "86000 Poitiers",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 10,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/z2f3koctxr8/apprenti-e-gestionnaire-d-infrastructures-iae-27120",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-09-30",
+    "date_debut": null,
+    "first_seen": "2026-10-01T11:27:32Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
     "source": "lba",
@@ -1473,24 +1473,6 @@
     "date_debut": "2026-09-14",
     "first_seen": "2026-09-12T09:07:01Z",
     "closed_at": "2026-09-20T09:40:04Z",
-    "active": false
-  },
-  "lba:f763319fcddc": {
-    "id": "lba:f763319fcddc",
-    "source": "lba",
-    "entreprise": "OCEASOFT",
-    "intitule": "Technicien Support IT (en apprentissage) (H/F)",
-    "ville": "34000 Montpellier",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JDJR",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-17",
-    "date_debut": null,
-    "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": "2026-08-17T05:38:37Z",
     "active": false
   },
   "lba:faa6be367a92": {
