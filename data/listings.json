@@ -89,6 +89,24 @@
     "closed_at": "2026-08-28T17:13:19Z",
     "active": false
   },
+  "lba:1588cc665bf8": {
+    "id": "lba:1588cc665bf8",
+    "source": "lba",
+    "entreprise": "SPS TECHNOLOGY",
+    "intitule": "Technicien / Technicienne informatique",
+    "ville": "24 BOULEVARD PEBRE 13008 MARSEILLE",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abf7cffc5256f3f6f92a702/technicien-technicienne-informatique",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-02",
+    "date_debut": "2026-10-02",
+    "first_seen": "2026-10-02T10:57:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:15d3cea17e97": {
     "id": "lba:15d3cea17e97",
     "source": "lba",
@@ -323,24 +341,6 @@
     "closed_at": "2026-09-01T09:50:56Z",
     "active": false
   },
-  "lba:519d81301888": {
-    "id": "lba:519d81301888",
-    "source": "lba",
-    "entreprise": "IDEX ENERGIES",
-    "intitule": "Développeur d'Outils &amp; Projets Informatiques I Alternance | F/H",
-    "ville": "13080 Aix-en-Provence",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 0,
-    "teletravail": "",
-    "url": "https://www.aplitrak.com/?adid=QWx5c2VlLlByZXZvc3QuNjI2ODEuMTM2ODBAaWRleGZyLmFwbGl0cmFrLmNvbQ",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-07-20",
-    "date_debut": "2026-09-01",
-    "first_seen": "2026-07-21T07:34:39Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
     "source": "lba",
@@ -428,8 +428,8 @@
     "date_publication": "2026-09-29",
     "date_debut": null,
     "first_seen": "2026-10-01T11:27:32Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-02T10:57:45Z"
   },
   "lba:577b6900bba8": {
     "id": "lba:577b6900bba8",
@@ -539,24 +539,6 @@
     "active": false,
     "closed_at": "2026-08-19T05:34:40Z"
   },
-  "lba:7282e59f5b12": {
-    "id": "lba:7282e59f5b12",
-    "source": "lba",
-    "entreprise": "MW FRANCE",
-    "intitule": "Apprenti(e) Informatique H/F",
-    "ville": "02700 Tergnier",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/822427?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-05",
-    "date_debut": null,
-    "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
   "lba:73e218dd4067": {
     "id": "lba:73e218dd4067",
     "source": "lba",
@@ -611,24 +593,6 @@
     "closed_at": "2026-09-01T09:50:56Z",
     "active": false
   },
-  "lba:7a68390110b8": {
-    "id": "lba:7a68390110b8",
-    "source": "lba",
-    "entreprise": "ARKEMA France",
-    "intitule": "Technicien / Technicienne études électriques (20138) (H/F)",
-    "ville": "27470 Serquigny",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 36,
-    "teletravail": "",
-    "url": "https://arkema-france.contactrh.com/jobs/6469/44357651",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-05",
-    "date_debut": null,
-    "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
   "lba:7c11b546203c": {
     "id": "lba:7c11b546203c",
     "source": "lba",
@@ -647,6 +611,24 @@
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
   },
+  "lba:7d32927eee4c": {
+    "id": "lba:7d32927eee4c",
+    "source": "lba",
+    "entreprise": "Groupe Nicollin",
+    "intitule": "Groupe Nicollin - Technicien / Technicienne informatique (H/F)",
+    "ville": "34170 Castelnau-le-Lez",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://recrutement.groupenicollin.com/fr/annonce/4626203-technicien-support-informatique-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-01",
+    "date_debut": null,
+    "first_seen": "2026-10-02T10:57:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8259a120bfcc": {
     "id": "lba:8259a120bfcc",
     "source": "lba",
@@ -662,8 +644,8 @@
     "date_publication": "2026-09-24",
     "date_debut": "2026-11-02",
     "first_seen": "2026-09-25T10:04:35Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-02T10:57:45Z",
+    "active": false
   },
   "lba:82f660a0fd48": {
     "id": "lba:82f660a0fd48",
@@ -791,24 +773,6 @@
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
   },
-  "lba:8d2be4c291e8": {
-    "id": "lba:8d2be4c291e8",
-    "source": "lba",
-    "entreprise": "DGA Tech France Travail",
-    "intitule": "APPRENTISSAGE - CONCEPTEUR(TRICE) / DÉVELOPPEUR(EUSE) SI - H/F",
-    "ville": "44000 Nantes",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://recrutement-francetravail-tech.softy.pro/offre/210970?idt=5&h=2109700",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-06-18",
-    "date_debut": null,
-    "first_seen": "2026-07-21T07:34:39Z",
-    "closed_at": "2026-08-18T05:33:53Z",
-    "active": false
-  },
   "lba:917002af9588": {
     "id": "lba:917002af9588",
     "source": "lba",
@@ -896,8 +860,8 @@
     "date_publication": "2026-09-09",
     "date_debut": null,
     "first_seen": "2026-09-10T09:27:30Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-02T10:57:45Z",
+    "active": false
   },
   "lba:9a467c789847": {
     "id": "lba:9a467c789847",
@@ -934,6 +898,24 @@
     "first_seen": "2026-09-12T09:07:01Z",
     "active": false,
     "closed_at": "2026-09-13T10:05:05Z"
+  },
+  "lba:9e7f45da17ef": {
+    "id": "lba:9e7f45da17ef",
+    "source": "lba",
+    "entreprise": "GROUPE NICOLLIN",
+    "intitule": "Technicien support informatique H/F",
+    "ville": "34170 Castelnau-le-Lez",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57218907?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Développement",
+    "date_publication": "2026-10-01",
+    "date_debut": null,
+    "first_seen": "2026-10-02T10:57:45Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:a292377582cd": {
     "id": "lba:a292377582cd",
@@ -1041,24 +1023,6 @@
     "date_debut": "2026-07-27",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-08-21T05:36:18Z",
-    "active": false
-  },
-  "lba:ba2ac97e45c2": {
-    "id": "lba:ba2ac97e45c2",
-    "source": "lba",
-    "entreprise": "Chantiers de l'Atlantique",
-    "intitule": "Stage de cesure Développement Informatique H/F",
-    "ville": "44600 Saint-Nazaire",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 6,
-    "teletravail": "",
-    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=pHo3gwabgy1qA03wvL/rWA==",
-    "categorie": "Data & IA",
-    "date_publication": "2026-07-23",
-    "date_debut": null,
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-18T05:33:53Z",
     "active": false
   },
   "lba:bc21b544228e": {
@@ -1418,8 +1382,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-01T11:27:32Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
