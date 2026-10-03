@@ -104,8 +104,8 @@
     "date_publication": "2026-10-02",
     "date_debut": "2026-10-02",
     "first_seen": "2026-10-02T10:57:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:15d3cea17e97": {
     "id": "lba:15d3cea17e97",
@@ -521,24 +521,6 @@
     "closed_at": "2026-09-08T09:27:04Z",
     "active": false
   },
-  "lba:709c48ea88c9": {
-    "id": "lba:709c48ea88c9",
-    "source": "lba",
-    "entreprise": "CRISTAL UNION",
-    "intitule": "Alternant(e) Technicien d'Exploitation Informatique F/H",
-    "ville": "Corbeilles (45)",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-31",
-    "date_debut": null,
-    "first_seen": "2026-08-18T05:33:53Z",
-    "active": false,
-    "closed_at": "2026-08-19T05:34:40Z"
-  },
   "lba:73e218dd4067": {
     "id": "lba:73e218dd4067",
     "source": "lba",
@@ -626,8 +608,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-02T10:57:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8259a120bfcc": {
     "id": "lba:8259a120bfcc",
@@ -914,8 +896,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-02T10:57:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a292377582cd": {
     "id": "lba:a292377582cd",
