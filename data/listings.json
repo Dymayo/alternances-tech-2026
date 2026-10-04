@@ -35,24 +35,6 @@
     "closed_at": "2026-10-01T11:27:32Z",
     "active": false
   },
-  "lba:07404f40e856": {
-    "id": "lba:07404f40e856",
-    "source": "lba",
-    "entreprise": "EDF",
-    "intitule": "Alternance - Developpeur Application F/H",
-    "ville": "73400 Ugine",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-25879?idOrigine=502",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-04-02",
-    "date_debut": "2026-09-07",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-20T05:35:13Z",
-    "active": false
-  },
   "lba:0f777b3ade65": {
     "id": "lba:0f777b3ade65",
     "source": "lba",
@@ -230,8 +212,8 @@
     "date_publication": "2026-09-03",
     "date_debut": null,
     "first_seen": "2026-09-06T09:13:21Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-04T11:01:05Z",
+    "active": false
   },
   "lba:3e576a7bade3": {
     "id": "lba:3e576a7bade3",
@@ -267,24 +249,6 @@
     "date_debut": null,
     "first_seen": "2026-08-27T16:17:48Z",
     "closed_at": "2026-09-10T09:27:30Z",
-    "active": false
-  },
-  "lba:42b2a0adb8a0": {
-    "id": "lba:42b2a0adb8a0",
-    "source": "lba",
-    "entreprise": "DAILYVERY",
-    "intitule": "Technicien Conseil",
-    "ville": "2507 AVENUE DE L'EUROPE 69140 RILLIEUX-LA-PAPE",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a61e5031ae407c4c7bec774/technicien-conseil",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-23",
-    "date_debut": "2026-08-31",
-    "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-08-20T05:35:13Z",
     "active": false
   },
   "lba:46f0a5989a47": {
@@ -771,24 +735,6 @@
     "date_debut": null,
     "first_seen": "2026-08-06T07:42:50Z",
     "closed_at": "2026-08-21T05:36:18Z",
-    "active": false
-  },
-  "lba:91a23e6712ea": {
-    "id": "lba:91a23e6712ea",
-    "source": "lba",
-    "entreprise": "SAINT-GOBAIN DISTRIBUTION BATIMENT FRANCE",
-    "intitule": "Alternance - Assistant SIRH &amp; Data RH International (F/H) (H/F)",
-    "ville": "92400 Courbevoie",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=316063&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-24",
-    "date_debut": null,
-    "first_seen": "2026-07-26T07:38:36Z",
-    "closed_at": "2026-08-20T05:35:13Z",
     "active": false
   },
   "lba:96b2214f0a00": {
