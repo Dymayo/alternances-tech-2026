@@ -719,24 +719,6 @@
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
   },
-  "lba:917002af9588": {
-    "id": "lba:917002af9588",
-    "source": "lba",
-    "entreprise": "Thelem assurances",
-    "intitule": "Alternance - Chargé de gestion des outils collaboratifs M365 (F/H)",
-    "ville": "45430 Chécy",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/l75l23j4ya8/alternance-charge-de-gestion-des-outils-collaboratifs-m365-f-h",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-05",
-    "date_debut": null,
-    "first_seen": "2026-08-06T07:42:50Z",
-    "closed_at": "2026-08-21T05:36:18Z",
-    "active": false
-  },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
     "source": "lba",
@@ -914,8 +896,8 @@
     "date_publication": "2026-09-21",
     "date_debut": null,
     "first_seen": "2026-09-22T09:43:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-05T12:08:31Z",
+    "active": false
   },
   "lba:b83e5ca99cbe": {
     "id": "lba:b83e5ca99cbe",
@@ -933,24 +915,6 @@
     "date_debut": null,
     "first_seen": "2026-07-30T07:36:47Z",
     "closed_at": "2026-09-06T09:13:21Z",
-    "active": false
-  },
-  "lba:b8503cc64efa": {
-    "id": "lba:b8503cc64efa",
-    "source": "lba",
-    "entreprise": "ASSOCIATION IMC ALTERNANCE",
-    "intitule": "Technicien IT / Réseaux en alternance (H/F)",
-    "ville": "276 Avenue du Président Wilson 93210 Saint-Denis",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a2fcc775d74f81b70393ec2/technicien-it-réseaux-en-alternance-h-f",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-15",
-    "date_debut": "2026-07-27",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-21T05:36:18Z",
     "active": false
   },
   "lba:bc21b544228e": {
@@ -1041,24 +1005,6 @@
     "date_debut": null,
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-09-01T09:50:56Z",
-    "active": false
-  },
-  "lba:c812576d4836": {
-    "id": "lba:c812576d4836",
-    "source": "lba",
-    "entreprise": "BRM INDUSTRIE",
-    "intitule": "ALTERNANT AMÉLORATION CONTINUE H/F",
-    "ville": "60100 Creil",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/817027?utm_source=NQ==",
-    "categorie": "Développement",
-    "date_publication": "2026-06-24",
-    "date_debut": null,
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-21T05:36:18Z",
     "active": false
   },
   "lba:c9dbcb8583aa": {
