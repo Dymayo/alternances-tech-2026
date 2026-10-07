@@ -13,7 +13,7 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 [Signalez-la ici](../../issues/new?template=signaler_offre.yml).
 
 <!-- BEGIN MAJ -->
-_Dernière mise à jour : 06/10/2026 11:52 UTC_
+_Dernière mise à jour : 07/10/2026 11:37 UTC_
 <!-- END MAJ -->
 
 ## Légende
@@ -28,35 +28,33 @@ _Dernière mise à jour : 06/10/2026 11:52 UTC_
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.
 
 <!-- BEGIN OFFRES -->
-### 13 offres actives
+### 11 offres actives
 
-## 🔐 Cybersécurité (8)
+## 🔐 Cybersécurité (7)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **SPS TECHNOLOGY** | 🆕 Technicien / Technicienne informatique | 24 BOULEVARD PEBRE 13008 MARSEILLE | Apprentissage · 24 mois | 02/10/2026 | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abf7cffc5256f3f6f92a702/technicien-technicienne-informatique) | 02/10/2026 (4j) |
-| **Groupe Nicollin** | 🆕 Groupe Nicollin - Technicien / Technicienne informatique (H/F) | 34170 Castelnau-le-Lez | Contrat pro · 24 mois | — | — | [Postuler ↗](https://recrutement.groupenicollin.com/fr/annonce/4626203-technicien-support-informatique-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters) | 01/10/2026 (5j) |
-| **Université de Poitiers** | 🆕 Apprenti-e gestionnaire d'infrastructures - IAE (27120) (H/F) | 86000 Poitiers | Apprentissage · 10 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/z2f3koctxr8/apprenti-e-gestionnaire-d-infrastructures-iae-27120) | 30/09/2026 (6j) |
-| **AUTOMOTIVE CELLS COMPANY SE** | (ALTERNANCE) Chargé Génie Electrique F/H (H/F) | 62138 Billy-Berclau | Apprentissage | — | — | [Postuler ↗](https://taleez.com/apply/-alternance-charge-genie-electrique-f-h-billy-berclau-acc-automotive-cells-company/applying) | 25/09/2026 (11j) |
-| **SCHEPPACH - FRANCE SARL** | Assistant ERP &amp; Support Opérationnel (H/F) | 31700 Blagnac | Apprentissage · 24 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/214JLFK) | 24/09/2026 (12j) |
-| **Institut National Universitaire Champollion** | Administrateur.trice systèmes (H/F) | 81000 Albi | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/fvoaqafxhl8/administrateur-trice-systemes) | 23/09/2026 (13j) |
-| **Acadénice** | Alternant réparateur téléphone &amp; PC (H/F) | 06150 Cannes | Apprentissage · 12 mois | — | — | [Postuler ↗](https://jobaffinity.fr/apply/fprsmaztwmlmn5d6ck?src=FranceTravail%20API) | 16/09/2026 (20j) |
+| **SPS TECHNOLOGY** | 🆕 Technicien / Technicienne informatique | 24 BOULEVARD PEBRE 13008 MARSEILLE | Apprentissage · 24 mois | 02/10/2026 | Bac, Bac Pro, BP (Bac) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abf7cffc5256f3f6f92a702/technicien-technicienne-informatique) | 02/10/2026 (5j) |
+| **Groupe Nicollin** | 🆕 Groupe Nicollin - Technicien / Technicienne informatique (H/F) | 34170 Castelnau-le-Lez | Contrat pro · 24 mois | — | — | [Postuler ↗](https://recrutement.groupenicollin.com/fr/annonce/4626203-technicien-support-informatique-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters) | 01/10/2026 (6j) |
+| **Université de Poitiers** | Apprenti-e gestionnaire d'infrastructures - IAE (27120) (H/F) | 86000 Poitiers | Apprentissage · 10 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/z2f3koctxr8/apprenti-e-gestionnaire-d-infrastructures-iae-27120) | 30/09/2026 (7j) |
+| **AUTOMOTIVE CELLS COMPANY SE** | (ALTERNANCE) Chargé Génie Electrique F/H (H/F) | 62138 Billy-Berclau | Apprentissage | — | — | [Postuler ↗](https://taleez.com/apply/-alternance-charge-genie-electrique-f-h-billy-berclau-acc-automotive-cells-company/applying) | 25/09/2026 (12j) |
+| **SCHEPPACH - FRANCE SARL** | Assistant ERP &amp; Support Opérationnel (H/F) | 31700 Blagnac | Apprentissage · 24 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/214JLFK) | 24/09/2026 (13j) |
+| **Institut National Universitaire Champollion** | Administrateur.trice systèmes (H/F) | 81000 Albi | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/fvoaqafxhl8/administrateur-trice-systemes) | 23/09/2026 (14j) |
 | **IFCV APPRENTISSAGE** | Alternance - Chargé(e) de Missions Opérationnel & Relations Client | 70 RUE ANATOLE FRANCE | Apprentissage · 12 mois | 20/08/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a87033bdc67ee321f638d58/chargé-e-de-missions-opérationnel-relations-client) | 20/08/2026 (1mo) |
 
 ## 🌐 Réseaux, Cloud & Infra (1)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **CENTRE HOSPITALIER DE VALENCIENNES** | APPRENTI(E) Administrateur/Administratrice Réseaux (H/F) | 59300 Valenciennes | Apprentissage · 12 mois | — | — | [Postuler ↗](https://ch-valenciennes.nous-recrutons.fr/poste/9cg9a0vhpk-pole-13apprentie-administrateur-administratrice-reseaux/) | 24/09/2026 (12j) |
+| **CENTRE HOSPITALIER DE VALENCIENNES** | APPRENTI(E) Administrateur/Administratrice Réseaux (H/F) | 59300 Valenciennes | Apprentissage · 12 mois | — | — | [Postuler ↗](https://ch-valenciennes.nous-recrutons.fr/poste/9cg9a0vhpk-pole-13apprentie-administrateur-administratrice-reseaux/) | 24/09/2026 (13j) |
 
-## 💻 Développement (4)
+## 💻 Développement (3)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
-| **MAC LANE COMMUNICATIONS** | 🆕 Alternant(e) technicien(ne) informatique | 7 CHEMIN DE LA VALLEE GOUJON 78670 MEDAN | Apprentissage · 12 mois | 05/10/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ac3b6b43c60124707e6be63/alternant-e-technicien-ne-informatique) | 05/10/2026 (1j) |
-| **GROUPE NICOLLIN** | 🆕 Technicien support informatique H/F | 34170 Castelnau-le-Lez | Indifférent | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.meteojob.com/jobs/57218907?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 01/10/2026 (5j) |
-| **BOW MEDICAL** | 🆕 Chef de projet fonctionnel F/H en contrat d’alternance | 43 AVENUE D'ITALIE 80090 AMIENS | Indifférent · 12 mois | 30/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abcd946c5256f3f6f916891/chef-de-projet-fonctionnel-f-h-en-contrat-d-alternance) | 30/09/2026 (6j) |
-| **BOW MEDICAL** | Consultant fonctionnel / Consultante fonctionnelle de progiciel (H/F) | 31000 Toulouse | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/214KZJB) | 25/09/2026 (11j) |
+| **GROUPE NICOLLIN** | 🆕 Technicien support informatique H/F | 34170 Castelnau-le-Lez | Indifférent | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.meteojob.com/jobs/57218907?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 01/10/2026 (6j) |
+| **BOW MEDICAL** | Chef de projet fonctionnel F/H en contrat d’alternance | 43 AVENUE D'ITALIE 80090 AMIENS | Indifférent · 12 mois | 30/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abcd946c5256f3f6f916891/chef-de-projet-fonctionnel-f-h-en-contrat-d-alternance) | 30/09/2026 (7j) |
+| **BOW MEDICAL** | Consultant fonctionnel / Consultante fonctionnelle de progiciel (H/F) | 31000 Toulouse | Apprentissage · 12 mois | — | — | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/214KZJB) | 25/09/2026 (12j) |
 
 
 <!-- END OFFRES -->
