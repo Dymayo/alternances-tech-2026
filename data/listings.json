@@ -53,6 +53,24 @@
     "closed_at": "2026-08-26T05:38:08Z",
     "active": false
   },
+  "lba:10231c055eab": {
+    "id": "lba:10231c055eab",
+    "source": "lba",
+    "entreprise": "JP ENERGIE ENVIRONNEMENT",
+    "intitule": "Administrateur.rice Systèmes et Réseaux H/F (H/F)",
+    "ville": "14000 Caen",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://taleez.com/apply/administrateur-rice-systemes-et-reseaux-h-f-caen-jpee--/applying",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-07",
+    "date_debut": null,
+    "first_seen": "2026-10-08T11:52:00Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:111e55dbc1c3": {
     "id": "lba:111e55dbc1c3",
     "source": "lba",
@@ -86,8 +104,8 @@
     "date_publication": "2026-10-02",
     "date_debut": "2026-10-02",
     "first_seen": "2026-10-02T10:57:45Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-08T11:52:00Z",
+    "active": false
   },
   "lba:15d3cea17e97": {
     "id": "lba:15d3cea17e97",
@@ -1167,24 +1185,6 @@
     "date_debut": null,
     "first_seen": "2026-09-17T09:53:56Z",
     "closed_at": "2026-10-07T11:37:27Z",
-    "active": false
-  },
-  "lba:eaef04b1d990": {
-    "id": "lba:eaef04b1d990",
-    "source": "lba",
-    "entreprise": "SOCIETE D'HUISSIERS DE JUSTICE VERONIQUE MONNET - SOCIETE TITULAIRE D'UN OFFICE D'HUISSIERS DE JUSTICE",
-    "intitule": "Administrateur / Administratrice systèmes et réseaux",
-    "ville": "31 Cours de Verdun 01100 Oyonnax",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3b989c4acef524be44347a",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-24",
-    "date_debut": "2026-09-01",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-08-24T05:41:35Z",
     "active": false
   },
   "lba:eb0be365063d": {
