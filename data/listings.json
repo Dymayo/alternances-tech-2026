@@ -68,8 +68,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-08T11:52:00Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:111e55dbc1c3": {
     "id": "lba:111e55dbc1c3",
