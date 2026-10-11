@@ -14,8 +14,8 @@
     "date_publication": "2026-10-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:043dd8fff4a0": {
     "id": "lba:043dd8fff4a0",
@@ -68,8 +68,8 @@
     "date_publication": "2026-09-15",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0bf0fa26b09f": {
     "id": "lba:0bf0fa26b09f",
@@ -86,8 +86,8 @@
     "date_publication": "2026-10-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:10231c055eab": {
     "id": "lba:10231c055eab",
@@ -140,8 +140,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1588cc665bf8": {
     "id": "lba:1588cc665bf8",
@@ -194,8 +194,8 @@
     "date_publication": "2026-09-21",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1ac1738f7cc3": {
     "id": "lba:1ac1738f7cc3",
@@ -212,8 +212,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1b957975f141": {
     "id": "lba:1b957975f141",
@@ -230,8 +230,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:20c33ebd28eb": {
     "id": "lba:20c33ebd28eb",
@@ -284,8 +284,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2c9e1ae2994f": {
     "id": "lba:2c9e1ae2994f",
@@ -374,8 +374,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3e576a7bade3": {
     "id": "lba:3e576a7bade3",
@@ -428,8 +428,8 @@
     "date_publication": "2026-09-10",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:46f0a5989a47": {
     "id": "lba:46f0a5989a47",
@@ -482,8 +482,8 @@
     "date_publication": "2026-09-16",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-11T11:19:08Z"
   },
   "lba:4eebf6d5b6f5": {
     "id": "lba:4eebf6d5b6f5",
@@ -518,8 +518,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:520b494f16c1": {
     "id": "lba:520b494f16c1",
@@ -662,8 +662,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5c36a9f78cd3": {
     "id": "lba:5c36a9f78cd3",
@@ -680,8 +680,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5e81c6ce4de9": {
     "id": "lba:5e81c6ce4de9",
@@ -752,8 +752,8 @@
     "date_publication": "2026-09-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6cedeba79383": {
     "id": "lba:6cedeba79383",
@@ -770,8 +770,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:73e218dd4067": {
     "id": "lba:73e218dd4067",
@@ -932,8 +932,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:866f4b01c84b": {
     "id": "lba:866f4b01c84b",
@@ -1004,8 +1004,8 @@
     "date_publication": "2026-10-05",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:955f4825408d": {
     "id": "lba:955f4825408d",
@@ -1022,8 +1022,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:96b2214f0a00": {
     "id": "lba:96b2214f0a00",
@@ -1166,8 +1166,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-11T11:19:08Z"
   },
   "lba:a75721ff6cfe": {
     "id": "lba:a75721ff6cfe",
@@ -1238,8 +1238,8 @@
     "date_publication": "2026-10-05",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b83e5ca99cbe": {
     "id": "lba:b83e5ca99cbe",
@@ -1310,8 +1310,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bfa472f1ae50": {
     "id": "lba:bfa472f1ae50",
@@ -1382,8 +1382,8 @@
     "date_publication": "2026-10-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
@@ -1454,8 +1454,8 @@
     "date_publication": "2026-09-16",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-11T11:19:08Z"
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
@@ -1526,8 +1526,8 @@
     "date_publication": "2026-10-04",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e6ca032226fb": {
     "id": "lba:e6ca032226fb",
@@ -1616,8 +1616,8 @@
     "date_publication": "2026-09-10",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ec0220d8c82c": {
     "id": "lba:ec0220d8c82c",
@@ -1652,8 +1652,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f08e41b0a998": {
     "id": "lba:f08e41b0a998",
@@ -1760,8 +1760,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fddfbb4ffe33": {
     "id": "lba:fddfbb4ffe33",
