@@ -377,6 +377,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:3a6a26f02be5": {
+    "id": "lba:3a6a26f02be5",
+    "source": "lba",
+    "entreprise": "ELAP",
+    "intitule": "APPRENTI TECHNICIEN INFORMATIQUE SUPPORT SYSTEME RESEAUX (H/F)",
+    "ville": "83170 Brignoles",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6acc08c100af3511ff44b597/apprenti-technicien-informatique-support-systeme-reseaux-h-f",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-09",
+    "date_debut": null,
+    "first_seen": "2026-10-12T12:54:25Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3e576a7bade3": {
     "id": "lba:3e576a7bade3",
     "source": "lba",
@@ -537,24 +555,6 @@
     "date_debut": "2026-07-29",
     "first_seen": "2026-07-14T17:50:12Z",
     "closed_at": "2026-09-04T09:24:24Z",
-    "active": false
-  },
-  "lba:532212ff69ce": {
-    "id": "lba:532212ff69ce",
-    "source": "lba",
-    "entreprise": "TRANSPORTS CAILLOT",
-    "intitule": "Alternant Développeur Informatique (H/F)",
-    "ville": "51450 Bétheny",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XZDN",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-31",
-    "date_debut": null,
-    "first_seen": "2026-08-01T07:30:09Z",
-    "closed_at": "2026-08-27T16:17:48Z",
     "active": false
   },
   "lba:55bdcabe8dec": {
@@ -772,24 +772,6 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:73e218dd4067": {
-    "id": "lba:73e218dd4067",
-    "source": "lba",
-    "entreprise": "ASSOCIATION IMC ALTERNANCE",
-    "intitule": "Data Analyst – BTS SIO (F/H) – Alternance",
-    "ville": "276 Avenue du Président Wilson 93210 Saint-Denis",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67661b8bbc3358a678e074/data-analyst-bts-sio-f-h-alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-27",
-    "date_debut": "2026-07-27",
-    "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
   },
   "lba:73eb58e9d2c1": {
     "id": "lba:73eb58e9d2c1",
@@ -1079,24 +1061,6 @@
     "closed_at": "2026-10-02T10:57:45Z",
     "active": false
   },
-  "lba:9a467c789847": {
-    "id": "lba:9a467c789847",
-    "source": "lba",
-    "entreprise": "CRISTAL UNION",
-    "intitule": "Alternant(e) Technicien d'Exploitation Informatique F/H",
-    "ville": "45490 Corbeilles",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/53778538?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-23",
-    "date_debut": null,
-    "first_seen": "2026-08-15T05:28:52Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
-  },
   "lba:9d589db9443b": {
     "id": "lba:9d589db9443b",
     "source": "lba",
@@ -1132,24 +1096,6 @@
     "first_seen": "2026-10-02T10:57:45Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:a292377582cd": {
-    "id": "lba:a292377582cd",
-    "source": "lba",
-    "entreprise": "E.Leclerc",
-    "intitule": "E.Leclerc - Alternant(e) Technicien Service Client SI - H/F",
-    "ville": "97420 Le Port",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2867262&NoLangue=1&NoSource=16001",
-    "categorie": "Développement",
-    "date_publication": "2026-08-25",
-    "date_debut": null,
-    "first_seen": "2026-07-18T07:02:07Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
   },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
@@ -1312,24 +1258,6 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:bfa472f1ae50": {
-    "id": "lba:bfa472f1ae50",
-    "source": "lba",
-    "entreprise": "FEBUS Optics",
-    "intitule": "Alternant(e) Technicien(ne) Support Infrastructure &amp; Réseaux (H/F)",
-    "ville": "64000 Pau",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/820968?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-19",
-    "date_debut": null,
-    "first_seen": "2026-07-20T08:09:34Z",
-    "closed_at": "2026-08-27T16:17:48Z",
-    "active": false
   },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
@@ -1613,7 +1541,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pGWF0M&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83255720.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83255720",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-10",
+    "date_publication": "2026-10-10",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -1689,24 +1617,6 @@
     "date_debut": null,
     "first_seen": "2026-08-28T17:13:19Z",
     "closed_at": "2026-09-12T09:07:01Z",
-    "active": false
-  },
-  "lba:f21dc8240a95": {
-    "id": "lba:f21dc8240a95",
-    "source": "lba",
-    "entreprise": "PIXALIONE",
-    "intitule": "Alternance data, produit Saas &amp; marketing (H/F)",
-    "ville": "75015 Paris 15e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SPJS",
-    "categorie": "Data & IA",
-    "date_publication": "2026-07-27",
-    "date_debut": null,
-    "first_seen": "2026-07-28T07:41:49Z",
-    "closed_at": "2026-08-27T16:17:48Z",
     "active": false
   },
   "lba:f5c18d90d0a4": {
