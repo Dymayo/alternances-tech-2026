@@ -107,24 +107,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:111e55dbc1c3": {
-    "id": "lba:111e55dbc1c3",
-    "source": "lba",
-    "entreprise": "SOCIETE PUBLIQUE LOCALE AEROPORTUAIRE REGIONALE",
-    "intitule": "Administrateur systèmes et réseaux en alternance (H/F)",
-    "ville": "65290 Juillan",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/212QWBF",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-19",
-    "date_debut": null,
-    "first_seen": "2026-08-20T05:35:13Z",
-    "closed_at": "2026-08-28T17:13:19Z",
-    "active": false
-  },
   "lba:12963cbe5bc7": {
     "id": "lba:12963cbe5bc7",
     "source": "lba",
@@ -159,24 +141,6 @@
     "date_debut": "2026-10-02",
     "first_seen": "2026-10-02T10:57:45Z",
     "closed_at": "2026-10-08T11:52:00Z",
-    "active": false
-  },
-  "lba:15d3cea17e97": {
-    "id": "lba:15d3cea17e97",
-    "source": "lba",
-    "entreprise": "Wink",
-    "intitule": "Growth Marketing - B2B SaaS (H/F)",
-    "ville": "75008 Paris 8e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://career.wink-lab.com/apply/350583a6-41fc-4e11-8d14-1d80fda26363?utm_source=francetravailbasic",
-    "categorie": "Data & IA",
-    "date_publication": "2026-07-29",
-    "date_debut": null,
-    "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": "2026-08-29T11:31:37Z",
     "active": false
   },
   "lba:1a271cc3189f": {
@@ -284,8 +248,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-13T12:32:12Z",
+    "active": false
   },
   "lba:2c9e1ae2994f": {
     "id": "lba:2c9e1ae2994f",
@@ -392,8 +356,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-12T12:54:25Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3e576a7bade3": {
     "id": "lba:3e576a7bade3",
@@ -443,7 +407,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pJ8B5x&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77846609.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D77846609",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-09-10",
+    "date_publication": "2026-10-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -749,7 +713,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=pJbIi7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-09-11",
+    "date_publication": "2026-10-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -770,8 +734,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-13T12:32:12Z",
+    "active": false
   },
   "lba:73eb58e9d2c1": {
     "id": "lba:73eb58e9d2c1",
@@ -1670,8 +1634,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-13T12:32:12Z",
+    "active": false
   },
   "lba:fddfbb4ffe33": {
     "id": "lba:fddfbb4ffe33",
