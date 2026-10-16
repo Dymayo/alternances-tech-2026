@@ -68,8 +68,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:058ec93b68f0": {
     "id": "lba:058ec93b68f0",
@@ -104,8 +104,8 @@
     "date_publication": "2026-10-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-16T09:35:09Z",
+    "active": false
   },
   "lba:10231c055eab": {
     "id": "lba:10231c055eab",
@@ -135,13 +135,31 @@
     "niveau": "BTS, DEUST (Bac+2)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=wBnOrE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
+    "url": "https://r.holeest.com/redirect?jd_token=xm3ji7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
     "categorie": "Cybersécurité",
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": "2026-10-15T09:41:19Z",
-    "active": false
+    "closed_at": null,
+    "active": true
+  },
+  "lba:14c10b17bb12": {
+    "id": "lba:14c10b17bb12",
+    "source": "lba",
+    "entreprise": "ETABLISSEMENTS MILER",
+    "intitule": "Informaticien / Informaticienne",
+    "ville": "ZAC DE SALVANGES 55000 SAVONNIERES-DEVANT-BAR",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad0d33ada1d354d04f4c85c/informaticien-informaticienne",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-15",
+    "date_debut": "2026-10-15",
+    "first_seen": "2026-10-16T09:35:09Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:1588cc665bf8": {
     "id": "lba:1588cc665bf8",
@@ -176,8 +194,8 @@
     "date_publication": "2026-09-21",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-16T09:35:09Z",
+    "active": false
   },
   "lba:1ac1738f7cc3": {
     "id": "lba:1ac1738f7cc3",
@@ -986,8 +1004,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:948b041e956f": {
     "id": "lba:948b041e956f",
@@ -1130,8 +1148,8 @@
     "date_publication": "2026-10-15",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
@@ -1310,8 +1328,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c4bbc7ab9e9d": {
     "id": "lba:c4bbc7ab9e9d",
@@ -1400,8 +1418,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-09-24T09:46:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-16T09:35:09Z",
+    "active": false
   },
   "lba:d1c6c5f185eb": {
     "id": "lba:d1c6c5f185eb",
@@ -1418,8 +1436,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-09-29T11:12:35Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-16T09:35:09Z",
+    "active": false
   },
   "lba:d6058aea8cc2": {
     "id": "lba:d6058aea8cc2",
@@ -1451,7 +1469,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=wkGkb3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81301139.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D81301139",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-09-14",
+    "date_publication": "2026-10-15",
     "date_debut": null,
     "first_seen": "2026-10-14T09:59:23Z",
     "closed_at": null,
@@ -1670,8 +1688,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-01T11:27:32Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-16T09:35:09Z",
+    "active": false
   },
   "lba:f0c981597ec4": {
     "id": "lba:f0c981597ec4",
@@ -1724,8 +1742,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:faa6be367a92": {
     "id": "lba:faa6be367a92",
