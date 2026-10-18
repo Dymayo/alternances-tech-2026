@@ -140,8 +140,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-18T09:23:59Z",
+    "active": false
   },
   "lba:14c10b17bb12": {
     "id": "lba:14c10b17bb12",
@@ -304,24 +304,6 @@
     "first_seen": "2026-10-14T09:59:23Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:2c9e1ae2994f": {
-    "id": "lba:2c9e1ae2994f",
-    "source": "lba",
-    "entreprise": "INFASS SYSTEMES",
-    "intitule": "Administrateur / Administratrice système et réseaux d'information et de communication",
-    "ville": "92 RUE DE LA GLACIERE 91230 MONTGERON",
-    "contrat": "professionnalisation",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a954308896188246aced895/administrateur-administratrice-système-et-réseaux-d-information-et-de-communication",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-31",
-    "date_debut": "2026-10-01",
-    "first_seen": "2026-09-01T09:50:56Z",
-    "active": false,
-    "closed_at": "2026-09-02T09:22:45Z"
   },
   "lba:2e3d0b07ecc8": {
     "id": "lba:2e3d0b07ecc8",
@@ -536,8 +518,8 @@
     "date_publication": "2026-10-16",
     "date_debut": null,
     "first_seen": "2026-10-17T09:06:19Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-18T09:23:59Z"
   },
   "lba:505d1d5abe7a": {
     "id": "lba:505d1d5abe7a",
@@ -718,6 +700,24 @@
     "first_seen": "2026-09-30T11:01:02Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:63acc5e146a4": {
+    "id": "lba:63acc5e146a4",
+    "source": "lba",
+    "entreprise": "DELIBERATA",
+    "intitule": "Consultant(e) en Transformation Digitale (business intelligence, data scientist, IA, machine learning, …)",
+    "ville": "13 RUE DE L'EGLISE 76560 BENESVILLE",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad38d862c77d038809d6e45/consultant-e-en-transformation-digitale-business-intelligence-data-scientist-ia-machine-learning",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-17",
+    "date_debut": "2026-10-17",
+    "first_seen": "2026-10-18T09:23:59Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:64c06ed4f935": {
     "id": "lba:64c06ed4f935",
@@ -950,8 +950,8 @@
     "date_publication": "2026-10-16",
     "date_debut": "2026-10-11",
     "first_seen": "2026-10-17T09:06:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8a113d0736a3": {
     "id": "lba:8a113d0736a3",
