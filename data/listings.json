@@ -132,16 +132,16 @@
     "intitule": "Alternance - Ingénieur Microcontrollerr - Rtos - Asil-D H/F",
     "ville": "78000 Versailles",
     "contrat": "indifferent",
-    "niveau": "BTS, DEUST (Bac+2)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=y931qu&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
+    "url": "https://r.holeest.com/redirect?jd_token=zhyCSa&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
     "categorie": "Cybersécurité",
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": "2026-10-18T09:23:59Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:14c10b17bb12": {
     "id": "lba:14c10b17bb12",
@@ -734,8 +734,8 @@
     "date_publication": "2026-10-18",
     "date_debut": "2026-10-18",
     "first_seen": "2026-10-19T10:36:40Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-20T09:53:55Z"
   },
   "lba:6a2bbd68908b": {
     "id": "lba:6a2bbd68908b",
@@ -881,24 +881,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:866f4b01c84b": {
-    "id": "lba:866f4b01c84b",
-    "source": "lba",
-    "entreprise": "FACTORY 456",
-    "intitule": "Informaticien / Informaticienne",
-    "ville": "10 PLACE FRANCOISE HERITIER 34000 MONTPELLIER",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c40d2a9f7e898624c620b/informaticien-informaticienne",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-24",
-    "date_debut": "2026-08-24",
-    "first_seen": "2026-08-25T05:35:39Z",
-    "closed_at": "2026-09-05T08:53:02Z",
-    "active": false
-  },
   "lba:86efb3b61221": {
     "id": "lba:86efb3b61221",
     "source": "lba",
@@ -930,7 +912,7 @@
     "url": "https://r.holeest.com/redirect?jd_token=yf6EP2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84527125.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84527125",
     "categorie": "Cybersécurité",
     "date_publication": "2026-10-16",
-    "date_debut": "2026-10-11",
+    "date_debut": "2026-10-18",
     "first_seen": "2026-10-17T09:06:19Z",
     "closed_at": null,
     "active": true
@@ -1133,24 +1115,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:a765b7a8f4d6": {
-    "id": "lba:a765b7a8f4d6",
-    "source": "lba",
-    "entreprise": "ISAE Supaero",
-    "intitule": "Apprenti.e Développeur.euse Edtech - BIS",
-    "ville": "31000 Toulouse",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-developpeureuse-edtech-bis",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-01",
-    "date_debut": "2026-11-14",
-    "first_seen": "2026-09-02T09:22:45Z",
-    "closed_at": "2026-09-05T08:53:02Z",
-    "active": false
-  },
   "lba:afc8763fa734": {
     "id": "lba:afc8763fa734",
     "source": "lba",
@@ -1220,8 +1184,8 @@
     "date_publication": "2026-08-20",
     "date_debut": "2026-08-20",
     "first_seen": "2026-08-21T05:36:18Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-20T09:53:55Z",
+    "active": false
   },
   "lba:bd70051f45b0": {
     "id": "lba:bd70051f45b0",
@@ -1238,8 +1202,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-20T09:53:55Z",
+    "active": false
   },
   "lba:c0e092518b59": {
     "id": "lba:c0e092518b59",
@@ -1256,8 +1220,8 @@
     "date_publication": "2026-10-19",
     "date_debut": "2026-10-19",
     "first_seen": "2026-10-19T10:36:40Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c367cde4cd83": {
     "id": "lba:c367cde4cd83",
@@ -1400,8 +1364,8 @@
     "date_publication": "2026-10-15",
     "date_debut": null,
     "first_seen": "2026-10-14T09:59:23Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-20T09:53:55Z",
+    "active": false
   },
   "lba:e14f91c1fd9f": {
     "id": "lba:e14f91c1fd9f",
