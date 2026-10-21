@@ -140,8 +140,8 @@
     "date_publication": "2026-09-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-21T09:54:41Z",
+    "active": false
   },
   "lba:14c10b17bb12": {
     "id": "lba:14c10b17bb12",
@@ -179,6 +179,24 @@
     "closed_at": "2026-10-08T11:52:00Z",
     "active": false
   },
+  "lba:16f975d555c0": {
+    "id": "lba:16f975d555c0",
+    "source": "lba",
+    "entreprise": "SAS WOODOO",
+    "intitule": "ALTERNANCE - Développeur·se Full Stack – Industrie 4.0 (H/F)",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/woodoo-alternance-developpeurse-full-stack-industrie-40-hf-yGvoUSTAta9bd4OUhj3X?source=api-apprentissage",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-20",
+    "date_debut": null,
+    "first_seen": "2026-10-21T09:54:41Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:1a271cc3189f": {
     "id": "lba:1a271cc3189f",
     "source": "lba",
@@ -212,8 +230,8 @@
     "date_publication": "2026-09-23",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-21T09:54:41Z",
+    "active": false
   },
   "lba:1b957975f141": {
     "id": "lba:1b957975f141",
@@ -912,7 +930,7 @@
     "url": "https://r.holeest.com/redirect?jd_token=yf6EP2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84527125.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84527125",
     "categorie": "Cybersécurité",
     "date_publication": "2026-10-16",
-    "date_debut": "2026-10-18",
+    "date_debut": "2026-10-19",
     "first_seen": "2026-10-17T09:06:19Z",
     "closed_at": null,
     "active": true
@@ -1150,24 +1168,6 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:b83e5ca99cbe": {
-    "id": "lba:b83e5ca99cbe",
-    "source": "lba",
-    "entreprise": "MAUGUIN CITAGRI",
-    "intitule": "ALTERNANT Services Informatiques aux Organisations (SIO) - Option SLAM H/F",
-    "ville": "53940 Saint-Berthevin",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/822043?utm_source=NQ==",
-    "categorie": "Développement",
-    "date_publication": "2026-07-29",
-    "date_debut": null,
-    "first_seen": "2026-07-30T07:36:47Z",
-    "closed_at": "2026-09-06T09:13:21Z",
-    "active": false
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
