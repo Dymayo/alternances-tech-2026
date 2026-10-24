@@ -410,8 +410,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-12T12:54:25Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-24T09:21:25Z",
+    "active": false
   },
   "lba:3e576a7bade3": {
     "id": "lba:3e576a7bade3",
@@ -824,8 +824,8 @@
     "date_publication": "2026-10-22",
     "date_debut": "2026-11-14",
     "first_seen": "2026-10-23T09:49:26Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-24T09:21:25Z"
   },
   "lba:7d32927eee4c": {
     "id": "lba:7d32927eee4c",
@@ -844,6 +844,24 @@
     "first_seen": "2026-10-02T10:57:45Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:7e763afd4260": {
+    "id": "lba:7e763afd4260",
+    "source": "lba",
+    "entreprise": "GTA Energies",
+    "intitule": "Alternant Ingénieur Réseaux de Chaleur et Froid Urbain H/F",
+    "ville": "80000 Amiens",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=ATP3Kf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84728208.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84728208",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-23",
+    "date_debut": null,
+    "first_seen": "2026-10-24T09:21:25Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:8259a120bfcc": {
     "id": "lba:8259a120bfcc",
@@ -952,6 +970,42 @@
     "first_seen": "2026-10-15T09:41:19Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:8cb2008803de": {
+    "id": "lba:8cb2008803de",
+    "source": "lba",
+    "entreprise": "RESEAUX REUNION",
+    "intitule": "Technicien réseaux système",
+    "ville": "244 ROUTE GABRIEL MACE 97400 SAINT DENIS",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adae3e446024f93d3e4bb94/technicien-réseaux-système",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-23",
+    "date_debut": "2026-10-23",
+    "first_seen": "2026-10-24T09:21:25Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:938894349671": {
+    "id": "lba:938894349671",
+    "source": "lba",
+    "entreprise": "ERIC LEPELLETIER",
+    "intitule": "vendeur ou technicien en informatique ou se rapprochant du domaine",
+    "ville": "119 RUE DE BITCHE 57200 SARREGUEMINES",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adb8dec149b034bd0537a4d/vendeur-ou-technicien-en-informatique-ou-se-rapprochant-du-domaine",
+    "categorie": "Développement",
+    "date_publication": "2026-10-23",
+    "date_debut": "2026-10-23",
+    "first_seen": "2026-10-24T09:21:25Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:948b041e956f": {
     "id": "lba:948b041e956f",
@@ -1096,6 +1150,24 @@
     "first_seen": "2026-10-15T09:41:19Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:a43fda334697": {
+    "id": "lba:a43fda334697",
+    "source": "lba",
+    "entreprise": "MINISTERE DE LA CULTURE",
+    "intitule": "Apprenti Service informatique (H/F)",
+    "ville": "78000 Versailles",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/versailles/apprenti-service-informatique-h-f-367115210",
+    "categorie": "Développement",
+    "date_publication": "2026-10-22",
+    "date_debut": null,
+    "first_seen": "2026-10-24T09:21:25Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
@@ -1544,8 +1616,8 @@
     "date_publication": "2026-09-25",
     "date_debut": null,
     "first_seen": "2026-09-26T09:45:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-24T09:21:25Z",
+    "active": false
   },
   "lba:ec5dfa34d541": {
     "id": "lba:ec5dfa34d541",
