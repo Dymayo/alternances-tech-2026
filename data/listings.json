@@ -2663,24 +2663,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:96b2214f0a00": {
-    "id": "lba:96b2214f0a00",
-    "source": "lba",
-    "entreprise": "AUREIS FORMATION",
-    "intitule": "Administrateur / Administratrice de plateforme de service",
-    "ville": "322 RUE DES PYRENEES 75020 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a565b57a8013626d33ce8e9/administrateur-administratrice-de-plateforme-de-service",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-14",
-    "date_debut": "2026-08-31",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-14T10:27:01Z",
-    "active": false
-  },
   "lba:980a70455a79": {
     "id": "lba:980a70455a79",
     "source": "lba",
