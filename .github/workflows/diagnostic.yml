@@ -1,0 +1,24 @@
+# Diagnostic manuel de l'export LBA (Actions → « Diagnostic export LBA » →
+# Run workflow). Lit le vrai fichier d'export avec le secret LBA_API_KEY et
+# écrit un rapport dans le résumé du run. Ne modifie rien dans le repo.
+name: Diagnostic export LBA
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Diagnostic
+        env:
+          LBA_API_KEY: ${{ secrets.LBA_API_KEY }}
+        run: python scripts/diagnostic_export.py | tee -a "$GITHUB_STEP_SUMMARY"
