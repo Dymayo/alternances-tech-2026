@@ -16,6 +16,7 @@ Ces fichiers sont GÉNÉRÉS : ne jamais les éditer à la main.
 
 from __future__ import annotations
 
+import html
 import re
 from datetime import UTC, datetime
 
@@ -97,7 +98,9 @@ def _ligne(record: dict, now: datetime) -> str:
     lien = f"[Postuler ↗]({url})" if url else "—"
     age = f"{ref.strftime('%d/%m/%Y')} ({_age_court(ref, now)})"
     # Échappe les pipes pour ne pas casser la table.
-    clean = lambda s: str(s).replace("|", "\\|").replace("\n", " ").strip()  # noqa: E731
+    # html.unescape : l'export LBA livre des « &amp; » bruts. Décodés à
+    # l'affichage seulement — les modifier dans le store changerait les ids.
+    clean = lambda s: html.unescape(str(s)).replace("|", "\\|").replace("\n", " ").strip()  # noqa: E731
     return (
         f"| **{clean(e)}** | {nouveau}{clean(poste)} | {clean(ville)} "
         f"| {contrat} | {debut} | {clean(niveau)} | {lien} | {age} |\n"
