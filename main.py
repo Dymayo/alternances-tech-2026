@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """CLI du repo — quatre commandes, appelées par les workflows GitHub Actions.
 
-  python main.py update        # interroge les sources et met à jour data/listings.json
+  python main.py update        # interroge les sources, met à jour data/listings.json et data/archive/
   python main.py render        # régénère README.md et README-Inactive.md depuis le store
   python main.py validate      # vérifie l'intégrité du store (CI sur chaque PR)
   python main.py contribution <event.json>  # injecte une offre depuis une issue approuvée
@@ -40,12 +40,12 @@ def cmd_render(_args) -> int:
     Path("README.md").write_text(readme, encoding="utf-8")
     Path("README-Inactive.md").write_text(inactive, encoding="utf-8")
     actives = sum(1 for r in data.values() if r.get("active", True))
-    print(f"[OK] README généré : {actives} offres actives, {len(data) - actives} archivées")
+    print(f"[OK] README généré : {actives} offres actives, {len(data) - actives} fermées")
     return 0
 
 
 def cmd_validate(_args) -> int:
-    """Valide le store : ids cohérents, champs obligatoires, valeurs permises.
+    """Valide le store et l'archive : ids cohérents, champs obligatoires, valeurs permises.
 
     Pattern SimplifyJobs (validate_listings) : un JSON cassé ne doit jamais
     atteindre la branche principale ni casser la génération du README.
@@ -69,11 +69,14 @@ def cmd_validate(_args) -> int:
         if url and not url.startswith(("http://", "https://")):
             erreurs.append(f"{oid} : url invalide « {url} »")
 
+    erreurs.extend(store_mod.valider_archive())
+
     if erreurs:
         for e in erreurs:
             print(f"[ERREUR] {e}", file=sys.stderr)
         return 1
-    print(f"[OK] {len(data)} enregistrements valides")
+    archivees = sum(1 for _ in store_mod.lire_archive())
+    print(f"[OK] {len(data)} enregistrements valides, {archivees} en archive")
     return 0
 
 

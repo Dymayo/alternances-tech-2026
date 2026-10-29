@@ -11,6 +11,10 @@ enseignement de cette étude.
 API La bonne alternance ──┐
                           ├─ pipeline.py ─ categorize ─ dedupe ─▶ data/listings.json ─▶ render ─▶ README.md
 Issues communautaires ────┘   (async, échecs isolés)              (store, cycle de vie)            README-Inactive.md
+                                                                          │ fermées > 45 j
+                                                                          ▼
+                                                                  data/archive/AAAA-MM.jsonl
+                                                                  (historique, jamais supprimé)
 ```
 
 ## Décisions et leurs raisons
@@ -23,8 +27,18 @@ Issues communautaires ────┘   (async, échecs isolés)              (s
 - **Store JSON lisible, indexé par id, trié à l'écriture** (de intern_engine,
   justification incluse) : commité par Actions, donc les diffs de PR sont
   lisibles. Cycle de vie complet : `first_seen`, `active`, `closed_at`,
-  péremption des offres communautaires, purge de rétention — le fichier ne
+  péremption des offres communautaires, rétention de 45 j — le fichier ne
   peut pas devenir le monolithe de 11 Mo de SimplifyJobs.
+- **Rien n'est jamais supprimé, seulement déplacé** (roadmap v2, phase 0).
+  Au-delà de la rétention, une offre fermée quitte le store pour
+  `data/archive/AAAA-MM.jsonl` (mois de `closed_at`) avec tout son cycle de
+  vie (`first_seen`, `closed_at`, `date_publication`, source, contrat,
+  catégorie, ville). L'analyseur « Quand postuler ? » en dépend. Un fichier
+  par mois plutôt qu'une archive unique : pas de monolithe, et un mois clos
+  n'est plus jamais réécrit. L'archive est écrite avant le retrait du store
+  et l'écriture est idempotente par `(id, closed_at)` : un run qui plante
+  reporte l'archivage, il ne perd rien. Les offres purgées avant la phase 0
+  ont été reconstruites depuis l'historique git (`scripts/backfill_archive.py`).
 - **Un échec de fetch ne ferme jamais d'offres** : seules les sources dont le
   run a réussi peuvent déclencher des fermetures (`sources_reussies`).
 - **README généré par injection dans un template à marqueurs**
