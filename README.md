@@ -13,7 +13,7 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 [Signalez-la ici](../../issues/new?template=signaler_offre.yml).
 
 <!-- BEGIN MAJ -->
-_Dernière mise à jour : 29/10/2026 03:23 UTC_
+_Dernière mise à jour : 29/10/2026 11:23 UTC_
 <!-- END MAJ -->
 
 ## Légende

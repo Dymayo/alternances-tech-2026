@@ -2,7 +2,7 @@
 
 Fichier généré automatiquement — ne pas éditer à la main.
 
-## Offres fermées (66)
+## Offres fermées (65)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
@@ -71,4 +71,3 @@ Fichier généré automatiquement — ne pas éditer à la main.
 | **MINISTERE DE LA CULTURE** | Assistant informatique H/F | 94220 Charenton-le-Pont | Non précisé | — | — | [Postuler ↗](https://rhalternance.com/jobs/maintenance-et-entretien/charenton-le-pont/assistant-informatique-h-f-732462651) | 18/08/2026 (2mo) |
 | **EXPERIS FRANCE** | Administrateur infrastructure H/F | Chemin de la Boire 44240 La Chapelle-sur-Erdre | Non précisé | 01/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa14d05744920529fea0296/administrateur-infrastructure-h-f) | 09/09/2026 (1mo) |
 | **Harmonie Mutuelle** | Harmonie Mutuelle - Développeur / Développeuse informatique (H/F) | 37700 Saint-Pierre-des-Corps | Contrat pro · 24 mois | — | — | [Postuler ↗](https://recrutement.harmonie-mutuelle.fr/fr/annonce/4596643-developpeur-hf-alternance-37700-saint-pierre-des-corps?s_o=France+Travail&s_b=DigitalRecruiters) | 14/09/2026 (1mo) |
-| **AUREIS FORMATION** | Administrateur / Administratrice de plateforme de service | 322 RUE DES PYRENEES 75020 PARIS | Apprentissage · 12 mois | 31/08/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a565b57a8013626d33ce8e9/administrateur-administratrice-de-plateforme-de-service) | 14/07/2026 (3mo) |
