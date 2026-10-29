@@ -13,7 +13,7 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 [Signalez-la ici](../../issues/new?template=signaler_offre.yml).
 
 <!-- BEGIN MAJ -->
-_Dernière mise à jour : 29/10/2026 02:50 UTC_
+_Dernière mise à jour : 29/10/2026 03:07 UTC_
 <!-- END MAJ -->
 
 ## Légende
@@ -28,21 +28,26 @@ _Dernière mise à jour : 29/10/2026 02:50 UTC_
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.
 
 <!-- BEGIN OFFRES -->
-### 136 offres actives
+### 153 offres actives
 
-## 🔐 Cybersécurité (4)
+## 🔐 Cybersécurité (5)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **Direction du renseignement militaire** | 🆕 Apprenti(e) Correspondant SIC (CORSIC) | 75015 Paris 15e Arrondissement | Apprentissage · 12 mois | 14/09/2027 | BTS, DEUST (Bac+2) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/apprentie-correspondant-sic-corsic-2) | 26/10/2026 (3j) |
 | **Université de Reims Champagne Ardenne** | Apprenti_Administrateur Réseaux, Système et Sécurité H/F | 51100 Reims | Apprentissage · 12 mois | — | — | [Postuler ↗](https://app.beetween.com/WeaselWeb/p/#/apply/job/3gwnrp002m8/apprenti-administrateur-reseaux-systeme-et-securite-h-f) | 26/09/2026 (1mo) |
 | **REDSUP** | 🆕 Ingénieur Cybersécurité (H/F) – Alternance | 92110 Clichy | Indifférent | — | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd468/ingénieur-cybersécurité-h-f-alternance) | 27/10/2026 (2j) |
 | **REDSUP** | 🆕 Technicien Support IT & Cybersécurité (H/F) – Alternance | 92110 Clichy | Indifférent | — | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd46c/technicien-support-it-amp-cybersécurité-h-f-alternance) | 27/10/2026 (2j) |
 | **REDSUP** | 🆕 Ingénieur Cybersécurité (H/F) - Alternance | 92110 Clichy | Indifférent | — | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae28012ec4f5594ab3fd462/ingénieur-cybersécurité-h-f-alternance) | 27/10/2026 (2j) |
 
-## 🤖 Data & IA (42)
+## 🤖 Data & IA (46)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **EXPERIS FRANCE** | 🆕 Technicien Datacenter (F/H) - Val-de-Reuil (27) | Route de Saint Joseph 44300 Nantes | Indifférent | 09/11/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae20c01bbefc38a6cee7682/technicien-datacenter-f-h-val-de-reuil-27) | 28/10/2026 (1j) |
+| **EXPERIS FRANCE** | Technicien réseau datacenter CDI (H/F) | Route de Saint Joseph 44300 Nantes | Indifférent | 15/10/2026 | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ad632c71f0749091ffb2cf5/technicien-réseau-datacenter-cdi-h-f) | 19/10/2026 (10j) |
+| **NATRAN** | 2 Gestionnaires de données techniques F/H | 69002 Lyon 2e Arrondissement | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/informatique-internet-et-telecommunication/lyon/2-gestionnaires-de-données-techniques-f-h-930536782) | 14/10/2026 (15j) |
+| **CRITICAL BUILDING** | Ingénieur(e) CFO ou CVC AMO/MOE - Chargé(e) de projets Bâtiment Datacenter - Stage ou Alternance (N1) | 69570 Dardilly | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/batiment-et-travaux-publics-btp/dardilly/ingénieur-e-cfo-ou-cvc-amo-moe-chargé-e-de-projets-bâtiment-datacenter-stage-ou-alternance-n1-161203123) | 08/10/2026 (21j) |
 | **CARREFOUR HYPERMARCHES** | Alternant IA et Excellence Opérationnelle & Digitale E-Commerce H/F | 91300 Massy | Indifférent · 12 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=zrCL3m&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84617593.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84617593) | 20/10/2026 (9j) |
 | **KOMETA CONSULTING** | 🆕 Développeur / Développeuse IA | 52 TER QUAI DE SEINE 95530 FRETTE SUR SEINE (LA) | Apprentissage · 12 mois | 26/10/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adf4e52149b034bd0549f22/développeur-développeuse-ia) | 26/10/2026 (3j) |
 | **IP-FORMATION** | 🆕 Automatisation de fonctions via IA | 25 RUE CLAUDE TILLIER 75012 PARIS | Apprentissage · 12 mois | 28/10/2026 | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae1ca8bbbefc38a6cee2807/automatisation-de-fonctions-via-ia) | 28/10/2026 (1j) |
@@ -86,16 +91,22 @@ _Dernière mise à jour : 29/10/2026 02:50 UTC_
 | **SAFRAN** | Apprenti·e - Consultant·e Technico Fonctionelle Apriso H/F | 91000 Évry-Courcouronnes | Indifférent · 36 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pKTDO4&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82058452.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82058452) | 05/10/2026 (24j) |
 | **MUTUELLE GENERALE EDUCATION NATIONALE** | Alternant·e RH - Paie et SIRH H/F | 75001 Paris | Indifférent · 12 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pJbIAu&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79768077.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79768077) | 04/10/2026 (25j) |
 
-## ⚙️ Embarqué & Électronique (1)
+## ⚙️ Embarqué & Électronique (5)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **EIFFAGE ENERGIE SYSTEMES - GESTION & DEVELOPPEMENT** | Automaticien en Alternance H/F | 53810 Changé | Indifférent | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=zLp8XA&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84024597.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84024597) | 02/10/2026 (27j) |
+| **PRYSMIAN CABLES ET SYSTEMES FRANCE** | Apprenti Automaticien H/F | 62138 Billy-Berclau | Indifférent · 24 mois | — | BTS, DEUST (Bac+2) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pJ64NJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81422672.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81422672) | 17/10/2026 (12j) |
+| **HEXCEL COMPOSITES** | Alternant en Automatisme - Informatique Industrielle H/F | 38630 Les Avenières Veyrins-Thuellin | Indifférent | — | — | [Postuler ↗](https://r.holeest.com/redirect?jd_token=ygiLv4&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77463704.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D77463704) | 01/10/2026 (28j) |
+| **ELECTRICITE DE FRANCE** | ALTERNANCE - Ingénieur Automatisme et Informatique Industrielle H/F | 92400 Courbevoie | Indifférent | — | — | [Postuler ↗](https://www.directemploi.com/candidatOffre/54921410?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance) | 14/10/2026 (15j) |
 | **AVENIR ELECTRIQUE DE LIMOGES** | Technicien en Bureau d'Etudes Electriques | 99 RUE HENRI GIFFARD 87280 LIMOGES | Apprentissage · 20 mois | 19/10/2026 | BTS, DEUST (Bac+2) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ad5e7e61f0749091ffada58/technicien-en-bureau-d-etudes-electriques) | 19/10/2026 (10j) |
 
-## 🌐 Réseaux, Cloud & Infra (32)
+## 🌐 Réseaux, Cloud & Infra (34)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **SEM DE CONSTRUCTION DU DPT DE L AIN** | 🆕 ALTERNANCE - Technicien/ne micro et exploitation (H/F) | 01000 Bourg-en-Bresse | Apprentissage · 24 mois | — | — | [Postuler ↗](https://taleez.com/apply/alternance-a-partir-de-bac-2-3-informatique-technicien-ne-micro-et-exploitation-h-f-bourg-en-bresse-semcoda-1/applying) | 28/10/2026 (1j) |
+| **FACYLITIES MULTI SERVICES** | Technicien Supérieur Systèmes et Réseaux - Formation H/F | 40230 Saint-Geours-de-Maremne | Indifférent · 16 mois | 30/11/2026 | CAP, BEP (Infrabac) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=Ay6SXX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84679742.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84679742) | 21/10/2026 (8j) |
 | **MI Secrétariat général** | Assistant(e) chef(fe) de projet  - interopérabilité des systèmes d’information européens (2026 – 2027) | 75012 Paris 12e Arrondissement | Apprentissage · 12 mois | 14/10/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://www.pass.fonction-publique.gouv.fr/offre/assistante-cheffe-de-projet-interoperabilite-des-systemes-dinformation-europeens-2026-2027) | 07/07/2026 (3mo) |
 | **SAVENCIA SA** | Technicien Réseau & Télécoms Alternance H/F | 50000 Saint-Lô | Indifférent | — | CAP, BEP (Infrabac) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pGWFbI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82849425.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bsecurite%252Ctelecom%252Cferroviaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D82849425) | 30/09/2026 (29j) |
 | **LOXAM** | 🆕 Assistant(e) Architecte Domaine applicatif en alternance H/F | 92800 Puteaux | Indifférent | — | — | [Postuler ↗](https://www.leboncoin.fr/offres_d_emploi/3193320661.htm) | 29/10/2026 (0j) |
@@ -129,10 +140,14 @@ _Dernière mise à jour : 29/10/2026 02:50 UTC_
 | **JP ENERGIE ENVIRONNEMENT** | Administrateur.rice Systèmes et Réseaux H/F (H/F) | 14000 Caen | Apprentissage · 12 mois | — | — | [Postuler ↗](https://taleez.com/apply/administrateur-rice-systemes-et-reseaux-h-f-caen-jpee--/applying) | 07/10/2026 (22j) |
 | **CENTRE HOSPITALIER DE VALENCIENNES** | APPRENTI(E) Administrateur/Administratrice Réseaux (H/F) | 59300 Valenciennes | Apprentissage · 12 mois | — | — | [Postuler ↗](https://ch-valenciennes.nous-recrutons.fr/poste/9cg9a0vhpk-pole-13apprentie-administrateur-administratrice-reseaux/) | 24/09/2026 (1mo) |
 
-## 💻 Développement (27)
+## 💻 Développement (31)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **CORUSCANT** | Technicien Informatique MacOS - Apprenticeship | 75001 Paris | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/maintenance-et-entretien/paris/technicien-informatique-macos-apprenticeship-415586803) | 29/09/2026 (30j) |
+| **Fondation ARKHEIN** | 🆕 Alternance - Assistant Informatique - Support & Dévelopment H/F | 74800 Amancy | Indifférent · 24 mois | — | BTS, DEUST (Bac+2) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=BQ03DR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84891968.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84891968) | 28/10/2026 (1j) |
+| **INSTITUT FRANCAIS** | Alternance/Apprentissage - Technicien informatique F/H | 75011 Paris 11e Arrondissement 🏠 | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179566813W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export) | 13/10/2026 (16j) |
+| **MAC LANE COMMUNICATIONS** | Alternant(e) technicien(ne) informatique – Transferts et maintenance informatique (H/F) | Allée des Yvelines 78190 Trappes | Indifférent · 12 mois | 18/10/2026 | CAP, BEP (Infrabac) | [Postuler ↗](https://annoncesatlas.opco-atlas.fr/jobads/114152?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 05/10/2026 (24j) |
 | **DV GROUP** | Ingénieur Exploitation & Maintenance Industrielle en Alternance H/F | 62129 Ecques | Indifférent | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pJbIt1&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81532701.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D81532701) | 21/10/2026 (8j) |
 | **MEDIA DATA SERVICES** | 🆕 DEVELOPPEUR FULL STACK (H/F) | 60000 Beauvais | Indifférent | — | — | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae2800eec4f5594ab3fd381/developpeur-full-stack-h-f) | 27/10/2026 (2j) |
 | **CHAUSSEA SAS** | Alternant - Developpeur Web Fullstack H/F | 57000 Metz | Indifférent · 24 mois | — | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=wlDQTG&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79006307.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79006307) | 13/10/2026 (16j) |
@@ -161,10 +176,11 @@ _Dernière mise à jour : 29/10/2026 02:50 UTC_
 | **Groupe Nicollin** | Groupe Nicollin - Technicien / Technicienne informatique (H/F) | 34170 Castelnau-le-Lez | Contrat pro · 24 mois | — | — | [Postuler ↗](https://recrutement.groupenicollin.com/fr/annonce/4626203-technicien-support-informatique-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters) | 01/10/2026 (28j) |
 | **GROUPE NICOLLIN** | 🆕 Technicien support informatique H/F | 34170 Castelnau-le-Lez | Indifférent | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://www.meteojob.com/jobs/57218907?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance) | 23/10/2026 (6j) |
 
-## 📱 Produit, Support & Gestion de projet (24)
+## 📱 Produit, Support & Gestion de projet (25)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **RAJA** | Alternance Support Applicatif E-Commerce H/F | 93290 Tremblay-en-France | Indifférent · 12 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=wKIHbS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84392953.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84392953) | 13/10/2026 (16j) |
 | **EIFFAGE GENIE CIVIL** | 🆕 Assistant MOA Paie en Alternance H/F | 78140 Vélizy-Villacoublay | Indifférent | — | BTS, DEUST (Bac+2) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pJ64NQ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79479596.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79479596) | 27/10/2026 (2j) |
 | **BEE2LINK GROUP** | Alternant(e) Business Analyst | 351 Avenue des Massettes 73190 Challes-les-Eaux | Apprentissage · 12 mois | 30/09/2026 | — | [Postuler ↗](https://api.mytalentplug.com/job/v1/joboffer/redirect?id=b0a04c27-a32a-4bf4-954c-f052a0ecbf59) | 30/09/2026 (29j) |
 | **EXELCIA** | QA (Automatisation des tests) en alternance F/H | 97122 Baie-Mahault | Apprentissage · 12 mois | — | — | [Postuler ↗](https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179416218W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export) | 14/09/2026 (1mo) |
@@ -190,10 +206,11 @@ _Dernière mise à jour : 29/10/2026 02:50 UTC_
 | **BOW MEDICAL** | Chef de projet fonctionnel F/H en contrat d’alternance | 43 AVENUE D'ITALIE 80090 AMIENS | Indifférent · 12 mois | 30/09/2026 | Master, titre ingénieur, grande école (Bac+5) | [Postuler ↗](https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abcd946c5256f3f6f916891/chef-de-projet-fonctionnel-f-h-en-contrat-d-alternance) | 30/09/2026 (29j) |
 | **SCHEPPACH - FRANCE SARL** | Assistant ERP & Support Opérationnel (H/F) | 31700 Blagnac | Apprentissage · 24 mois | — | Licence, BUT, Licence Pro (Bac+3) | [Postuler ↗](https://candidat.francetravail.fr/offres/recherche/detail/214JLFK) | 24/09/2026 (1mo) |
 
-## 📦 Autre (6)
+## 📦 Autre (7)
 
 | Entreprise | Poste | Ville | Contrat | Début | Niveau | Candidater | Ajoutée |
 | --- | --- | --- | --- | :---: | --- | :---: | :---: |
+| **AGROMOUSQUETAIRES** | Apprenti Automaticien H/F | 61230 Croisilles | Indifférent | — | CAP, BEP (Infrabac) | [Postuler ↗](https://r.holeest.com/redirect?jd_token=pJ2wDS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79235004.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79235004) | 21/10/2026 (8j) |
 | **INNOVORDER** | Business developer junior (H/F) - Alternance | 75010 Paris 10e Arrondissement | Indifférent | — | — | [Postuler ↗](https://rhalternance.com/jobs/commerce-et-distribution/paris/business-developer-junior-h-f-alternance-939067468) | 13/10/2026 (16j) |
 | **iMSA** | Référent Écoconception F/H (82) | 82000 Montauban | Contrat pro | — | — | [Postuler ↗](https://jobaffinity.fr/apply/g3lktitlv70h2v8sdx?src=FranceTravail%20API) | 07/10/2026 (22j) |
 | **Funecap** | Funecap - Alternant Chargé de Projets - H/F | 75015 Paris 15e Arrondissement | Apprentissage · 24 mois | — | — | [Postuler ↗](https://funecap-recrutement.fr/offres-emploi/rebond/2873278?NoSociete=283&NoOffre=2873278&NoLangue=1&NoSource=16001) | 15/09/2026 (1mo) |

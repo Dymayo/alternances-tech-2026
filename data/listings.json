@@ -71,6 +71,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:029ef25170eb": {
+    "id": "lba:029ef25170eb",
+    "source": "lba",
+    "entreprise": "EIFFAGE ENERGIE SYSTEMES - GESTION & DEVELOPPEMENT",
+    "intitule": "Automaticien en Alternance H/F",
+    "ville": "53810 Changé",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=zLp8XA&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84024597.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84024597",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-10-02",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:043dd8fff4a0": {
     "id": "lba:043dd8fff4a0",
     "source": "lba",
@@ -197,6 +215,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:07a9853c7edc": {
+    "id": "lba:07a9853c7edc",
+    "source": "lba",
+    "entreprise": "CORUSCANT",
+    "intitule": "Technicien Informatique MacOS - Apprenticeship",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/maintenance-et-entretien/paris/technicien-informatique-macos-apprenticeship-415586803",
+    "categorie": "Développement",
+    "date_publication": "2026-09-29",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:080a31bb1efc": {
     "id": "lba:080a31bb1efc",
     "source": "lba",
@@ -214,6 +250,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:081673b4c4a7": {
+    "id": "lba:081673b4c4a7",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Technicien Datacenter (F/H) - Val-de-Reuil (27)",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae20c01bbefc38a6cee7682/technicien-datacenter-f-h-val-de-reuil-27",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-28",
+    "date_debut": "2026-11-09",
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
@@ -322,6 +376,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": "2026-10-21T09:54:41Z",
     "active": false
+  },
+  "lba:1349a932ba04": {
+    "id": "lba:1349a932ba04",
+    "source": "lba",
+    "entreprise": "AGROMOUSQUETAIRES",
+    "intitule": "Apprenti Automaticien H/F",
+    "ville": "61230 Croisilles",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=pJ2wDS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79235004.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79235004",
+    "categorie": "Autre",
+    "date_publication": "2026-10-21",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:1442293a0632": {
     "id": "lba:1442293a0632",
@@ -521,6 +593,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:1c77c7129907": {
+    "id": "lba:1c77c7129907",
+    "source": "lba",
+    "entreprise": "Direction du renseignement militaire",
+    "intitule": "Apprenti(e) Correspondant SIC (CORSIC)",
+    "ville": "75015 Paris 15e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-correspondant-sic-corsic-2",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-26",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:1c8a42e8d134": {
     "id": "lba:1c8a42e8d134",
     "source": "lba",
@@ -538,6 +628,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:1d14581344f7": {
+    "id": "lba:1d14581344f7",
+    "source": "lba",
+    "entreprise": "Fondation ARKHEIN",
+    "intitule": "Alternance - Assistant Informatique - Support &amp; Dévelopment H/F",
+    "ville": "74800 Amancy",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=BQ03DR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84891968.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84891968",
+    "categorie": "Développement",
+    "date_publication": "2026-10-28",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:1d6e2a7bc976": {
     "id": "lba:1d6e2a7bc976",
@@ -809,6 +917,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:3660e539d4bc": {
+    "id": "lba:3660e539d4bc",
+    "source": "lba",
+    "entreprise": "PRYSMIAN CABLES ET SYSTEMES FRANCE",
+    "intitule": "Apprenti Automaticien H/F",
+    "ville": "62138 Billy-Berclau",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=pJ64NJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81422672.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81422672",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-10-17",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
     "source": "lba",
@@ -881,6 +1007,24 @@
     "closed_at": "2026-10-24T09:21:25Z",
     "active": false
   },
+  "lba:3ab8e1b99ce2": {
+    "id": "lba:3ab8e1b99ce2",
+    "source": "lba",
+    "entreprise": "RAJA",
+    "intitule": "Alternance Support Applicatif E-Commerce H/F",
+    "ville": "93290 Tremblay-en-France",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=wKIHbS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84392953.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84392953",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-13",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3abc4d56710b": {
     "id": "lba:3abc4d56710b",
     "source": "lba",
@@ -899,6 +1043,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:3acd79fdc3c5": {
+    "id": "lba:3acd79fdc3c5",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Technicien réseau datacenter CDI (H/F)",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ad632c71f0749091ffb2cf5/technicien-réseau-datacenter-cdi-h-f",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-19",
+    "date_debut": "2026-10-15",
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3bae77d9a0fb": {
     "id": "lba:3bae77d9a0fb",
     "source": "lba",
@@ -916,6 +1078,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:3c7034c35e3c": {
+    "id": "lba:3c7034c35e3c",
+    "source": "lba",
+    "entreprise": "NATRAN",
+    "intitule": "2 Gestionnaires de données techniques F/H",
+    "ville": "69002 Lyon 2e Arrondissement",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/lyon/2-gestionnaires-de-données-techniques-f-h-930536782",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-14",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:3ca99e95e415": {
     "id": "lba:3ca99e95e415",
@@ -1223,6 +1403,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:53a76aa87547": {
+    "id": "lba:53a76aa87547",
+    "source": "lba",
+    "entreprise": "SEM DE CONSTRUCTION DU DPT DE L AIN",
+    "intitule": "ALTERNANCE - Technicien/ne micro et exploitation (H/F)",
+    "ville": "01000 Bourg-en-Bresse",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://taleez.com/apply/alternance-a-partir-de-bac-2-3-informatique-technicien-ne-micro-et-exploitation-h-f-bourg-en-bresse-semcoda-1/applying",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-28",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
     "source": "lba",
@@ -1348,6 +1546,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:588a148c1c58": {
+    "id": "lba:588a148c1c58",
+    "source": "lba",
+    "entreprise": "HEXCEL COMPOSITES",
+    "intitule": "Alternant en Automatisme - Informatique Industrielle H/F",
+    "ville": "38630 Les Avenières Veyrins-Thuellin",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=ygiLv4&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77463704.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D77463704",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-10-01",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:58f456306224": {
     "id": "lba:58f456306224",
@@ -2339,6 +2555,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:8f19797bd7b2": {
+    "id": "lba:8f19797bd7b2",
+    "source": "lba",
+    "entreprise": "INSTITUT FRANCAIS",
+    "intitule": "Alternance/Apprentissage - Technicien informatique F/H",
+    "ville": "75011 Paris 11e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "hybride",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179566813W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Développement",
+    "date_publication": "2026-10-13",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8fddfe0d2859": {
     "id": "lba:8fddfe0d2859",
     "source": "lba",
@@ -2735,6 +2969,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:b318ef1a4c23": {
+    "id": "lba:b318ef1a4c23",
+    "source": "lba",
+    "entreprise": "MAC LANE COMMUNICATIONS",
+    "intitule": "Alternant(e) technicien(ne) informatique – Transferts et maintenance informatique (H/F)",
+    "ville": "Allée des Yvelines 78190 Trappes",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://annoncesatlas.opco-atlas.fr/jobads/114152?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Développement",
+    "date_publication": "2026-10-05",
+    "date_debut": "2026-10-18",
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:b4989cb675ce": {
     "id": "lba:b4989cb675ce",
     "source": "lba",
@@ -2914,6 +3166,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:c93b70956b53": {
+    "id": "lba:c93b70956b53",
+    "source": "lba",
+    "entreprise": "FACYLITIES MULTI SERVICES",
+    "intitule": "Technicien Supérieur Systèmes et Réseaux - Formation H/F",
+    "ville": "40230 Saint-Geours-de-Maremne",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": 16,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Ay6SXX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84679742.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84679742",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-21",
+    "date_debut": "2026-11-30",
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:c9919e9b353b": {
     "id": "lba:c9919e9b353b",
@@ -3113,6 +3383,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:d54d2c5468b8": {
+    "id": "lba:d54d2c5468b8",
+    "source": "lba",
+    "entreprise": "CRITICAL BUILDING",
+    "intitule": "Ingénieur(e) CFO ou CVC AMO/MOE - Chargé(e) de projets Bâtiment Datacenter - Stage ou Alternance (N1)",
+    "ville": "69570 Dardilly",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/batiment-et-travaux-publics-btp/dardilly/ingénieur-e-cfo-ou-cvc-amo-moe-chargé-e-de-projets-bâtiment-datacenter-stage-ou-alternance-n1-161203123",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-08",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:d6058aea8cc2": {
     "id": "lba:d6058aea8cc2",
     "source": "lba",
@@ -3130,6 +3418,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "active": false,
     "closed_at": "2026-10-11T11:19:08Z"
+  },
+  "lba:d76deec33107": {
+    "id": "lba:d76deec33107",
+    "source": "lba",
+    "entreprise": "ELECTRICITE DE FRANCE",
+    "intitule": "ALTERNANCE - Ingénieur Automatisme et Informatique Industrielle H/F",
+    "ville": "92400 Courbevoie",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.directemploi.com/candidatOffre/54921410?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-10-14",
+    "date_debut": null,
+    "first_seen": "2026-10-29T03:07:42Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
