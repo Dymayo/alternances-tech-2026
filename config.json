@@ -1,5 +1,5 @@
 {
-  "_doc": "Codes ROME v4 conservés depuis l'export complet de La bonne alternance (filtre côté client sur offer.rome_codes). Depuis ROME 4.0, chaque ancien code informatique est le « parent » de métiers plus précis, et les offres portent le code précis : la liste reprend donc tous les enfants de M1805, M1802, M1810, M1806, M1801 et H1209 (référentiel unix_referentiel_code_rome_v460, colonne code_rome_parent), plus M1405 Data scientist, M1419 Data analyst et M1804 Ingénieur télécoms. Ajouter un métier = ajouter un code dans romes et son libellé dans _libelles.",
+  "_doc": "Codes ROME v4 conservés depuis l'export complet de La bonne alternance (filtre côté client sur offer.rome_codes). Depuis ROME 4.0, chaque ancien code informatique est le « parent » de métiers plus précis, et les offres portent le code précis : la liste reprend donc tous les enfants de M1805, M1802, M1810, M1806, M1801 et H1209 (référentiel unix_referentiel_code_rome_v460, colonne code_rome_parent), plus M1405 Data scientist, M1419 Data analyst, M1804 Ingénieur télécoms, et, d'après le diagnostic du 2026-10-29 (offres à intitulé tech rejetées), I1401/I1403/I1404 maintenance, datacenter et support informatique, M1826 supervision IT et H1208 automaticien. Ajouter un métier = ajouter un code dans romes et son libellé dans _libelles.",
   "romes": [
     "M1805",
     "M1813",
@@ -79,7 +79,12 @@
     "H1209",
     "M1405",
     "M1419",
-    "M1804"
+    "M1804",
+    "I1401",
+    "I1403",
+    "I1404",
+    "M1826",
+    "H1208"
   ],
   "_libelles": {
     "M1805": "Développeur / Développeuse informatique",
@@ -160,6 +165,11 @@
     "H1209": "Technicien / Technicienne en électricité et électronique études et développement",
     "M1405": "Data scientist",
     "M1419": "Data analyst",
-    "M1804": "Ingénieur / Ingénieure télécoms"
+    "M1804": "Ingénieur / Ingénieure télécoms",
+    "I1401": "Technicien / Technicienne de maintenance en informatique",
+    "I1403": "Technicien / Technicienne Datacenter",
+    "I1404": "Conseiller / Conseillère support technique informatique",
+    "M1826": "Ingénieur / Ingénieure supervision IT Datacenter",
+    "H1208": "Automaticien / Automaticienne en bureau d'études"
   }
 }
