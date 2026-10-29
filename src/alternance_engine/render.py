@@ -121,10 +121,10 @@ def _table_par_categorie(records: list[dict], now: datetime) -> str:
     return "".join(blocs)
 
 
-def _table_inactives(records: list[dict], now: datetime) -> str:
+def _table_inactives(records: list[dict], now: datetime, tri: str = "closed_at") -> str:
     if not records:
         return "_Aucune offre archivée pour le moment._\n"
-    records = sorted(records, key=lambda r: r.get("closed_at") or "", reverse=True)
+    records = sorted(records, key=lambda r: r.get(tri) or "", reverse=True)
     blocs = [EN_TETE_TABLE]
     for r in records:
         blocs.append(_ligne(r, now))
@@ -144,36 +144,89 @@ def inject_block(template: str, tag: str, contenu: str) -> str:
     )
 
 
+def _readme(template: str, actives: list[dict], deplacees: bool, now: datetime) -> str:
+    corps = _table_par_categorie(actives, now)
+    if deplacees:
+        corps = AVERTISSEMENT_TAILLE + corps
+    readme = inject_block(template, "OFFRES", corps)
+    return inject_block(
+        readme, "MAJ", f"_Dernière mise à jour : {now.strftime('%d/%m/%Y %H:%M UTC')}_"
+    )
+
+
+def _tient(texte: str) -> bool:
+    return len(texte.encode("utf-8")) <= GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER
+
+
 def render(store: dict, template: str, now: datetime | None = None) -> tuple[str, str]:
     """Retourne (README.md, README-Inactive.md).
 
-    Si le README dépasse la limite GitHub, les offres actives les plus
-    anciennes sont déplacées vers l'archive jusqu'à repasser sous la limite,
-    et un avertissement est injecté.
+    Si le README dépasse la limite GitHub, on garde les offres actives les
+    plus récentes qui tiennent ; les autres passent dans README-Inactive.md,
+    dans une section à part (elles restent ouvertes), et un avertissement
+    est injecté.
+
+    Le nombre d'offres gardées est trouvé par dichotomie (~log2(n) rendus) :
+    l'ancienne boucle « retirer la plus ancienne puis tout regénérer » était
+    quadratique — plus d'une minute à 3 000 offres, sans fin à 6 000, ordres
+    de grandeur atteignables avec l'export complet.
+
+    Les offres fermées de README-Inactive.md sont plafonnées (les plus
+    récemment fermées d'abord) : l'historique complet vit dans
+    data/archive/ et data/listings.json, le fichier n'est qu'une vitrine.
     """
     now = now or datetime.now(UTC)
-    actives = [r for r in store.values() if r.get("active", True)]
+    actives = sorted(
+        (r for r in store.values() if r.get("active", True)),
+        key=lambda r: r.get("first_seen", ""),
+        reverse=True,
+    )
     inactives = [r for r in store.values() if not r.get("active", True)]
 
-    deplacees: list[dict] = []
-    while True:
-        corps = _table_par_categorie(actives, now)
-        if deplacees:
-            corps = AVERTISSEMENT_TAILLE + corps
-        readme = inject_block(template, "OFFRES", corps)
-        readme = inject_block(
-            readme, "MAJ", f"_Dernière mise à jour : {now.strftime('%d/%m/%Y %H:%M UTC')}_"
-        )
-        if len(readme.encode("utf-8")) <= GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER or not actives:
-            break
-        # Déplace la plus ancienne offre active vers l'archive et regénère.
-        actives.sort(key=lambda r: r.get("first_seen", ""))
-        deplacees.append(actives.pop(0))
+    readme = _readme(template, actives, False, now)
+    gardees = len(actives)
+    if not _tient(readme):
+        bas, haut = 0, len(actives) - 1  # invariant : `bas` offres tiennent
+        while bas < haut:
+            milieu = (bas + haut + 1) // 2
+            if _tient(_readme(template, actives[:milieu], True, now)):
+                bas = milieu
+            else:
+                haut = milieu - 1
+        gardees = bas
+        readme = _readme(template, actives[:gardees], True, now)
+    deplacees = actives[gardees:]
 
-    inactive_md = (
+    entete = (
         "# 🔒 Offres archivées\n\n"
-        "Offres fermées ou déplacées ici faute de place dans le README principal.\n"
         "Fichier généré automatiquement — ne pas éditer à la main.\n\n"
-        + _table_inactives(inactives + deplacees, now)
     )
-    return readme, inactive_md
+    section_deplacees = ""
+    if deplacees:
+        section_deplacees = (
+            f"## Offres encore ouvertes, déplacées faute de place ({len(deplacees)})\n\n"
+            "Le README principal a atteint la limite d'affichage de GitHub : les "
+            "offres actives les plus anciennes sont listées ici.\n\n"
+            + _table_inactives(deplacees, now, tri="first_seen")
+            + "\n"
+        )
+    inactives.sort(key=lambda r: r.get("closed_at") or "", reverse=True)
+    titre_fermees = f"## Offres fermées ({len(inactives)})\n\n"
+    fermees_md = _table_inactives(inactives, now)
+    n = len(inactives)
+    if not _tient(entete + section_deplacees + titre_fermees + fermees_md) and inactives:
+        bas, haut = 0, n - 1
+        while bas < haut:
+            milieu = (bas + haut + 1) // 2
+            essai = entete + section_deplacees + titre_fermees + _table_inactives(inactives[:milieu], now)
+            if _tient(essai):
+                bas = milieu
+            else:
+                haut = milieu - 1
+        n = bas
+        fermees_md = (
+            f"_{n} plus récentes sur {len(inactives)} — historique complet dans "
+            "`data/archive/` et `data/listings.json`._\n\n"
+            + _table_inactives(inactives[:n], now)
+        )
+    return readme, entete + section_deplacees + titre_fermees + fermees_md
