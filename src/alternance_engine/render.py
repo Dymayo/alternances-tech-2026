@@ -76,6 +76,18 @@ def _date_reference(record: dict) -> datetime:
     return _parse_iso(record.get("first_seen", ""))
 
 
+def _libelle_contrat(record: dict) -> str:
+    """« indifferent » n'a pas le même sens selon la source : côté LBA, l'API
+    remplit les deux types quand l'offre n'en précise aucun (« Non précisé ») ;
+    côté communauté, le contributeur a choisi « Indifférent » dans le formulaire."""
+    contrat = record.get("contrat", "")
+    if contrat == "apprentissage":
+        return "Apprentissage"
+    if contrat == "professionnalisation":
+        return "Contrat pro"
+    return "Indifférent" if record.get("source") == "communaute" else "Non précisé"
+
+
 def _ligne(record: dict, now: datetime) -> str:
     e = record.get("entreprise", "")
     poste = record.get("intitule", "")
@@ -86,9 +98,7 @@ def _ligne(record: dict, now: datetime) -> str:
         ville += " 🏠"
     elif record.get("teletravail") == "total":
         ville = "Télétravail total 🏠"
-    contrat = {"apprentissage": "Apprentissage", "professionnalisation": "Contrat pro"}.get(
-        record.get("contrat", ""), "Indifférent"
-    )
+    contrat = _libelle_contrat(record)
     duree = record.get("duree_mois")
     if duree:
         contrat += f" · {duree} mois"

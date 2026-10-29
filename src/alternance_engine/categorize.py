@@ -46,7 +46,7 @@ CATEGORIES: list[tuple[str, str, list[str]]] = [
         "⚙️",
         [
             "embarque", "firmware", "fpga", "microcontroleur", "electronique",
-            "iot", "stm32", "vhdl", "hardware", "mecatronique", "automatisme",
+            "iot", "stm32", "vhdl", "hardware", "mecatronique", "automatisme", "automaticien",
         ],
     ),
     (
