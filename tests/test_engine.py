@@ -216,6 +216,19 @@ def test_categorisation_par_mots_pas_par_sous_chaines():
     assert categoriser(offre(intitule="Ingénieur SSI en alternance")) == "Cybersécurité"
 
 
+def test_categorisation_automaticien():
+    """Code ROME H1208 ajouté : l'intitulé doit suivre."""
+    assert categoriser(offre(intitule="Apprenti Automaticien H/F")) == "Embarqué & Électronique"
+
+
+def test_libelle_contrat_selon_la_source():
+    from alternance_engine.render import _libelle_contrat
+
+    assert _libelle_contrat({"source": "lba", "contrat": "indifferent"}) == "Non précisé"
+    assert _libelle_contrat({"source": "communaute", "contrat": "indifferent"}) == "Indifférent"
+    assert _libelle_contrat({"source": "lba", "contrat": "professionnalisation"}) == "Contrat pro"
+
+
 def test_categorisation_description_en_repli():
     o = offre(intitule="Alternant(e) H/F", description="Vous rejoindrez notre équipe DevOps.")
     assert categoriser(o) == "Réseaux, Cloud & Infra"

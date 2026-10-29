@@ -23,6 +23,10 @@ pas besoin de savoir coder. **Une offre est fermée ?**
 - colonne **Début** : date de début du contrat annoncée par la source
   (`—` = non précisée, souvent « à convenir »)
 - 🔒 les offres fermées sont archivées dans [README-Inactive.md](README-Inactive.md)
+- **Postuler ↗** : `Ctrl+clic` (`Cmd+clic` sur Mac) ouvre l'offre dans un
+  nouvel onglet — GitHub ne permet pas de le faire automatiquement
+- contrat **Non précisé** : la source n'indique pas apprentissage ou
+  contrat pro, les deux sont souvent possibles
 
 > 💡 Utilisez `Ctrl+F` pour chercher une ville, une techno ou une entreprise.
 
