@@ -24,6 +24,31 @@ Issues communautaires ────┘   (async, échecs isolés)              (s
   Contrairement à intern_engine et ses 12 scrapers ATS, une seule API
   officielle suffit : La bonne alternance agrège déjà France Travail et
   les jobboards partenaires.
+- **Export en masse plutôt que route de recherche.** `/job/v1/search` est
+  plafonnée à 150 résultats par source, sans pagination — sa propre doc
+  précise qu'on ne peut pas récupérer toutes les offres correspondant aux
+  critères. `/job/v1/export` expose la totalité des offres actives en un
+  seul appel : c'est la seule primitive permettant une liste exhaustive.
+  Le filtrage métier (codes ROME) se fait donc côté client. Trois pièges,
+  tous rencontrés lors du premier essai (run du 2026-08-05, annulé) :
+  - l'export contient aussi les « recruteurs_lba » (entreprises à
+    candidature spontanée, sans offre) : ~18 700 lignes, écartées sur
+    `identifier.partner_label` ;
+  - depuis ROME 4.0, les offres portent des codes précis (M1855
+    Développeur web, M1811 Data engineer...) dont nos 6 anciens codes ne
+    sont que les « parents » : `config.json` liste les 79 codes enfants ;
+  - `ville` reste l'adresse brute, comme avec la route de recherche,
+    parce que l'id d'offre en dépend : la reformater fermait puis
+    recréait toutes les offres déjà en store.
+  Zéro offre retenue sur un export non vide fait échouer la source (aucune
+  fermeture) plutôt que de tout fermer.
+- **Parsing incrémental (`ijson`) du fichier d'export.** L'export est un
+  tableau JSON de plusieurs centaines de Mo (indenté à la génération) :
+  un `json.load()` chargerait tout en mémoire. Le streaming garde la
+  mémoire bornée (mesuré sur export synthétique : 60 000 offres parsées
+  en 2-3 s, pic mémoire ~80-110 Mo selon la taille des enregistrements,
+  objets résidents inclus). Le lien S3 signé n'étant valable que 2 minutes, le
+  téléchargement démarre immédiatement après l'obtention du lien.
 - **Store JSON lisible, indexé par id, trié à l'écriture** (de intern_engine,
   justification incluse) : commité par Actions, donc les diffs de PR sont
   lisibles. Cycle de vie complet : `first_seen`, `active`, `closed_at`,
@@ -51,4 +76,4 @@ Issues communautaires ────┘   (async, échecs isolés)              (s
 - **Le cron quotidien ouvre une PR au lieu de pusher sur main**
   (d'european-tech-internships) : relecture avant publication, et merge en
   squash pour garder un historique lisible (l'anti-50 000 commits).
-- **Zéro dépendance runtime hors `httpx`**, CLI argparse : rien à maintenir.
+- **Deux dépendances runtime seulement, `httpx` et `ijson`**, CLI argparse : rien à maintenir.

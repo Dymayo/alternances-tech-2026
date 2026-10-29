@@ -25,6 +25,13 @@ créez-le sur https://api.apprentissage.beta.gouv.fr puis :
 LBA_API_KEY=xxx python main.py update
 ```
 
+Pour développer sans jeton ni réseau, vous pouvez faire tourner le
+connecteur sur un fichier d'export local :
+
+```bash
+LBA_EXPORT_FILE=/chemin/vers/export.json python main.py update
+```
+
 ### Où toucher quoi
 
 | Vous voulez... | Fichier |
