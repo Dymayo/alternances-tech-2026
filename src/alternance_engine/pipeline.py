@@ -3,8 +3,9 @@
 Fetch de chaque source (échecs isolés — un connecteur en panne ne fait ni
 planter le run ni fermer ses offres), normalisation, catégorisation,
 déduplication inter-sources, fusion dans le store (détection nouvelles /
-fermées / réactivées), marquage des offres communautaires périmées, purge
-de rétention, écriture du store.
+fermées / réactivées), marquage des offres communautaires périmées,
+archivage des fermées anciennes (data/archive/, jamais de suppression),
+écriture du store.
 
 Contrairement à intern_engine et ses 12 scrapers ATS, une seule source API
 officielle suffit ici (La bonne alternance agrège déjà France Travail et
@@ -47,7 +48,11 @@ async def _fetch_source(nom: str, fetch, config: dict, client: httpx.AsyncClient
         return nom, [], f"{type(exc).__name__}: {exc}"
 
 
-async def run_update(config_path: str = "config.json", store_path: str = "data/listings.json") -> dict:
+async def run_update(
+    config_path: str = "config.json",
+    store_path: str = "data/listings.json",
+    archive_dir: str = store_mod.ARCHIVE_DIR,
+) -> dict:
     config = charger_config(config_path)
     data = store_mod.load(store_path)
 
@@ -82,12 +87,12 @@ async def run_update(config_path: str = "config.json", store_path: str = "data/l
 
     stats = store_mod.merge(data, a_merger, sources_reussies)
     stats["perimees"] = store_mod.marquer_perimees(data)
-    stats["purgees"] = store_mod.purger(data)
+    stats["archivees"] = store_mod.archiver(data, archive_dir)
 
     store_mod.save(store_path, data)
     print(
         f"[OK] store : {stats['nouvelles']} nouvelles, {stats['fermees']} fermées, "
         f"{stats['reactivees']} réactivées, {stats['perimees']} périmées, "
-        f"{stats['purgees']} purgées"
+        f"{stats['archivees']} archivées"
     )
     return stats

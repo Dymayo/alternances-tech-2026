@@ -74,14 +74,93 @@ def test_first_seen_preserve_et_reactivation():
     assert data[o.id]["first_seen"] == "2026-01-01T00:00:00Z"
 
 
-def test_purge_des_fermees_anciennes():
+def _fermer_offre(data, o, quand):
+    store_mod.merge(data, [o], sources_reussies={"lba"}, now=quand)
+    store_mod.merge(data, [], sources_reussies={"lba"}, now=quand)
+
+
+def test_fermee_ancienne_va_en_archive_pas_dans_le_vide(tmp_path):
+    """Phase 0 : rien n'est supprimé, tout est déplacé."""
+    data = {}
+    o = offre(contrat="professionnalisation", date_publication="2019-12-20")
+    o.categorie = "Data & IA"
+    _fermer_offre(data, o, "2020-01-15T00:00:00Z")
+
+    assert store_mod.archiver(data, str(tmp_path)) == 1
+    assert data == {}  # sorti du store...
+    lignes = list(store_mod.lire_archive(str(tmp_path)))
+    assert len(lignes) == 1  # ...mais présent dans l'archive
+    assert (tmp_path / "2020-01.jsonl").exists()  # rangé par mois de fermeture
+    r = lignes[0]
+    assert r["id"] == o.id
+    assert r["first_seen"] == "2020-01-15T00:00:00Z"
+    assert r["closed_at"] == "2020-01-15T00:00:00Z"
+    assert (r["source"], r["contrat"], r["categorie"], r["ville"]) == (
+        "lba", "professionnalisation", "Data & IA", "Lyon",
+    )
+    assert r["date_publication"] == "2019-12-20"
+    assert "active" not in r and "description" not in r
+
+
+def test_fermee_recente_reste_dans_le_store(tmp_path):
+    """Pendant la rétention, l'offre fermée alimente README-Inactive.md."""
     data = {}
     o = offre()
-    vieux = "2020-01-01T00:00:00Z"
-    store_mod.merge(data, [o], sources_reussies={"lba"}, now=vieux)
-    store_mod.merge(data, [], sources_reussies={"lba"}, now=vieux)
-    assert store_mod.purger(data) == 1
-    assert data == {}
+    _fermer_offre(data, o, store_mod.now_iso())
+    assert store_mod.archiver(data, str(tmp_path)) == 0
+    assert o.id in data
+    assert list(store_mod.lire_archive(str(tmp_path))) == []
+
+
+def test_archive_idempotente(tmp_path):
+    """Un run qui plante entre l'archive et le store ne crée pas de doublon."""
+    record = {**offre().to_store(), "first_seen": "2020-01-01T00:00:00Z",
+              "closed_at": "2020-01-02T00:00:00Z"}
+    assert store_mod.ecrire_archive([record], str(tmp_path)) == 1
+    assert store_mod.ecrire_archive([record], str(tmp_path)) == 0
+    assert len(list(store_mod.lire_archive(str(tmp_path)))) == 1
+    assert store_mod.valider_archive(str(tmp_path)) == []
+
+
+def test_echec_archive_ne_retire_rien_du_store(tmp_path, monkeypatch):
+    """Pire cas = report au run suivant, jamais une perte."""
+    data = {}
+    o = offre()
+    _fermer_offre(data, o, "2020-01-15T00:00:00Z")
+
+    def disque_plein(*_a, **_k):
+        raise OSError("disque plein")
+
+    monkeypatch.setattr(store_mod, "ecrire_archive", disque_plein)
+    try:
+        store_mod.archiver(data, str(tmp_path))
+    except OSError:
+        pass
+    assert o.id in data
+
+
+def test_offre_refermee_donne_deux_episodes(tmp_path):
+    data = {}
+    o = offre()
+    _fermer_offre(data, o, "2020-01-15T00:00:00Z")
+    store_mod.archiver(data, str(tmp_path))
+    _fermer_offre(data, o, "2020-03-10T00:00:00Z")  # réapparue puis refermée
+    store_mod.archiver(data, str(tmp_path))
+    lignes = list(store_mod.lire_archive(str(tmp_path)))
+    assert [r["closed_at"][:7] for r in lignes] == ["2020-01", "2020-03"]
+    assert store_mod.valider_archive(str(tmp_path)) == []
+
+
+def test_valider_archive_detecte_les_erreurs(tmp_path):
+    (tmp_path / "2020-01.jsonl").write_text(
+        '{"id": "lba:x", "source": "lba", "entreprise": "A", "intitule": "B",'
+        ' "first_seen": "2020-01-01T00:00:00Z", "closed_at": "2020-02-01T00:00:00Z"}\n'
+        "pas du json\n",
+        encoding="utf-8",
+    )
+    erreurs = store_mod.valider_archive(str(tmp_path))
+    assert any("hors du mois" in e for e in erreurs)
+    assert any("JSON invalide" in e for e in erreurs)
 
 
 def test_offre_communautaire_perimee():

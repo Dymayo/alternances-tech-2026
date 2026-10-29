@@ -78,8 +78,11 @@ jobs:
           body: |
             Mise à jour automatique depuis l'API La bonne alternance.
             Fusion automatique une fois la CI (validate.yml) au vert.
+          # data/archive/ : sans cette ligne, les offres archivées seraient
+          # retirées du store mais jamais commitées, donc perdues.
           add-paths: |
             data/listings.json
+            data/archive/*.jsonl
             README.md
             README-Inactive.md
           delete-branch: true
