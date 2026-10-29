@@ -199,6 +199,28 @@ def test_categorisation():
     assert categoriser(offre(intitule="Chargé de clientèle")) == "Autre"
 
 
+def test_categorisation_par_mots_pas_par_sous_chaines():
+    """Intitulés réels classés Cybersécurité à tort en v1.1.0 ("ssi" dans
+    « assistant », "securite" dans une description générique)."""
+    assert categoriser(offre(intitule="Assistant MOA Paie en Alternance H/F")) != "Cybersécurité"
+    assert categoriser(offre(intitule="Data Engineer - en Alternance H/F")) == "Data & IA"
+    assert categoriser(offre(intitule="Technicien Réseau &amp; Télécoms Alternance H/F")) == (
+        "Réseaux, Cloud & Infra"
+    )
+    assert categoriser(
+        offre(
+            intitule="Développeuse - Développeur Logiciel - Alternance H/F",
+            description="Leader de la sécurité et de la data, notre groupe...",
+        )
+    ) == "Développement"
+    assert categoriser(offre(intitule="Ingénieur SSI en alternance")) == "Cybersécurité"
+
+
+def test_categorisation_description_en_repli():
+    o = offre(intitule="Alternant(e) H/F", description="Vous rejoindrez notre équipe DevOps.")
+    assert categoriser(o) == "Réseaux, Cloud & Infra"
+
+
 # ---------------------------------------------------------------- render
 
 
