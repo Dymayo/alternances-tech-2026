@@ -86,8 +86,8 @@
     "date_publication": "2026-10-02",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:043dd8fff4a0": {
     "id": "lba:043dd8fff4a0",
@@ -230,8 +230,8 @@
     "date_publication": "2026-09-29",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:080a31bb1efc": {
     "id": "lba:080a31bb1efc",
@@ -266,8 +266,8 @@
     "date_publication": "2026-10-28",
     "date_debut": "2026-11-09",
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
@@ -388,12 +388,12 @@
     "duree_mois": null,
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pJ2wDS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79235004.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79235004",
-    "categorie": "Autre",
+    "categorie": "Embarqué & Électronique",
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1442293a0632": {
     "id": "lba:1442293a0632",
@@ -608,8 +608,8 @@
     "date_publication": "2026-10-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1c8a42e8d134": {
     "id": "lba:1c8a42e8d134",
@@ -644,8 +644,8 @@
     "date_publication": "2026-10-28",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1d6e2a7bc976": {
     "id": "lba:1d6e2a7bc976",
@@ -932,8 +932,8 @@
     "date_publication": "2026-10-17",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
@@ -1022,8 +1022,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3abc4d56710b": {
     "id": "lba:3abc4d56710b",
@@ -1058,8 +1058,8 @@
     "date_publication": "2026-10-19",
     "date_debut": "2026-10-15",
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3bae77d9a0fb": {
     "id": "lba:3bae77d9a0fb",
@@ -1094,8 +1094,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3ca99e95e415": {
     "id": "lba:3ca99e95e415",
@@ -1418,8 +1418,8 @@
     "date_publication": "2026-10-28",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -1562,8 +1562,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:58f456306224": {
     "id": "lba:58f456306224",
@@ -2570,8 +2570,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8fddfe0d2859": {
     "id": "lba:8fddfe0d2859",
@@ -2984,8 +2984,8 @@
     "date_publication": "2026-10-05",
     "date_debut": "2026-10-18",
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b4989cb675ce": {
     "id": "lba:b4989cb675ce",
@@ -3182,8 +3182,8 @@
     "date_publication": "2026-10-21",
     "date_debut": "2026-11-30",
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c9919e9b353b": {
     "id": "lba:c9919e9b353b",
@@ -3398,8 +3398,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d6058aea8cc2": {
     "id": "lba:d6058aea8cc2",
@@ -3434,8 +3434,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
