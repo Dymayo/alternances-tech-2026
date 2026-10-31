@@ -305,6 +305,24 @@
     "closed_at": "2026-10-16T09:35:09Z",
     "active": false
   },
+  "lba:0c6be7db77e0": {
+    "id": "lba:0c6be7db77e0",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Administrateur / Administratrice réseau informatique (H/F)",
+    "ville": "75009 Paris 9e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788066?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:0ca8aaa668c1": {
     "id": "lba:0ca8aaa668c1",
     "source": "lba",
@@ -320,8 +338,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0de46b41e51a": {
     "id": "lba:0de46b41e51a",
@@ -752,8 +770,8 @@
     "date_publication": "2026-09-30",
     "date_debut": "2026-09-30",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-31T10:47:50Z",
+    "active": false
   },
   "lba:28344ee83cae": {
     "id": "lba:28344ee83cae",
@@ -826,6 +844,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:2d9d2fcf6ec0": {
+    "id": "lba:2d9d2fcf6ec0",
+    "source": "lba",
+    "entreprise": "MICROEJ",
+    "intitule": "Alternance Administrateur Système et Réseau H/F",
+    "ville": "44000 Nantes",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 36,
+    "teletravail": "hybride",
+    "url": "https://r.holeest.com/redirect?jd_token=CgcoVI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84970353.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84970353",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:2e3d0b07ecc8": {
     "id": "lba:2e3d0b07ecc8",
@@ -911,7 +947,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=qrSFUt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83892083.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83892083",
     "categorie": "Data & IA",
-    "date_publication": "2026-09-29",
+    "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -932,8 +968,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-31T10:47:50Z",
+    "active": false
   },
   "lba:3660e539d4bc": {
     "id": "lba:3660e539d4bc",
@@ -952,6 +988,24 @@
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:3721ad6f600a": {
+    "id": "lba:3721ad6f600a",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Administrateur DevOps (H/F)",
+    "ville": "75009 Paris 9e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788064?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
@@ -1313,6 +1367,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:48ff9b278e97": {
+    "id": "lba:48ff9b278e97",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Technicien / Technicienne réseau informatique (H/F)",
+    "ville": "75009 Paris 9e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788062?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
     "source": "lba",
@@ -1348,6 +1420,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "active": false,
     "closed_at": "2026-10-11T11:19:08Z"
+  },
+  "lba:4f488914d2f4": {
+    "id": "lba:4f488914d2f4",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Expert / Experte en cybersécurité (H/F)",
+    "ville": "75009 Paris 9e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788058?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:4fe7bddbb428": {
     "id": "lba:4fe7bddbb428",
@@ -1508,8 +1598,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5743609b71a8": {
     "id": "lba:5743609b71a8",
@@ -1546,6 +1636,24 @@
     "first_seen": "2026-09-12T09:07:01Z",
     "closed_at": "2026-10-01T11:27:32Z",
     "active": false
+  },
+  "lba:57d1818eb9fa": {
+    "id": "lba:57d1818eb9fa",
+    "source": "lba",
+    "entreprise": "METALL PARTNERS",
+    "intitule": "Alternant Contrôle de Gestion, Data & Business Intelligence H/F",
+    "ville": "2 RUE DE LA MANSE 69126 BRINDAS",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae46046149b034bd0578d52/alternant-contrôle-de-gestion-data-business-intelligence-h-f",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": "2026-10-30",
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:582fbb00618a": {
     "id": "lba:582fbb00618a",
@@ -1655,24 +1763,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:5b0855ff1c55": {
-    "id": "lba:5b0855ff1c55",
-    "source": "lba",
-    "entreprise": "Harmonie Mutuelle",
-    "intitule": "Harmonie Mutuelle - Développeur / Développeuse informatique (H/F)",
-    "ville": "37700 Saint-Pierre-des-Corps",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://recrutement.harmonie-mutuelle.fr/fr/annonce/4596643-developpeur-hf-alternance-37700-saint-pierre-des-corps?s_o=France+Travail&s_b=DigitalRecruiters",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-14",
-    "date_debut": null,
-    "first_seen": "2026-09-15T09:52:42Z",
-    "active": false,
-    "closed_at": "2026-09-16T09:46:16Z"
-  },
   "lba:5b42d4741e0f": {
     "id": "lba:5b42d4741e0f",
     "source": "lba",
@@ -1737,7 +1827,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=wlDQTG&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79006307.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79006307",
+    "url": "https://r.holeest.com/redirect?jd_token=CmQZHr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79006307.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79006307",
     "categorie": "Développement",
     "date_publication": "2026-10-13",
     "date_debut": null,
@@ -1832,6 +1922,42 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
+    "active": false,
+    "closed_at": "2026-10-31T10:47:50Z"
+  },
+  "lba:6310a0bd08d4": {
+    "id": "lba:6310a0bd08d4",
+    "source": "lba",
+    "entreprise": "Michael Page",
+    "intitule": "Chef de Projet Recrutement Maintenance en alternance H/F",
+    "ville": "59000 Lille",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57619627?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-21",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:639c6ae9522f": {
+    "id": "lba:639c6ae9522f",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Expert intelligence artificielle (H/F)",
+    "ville": "92110 Clichy",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788057?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
     "active": true,
     "closed_at": null
   },
@@ -1961,6 +2087,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:6b88af61853a": {
+    "id": "lba:6b88af61853a",
+    "source": "lba",
+    "entreprise": "HOLDING GALAXITY",
+    "intitule": "Administrateur Système et Réseau en Alternance H/F",
+    "ville": "69140 Rillieux-la-Pape",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=C2CoCF&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84929033.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84929033",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-29",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:6cedeba79383": {
     "id": "lba:6cedeba79383",
     "source": "lba",
@@ -1996,6 +2140,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:6e69ecdf1257": {
+    "id": "lba:6e69ecdf1257",
+    "source": "lba",
+    "entreprise": "JOHN COCKERILL DEFENSE FRANCE",
+    "intitule": "Alternance - Ingénieur Middleware Ros 2 - Dds - Containers H/F",
+    "ville": "78000 Versailles",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Co2do9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-04",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2228,8 +2390,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-31T10:47:50Z",
+    "active": false
   },
   "lba:80446c5091c9": {
     "id": "lba:80446c5091c9",
@@ -2264,8 +2426,8 @@
     "date_publication": "2026-10-03",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-31T10:47:50Z",
+    "active": false
   },
   "lba:8259a120bfcc": {
     "id": "lba:8259a120bfcc",
@@ -2336,8 +2498,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8396725010f8": {
     "id": "lba:8396725010f8",
@@ -2390,8 +2552,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-10-31T10:47:50Z",
+    "active": false
   },
   "lba:8684da35fe09": {
     "id": "lba:8684da35fe09",
@@ -2462,8 +2624,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": "2026-10-30T11:14:56Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:87cd7492b46d": {
     "id": "lba:87cd7492b46d",
@@ -2837,7 +2999,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/57218907?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Développement",
-    "date_publication": "2026-10-23",
+    "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-02T10:57:45Z",
     "closed_at": null,
@@ -2951,6 +3113,42 @@
     "closed_at": null,
     "active": true
   },
+  "lba:a60a1236c9d6": {
+    "id": "lba:a60a1236c9d6",
+    "source": "lba",
+    "entreprise": "FONDATION DES MONASTERES",
+    "intitule": "Alternant(e) chargé de projet digital et de communication - refonte du site internet (H/F)",
+    "ville": "75001 Paris",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/fondation-des-monasteres-alternante-chargee-de-projet-digital-et-de-communication-refonte-du-site-internet-bb2Mn0eSUg8qeyc7QF0l?source=france_travail",
+    "categorie": "Développement",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
+  "lba:a625789c8d1d": {
+    "id": "lba:a625789c8d1d",
+    "source": "lba",
+    "entreprise": "REDSUP",
+    "intitule": "Expert intelligence artificielle (H/F)",
+    "ville": "75009 Paris 9e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57788060?utm_source=pole-emploi&utm_medium=aggregator-free",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
     "source": "lba",
@@ -3002,6 +3200,24 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:ae3486c3f3ee": {
+    "id": "lba:ae3486c3f3ee",
+    "source": "lba",
+    "entreprise": "PAPREC FRANCE",
+    "intitule": "Alternant Chargé de Mission IA H/F",
+    "ville": "93120 La Courneuve",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=CkbI3f&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
     "active": true,
     "closed_at": null
   },
@@ -3416,8 +3632,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d305c67f945d": {
     "id": "lba:d305c67f945d",
@@ -3434,8 +3650,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-31T10:47:50Z"
   },
   "lba:d387b04a900b": {
     "id": "lba:d387b04a900b",
@@ -3545,6 +3761,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:d7752698d339": {
+    "id": "lba:d7752698d339",
+    "source": "lba",
+    "entreprise": "Michael Page",
+    "intitule": "Chef de Projet Recrutement Maintenance H/F",
+    "ville": "59000 Lille",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.meteojob.com/jobs/57619647?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-21",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
     "source": "lba",
@@ -3596,8 +3830,8 @@
     "date_publication": "2026-10-29",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -3616,6 +3850,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:dd21ac22011c": {
+    "id": "lba:dd21ac22011c",
+    "source": "lba",
+    "entreprise": "ALTER SI",
+    "intitule": "STAGE FIN D'ETUDE OU ALTERNANCE STAGE : CONSULtant BI (H/F)",
+    "ville": "75001 Paris",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/alter-si-stage-fin-detude-ou-alternance-stage-consultante-bi-hf-kc4dhdaB0wRSBbXO7ycn?source=france_travail",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:dd9ffcabdb34": {
     "id": "lba:dd9ffcabdb34",
@@ -3647,7 +3899,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=pJ4gDF&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80733348.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D80733348",
     "categorie": "Data & IA",
-    "date_publication": "2026-09-28",
+    "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -3704,8 +3956,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-10-31T10:47:50Z"
   },
   "lba:e5613ce39d5b": {
     "id": "lba:e5613ce39d5b",
@@ -3722,8 +3974,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e5b1a504ba16": {
     "id": "lba:e5b1a504ba16",
@@ -3797,6 +4049,24 @@
     "closed_at": "2026-10-07T11:37:27Z",
     "active": false
   },
+  "lba:ea06e0f34b4b": {
+    "id": "lba:ea06e0f34b4b",
+    "source": "lba",
+    "entreprise": "ALDES",
+    "intitule": "Apprenti - Sécurité Informatique H/F",
+    "ville": "69200 Vénissieux",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Chl1Lf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84973466.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84973466",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:ea2d4806fdfb": {
     "id": "lba:ea2d4806fdfb",
     "source": "lba",
@@ -3832,6 +4102,24 @@
     "first_seen": "2026-09-15T09:52:42Z",
     "closed_at": "2026-09-22T09:43:50Z",
     "active": false
+  },
+  "lba:eb2b612e0b00": {
+    "id": "lba:eb2b612e0b00",
+    "source": "lba",
+    "entreprise": "HOLIS",
+    "intitule": "Data Analyst / Scientist - Startup à impact  (H/F)",
+    "ville": "75001 Paris",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
@@ -3974,6 +4262,24 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
+    "active": false,
+    "closed_at": "2026-10-31T10:47:50Z"
+  },
+  "lba:f90c97acbbd6": {
+    "id": "lba:f90c97acbbd6",
+    "source": "lba",
+    "entreprise": "\"L'ESPACE BIOHEME\"",
+    "intitule": "STAGIAIRE QUALITE R&amp;D   (H/F)",
+    "ville": "44000 Nantes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/bioheme-stagiaire-qualite-retd-lOpnBpQ6KkR0Su0QKjbD?source=france_travail",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-10-31T10:47:50Z",
     "active": true,
     "closed_at": null
   },
