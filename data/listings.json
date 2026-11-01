@@ -245,7 +245,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pGWFbI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82849425.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bsecurite%252Ctelecom%252Cferroviaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D82849425",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-30",
+    "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -320,8 +320,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:0ca8aaa668c1": {
     "id": "lba:0ca8aaa668c1",
@@ -338,8 +338,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:0de46b41e51a": {
     "id": "lba:0de46b41e51a",
@@ -446,8 +446,8 @@
     "date_publication": "2026-10-28",
     "date_debut": "2026-10-28",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:14c10b17bb12": {
     "id": "lba:14c10b17bb12",
@@ -466,6 +466,24 @@
     "first_seen": "2026-10-16T09:35:09Z",
     "closed_at": "2026-10-29T02:41:04Z",
     "active": false
+  },
+  "lba:1530556eb440": {
+    "id": "lba:1530556eb440",
+    "source": "lba",
+    "entreprise": "Jirco",
+    "intitule": "Business Developer B2B  (H/F)",
+    "ville": "75013 Paris 13e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
+    "categorie": "Développement",
+    "date_publication": "2026-10-31",
+    "date_debut": null,
+    "first_seen": "2026-11-01T11:45:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:1588cc665bf8": {
     "id": "lba:1588cc665bf8",
@@ -788,8 +806,8 @@
     "date_publication": "2026-10-11",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
@@ -860,8 +878,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-01T11:45:19Z"
   },
   "lba:2e3d0b07ecc8": {
     "id": "lba:2e3d0b07ecc8",
@@ -1004,8 +1022,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
@@ -1382,8 +1400,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
@@ -1436,8 +1454,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4fe7bddbb428": {
     "id": "lba:4fe7bddbb428",
@@ -1598,8 +1616,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-30T11:14:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:5743609b71a8": {
     "id": "lba:5743609b71a8",
@@ -1652,8 +1670,8 @@
     "date_publication": "2026-10-30",
     "date_debut": "2026-10-30",
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:582fbb00618a": {
     "id": "lba:582fbb00618a",
@@ -1940,8 +1958,8 @@
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:639c6ae9522f": {
     "id": "lba:639c6ae9522f",
@@ -1958,8 +1976,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:63acc5e146a4": {
     "id": "lba:63acc5e146a4",
@@ -2102,8 +2120,8 @@
     "date_publication": "2026-10-29",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6cedeba79383": {
     "id": "lba:6cedeba79383",
@@ -2151,13 +2169,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=Co2do9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=CwN772&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-10-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2462,8 +2480,8 @@
     "date_publication": "2026-10-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:82e186659dfb": {
     "id": "lba:82e186659dfb",
@@ -2516,8 +2534,8 @@
     "date_publication": "2026-09-15",
     "date_debut": "2026-12-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-01T11:45:19Z",
+    "active": false
   },
   "lba:85c24bdd3f7f": {
     "id": "lba:85c24bdd3f7f",
@@ -2897,24 +2915,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:980a70455a79": {
-    "id": "lba:980a70455a79",
-    "source": "lba",
-    "entreprise": "EXPERIS FRANCE",
-    "intitule": "Administrateur infrastructure H/F",
-    "ville": "Chemin de la Boire 44240 La Chapelle-sur-Erdre",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 0,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa14d05744920529fea0296/administrateur-infrastructure-h-f",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-09",
-    "date_debut": "2026-10-01",
-    "first_seen": "2026-09-10T09:27:30Z",
-    "closed_at": "2026-09-17T09:53:56Z",
-    "active": false
-  },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
     "source": "lba",
@@ -3128,8 +3128,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-01T11:45:19Z"
   },
   "lba:a625789c8d1d": {
     "id": "lba:a625789c8d1d",
@@ -3146,8 +3146,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
@@ -3218,8 +3218,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:afc8763fa734": {
     "id": "lba:afc8763fa734",
@@ -3776,8 +3776,8 @@
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
@@ -3866,8 +3866,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-01T11:45:19Z"
   },
   "lba:dd9ffcabdb34": {
     "id": "lba:dd9ffcabdb34",
@@ -4064,8 +4064,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ea2d4806fdfb": {
     "id": "lba:ea2d4806fdfb",
@@ -4118,8 +4118,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-01T11:45:19Z"
   },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
@@ -4205,7 +4205,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=rcmqxX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83949488.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83949488",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-09-30",
+    "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -4280,8 +4280,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-01T11:45:19Z"
   },
   "lba:f97b049330ba": {
     "id": "lba:f97b049330ba",
