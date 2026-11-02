@@ -212,8 +212,8 @@
     "date_publication": "2026-07-07",
     "date_debut": "2026-10-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:07a9853c7edc": {
     "id": "lba:07a9853c7edc",
@@ -284,8 +284,8 @@
     "date_publication": "2026-09-22",
     "date_debut": "2026-10-05",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:0bf0fa26b09f": {
     "id": "lba:0bf0fa26b09f",
@@ -320,8 +320,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:0ca8aaa668c1": {
     "id": "lba:0ca8aaa668c1",
@@ -474,7 +474,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -482,8 +482,8 @@
     "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-11-01T11:45:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1588cc665bf8": {
     "id": "lba:1588cc665bf8",
@@ -989,6 +989,24 @@
     "closed_at": "2026-10-31T10:47:50Z",
     "active": false
   },
+  "lba:3643f7c5de85": {
+    "id": "lba:3643f7c5de85",
+    "source": "lba",
+    "entreprise": "MICROEJ",
+    "intitule": "Alternance : Administrateur système et réseau (H/F)",
+    "ville": "44000 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae7c5f7ec4f5594ab46a165/alternance-administrateur-système-et-réseau-h-f",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-11-02T13:16:06Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3660e539d4bc": {
     "id": "lba:3660e539d4bc",
     "source": "lba",
@@ -1022,8 +1040,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:385588d6a7e4": {
     "id": "lba:385588d6a7e4",
@@ -1400,8 +1418,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
@@ -1454,8 +1472,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:4fe7bddbb428": {
     "id": "lba:4fe7bddbb428",
@@ -1721,7 +1739,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=ygiLv4&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77463704.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D77463704",
     "categorie": "Embarqué & Électronique",
-    "date_publication": "2026-10-01",
+    "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
@@ -1976,8 +1994,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:63acc5e146a4": {
     "id": "lba:63acc5e146a4",
@@ -2169,7 +2187,7 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=CwN772&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=CEs8BH&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-10-04",
     "date_debut": null,
@@ -3146,8 +3164,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-02T13:16:06Z",
+    "active": false
   },
   "lba:a70bcb2b181e": {
     "id": "lba:a70bcb2b181e",
@@ -4228,6 +4246,24 @@
     "first_seen": "2026-10-01T11:27:32Z",
     "closed_at": "2026-10-16T09:35:09Z",
     "active": false
+  },
+  "lba:f0cf93542ef6": {
+    "id": "lba:f0cf93542ef6",
+    "source": "lba",
+    "entreprise": "NEXTEAM",
+    "intitule": "Alternance Support Informatique H/F",
+    "ville": "19200 Ussel",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=rCxVBS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83977423.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83977423",
+    "categorie": "Développement",
+    "date_publication": "2026-10-31",
+    "date_debut": null,
+    "first_seen": "2026-11-02T13:16:06Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f5c18d90d0a4": {
     "id": "lba:f5c18d90d0a4",
