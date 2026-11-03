@@ -83,7 +83,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=zLp8XA&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84024597.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84024597",
     "categorie": "Embarqué & Électronique",
-    "date_publication": "2026-10-02",
+    "date_publication": "2026-11-01",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
@@ -515,7 +515,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=s1nRFb&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84002951.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84002951",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-02",
+    "date_publication": "2026-11-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -1004,8 +1004,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-11-02T13:16:06Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3660e539d4bc": {
     "id": "lba:3660e539d4bc",
@@ -1493,6 +1493,24 @@
     "active": false,
     "closed_at": "2026-10-18T09:23:59Z"
   },
+  "lba:502a055df5a2": {
+    "id": "lba:502a055df5a2",
+    "source": "lba",
+    "entreprise": "BUT",
+    "intitule": "Alternant Chef de Produits Web H/F",
+    "ville": "77184 Émerainville",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=CQTiWe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457",
+    "categorie": "Développement",
+    "date_publication": "2026-10-16",
+    "date_debut": null,
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:5050946b7489": {
     "id": "lba:5050946b7489",
     "source": "lba",
@@ -1706,8 +1724,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:587d5289db27": {
     "id": "lba:587d5289db27",
@@ -1724,8 +1742,8 @@
     "date_publication": "2026-10-05",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:588a148c1c58": {
     "id": "lba:588a148c1c58",
@@ -1870,6 +1888,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:5db104288017": {
+    "id": "lba:5db104288017",
+    "source": "lba",
+    "entreprise": "LAB EVENT",
+    "intitule": "Product Owner / QA - Logiciel SaaS / ALTERNANCE (H/F)",
+    "ville": "92300 Levallois-Perret",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XFWB",
+    "categorie": "Développement",
+    "date_publication": "2026-11-02",
+    "date_debut": null,
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:5e1f404b3828": {
     "id": "lba:5e1f404b3828",
@@ -2084,8 +2120,8 @@
     "date_publication": "2026-10-19",
     "date_debut": "2026-12-07",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:69e1c747ec81": {
     "id": "lba:69e1c747ec81",
@@ -2192,8 +2228,8 @@
     "date_publication": "2026-10-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2555,6 +2591,24 @@
     "closed_at": "2026-11-01T11:45:19Z",
     "active": false
   },
+  "lba:8543846e9640": {
+    "id": "lba:8543846e9640",
+    "source": "lba",
+    "entreprise": "LA TOUCHE",
+    "intitule": "Technicien informatique H/F en alternance (H/F)",
+    "ville": "83120 Sainte-Maxime",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215WVXF",
+    "categorie": "Développement",
+    "date_publication": "2026-10-30",
+    "date_debut": null,
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:85c24bdd3f7f": {
     "id": "lba:85c24bdd3f7f",
     "source": "lba",
@@ -2642,8 +2696,8 @@
     "date_publication": "2026-10-23",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:8703545ffeba": {
     "id": "lba:8703545ffeba",
@@ -2657,7 +2711,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=y6Lgg9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82924691.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82924691",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-01",
+    "date_publication": "2026-11-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -2727,9 +2781,9 @@
     "niveau": "BTS, DEUST (Bac+2)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJ64Wd&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82911204.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D82911204",
+    "url": "https://r.holeest.com/redirect?jd_token=pJbImT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81727569.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D81727569",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-01",
+    "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -3128,8 +3182,8 @@
     "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:a60a1236c9d6": {
     "id": "lba:a60a1236c9d6",
@@ -3275,6 +3329,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:b2d8d377be5f": {
+    "id": "lba:b2d8d377be5f",
+    "source": "lba",
+    "entreprise": "AMOA",
+    "intitule": "Développeur·se Full Stack (JS/TS) - Alternance - Paris",
+    "ville": "75008 Paris 8e Arrondissement",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/amoa-developpeurse-full-stack-jsts-alternance-paris-9N6deI9FPIncywO2eU47?source=api-apprentissage",
+    "categorie": "Développement",
+    "date_publication": "2026-11-02",
+    "date_debut": "2027-02-01",
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:b318ef1a4c23": {
     "id": "lba:b318ef1a4c23",
     "source": "lba",
@@ -3308,8 +3380,8 @@
     "date_publication": "2026-10-27",
     "date_debut": "2026-11-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
@@ -3364,6 +3436,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:beedc8d36d79": {
+    "id": "lba:beedc8d36d79",
+    "source": "lba",
+    "entreprise": "ESPACE MAINTENANCE INFORMATIQUE",
+    "intitule": "Technicien / Technicienne support de proximité en informatique (H/F)",
+    "ville": "49230 Sèvremoine",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/214CTSP",
+    "categorie": "Développement",
+    "date_publication": "2026-09-19",
+    "date_debut": null,
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:bfc8b5c3b900": {
     "id": "lba:bfc8b5c3b900",
@@ -3452,8 +3542,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:c67dd6cb9815": {
     "id": "lba:c67dd6cb9815",
@@ -3812,8 +3902,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:d927be252df8": {
     "id": "lba:d927be252df8",
@@ -3977,6 +4067,24 @@
     "active": false,
     "closed_at": "2026-10-31T10:47:50Z"
   },
+  "lba:e553af868b22": {
+    "id": "lba:e553af868b22",
+    "source": "lba",
+    "entreprise": "STEAMONE",
+    "intitule": "Project Management Officer - PMO",
+    "ville": "10 AVENUE GEORGE V 75008 PARIS",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae891d5ba886af2416d5ed7/project-management-officer-pmo",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-02",
+    "date_debut": "2026-11-02",
+    "first_seen": "2026-11-03T12:41:33Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:e5613ce39d5b": {
     "id": "lba:e5613ce39d5b",
     "source": "lba",
@@ -4082,8 +4190,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-03T12:41:33Z",
+    "active": false
   },
   "lba:ea2d4806fdfb": {
     "id": "lba:ea2d4806fdfb",
@@ -4156,24 +4264,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:ebc9b25c5e35": {
-    "id": "lba:ebc9b25c5e35",
-    "source": "lba",
-    "entreprise": "MINISTERE DE LA CULTURE",
-    "intitule": "Assistant informatique H/F",
-    "ville": "94220 Charenton-le-Pont",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://rhalternance.com/jobs/maintenance-et-entretien/charenton-le-pont/assistant-informatique-h-f-732462651",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-18",
-    "date_debut": null,
-    "first_seen": "2026-09-03T09:32:32Z",
-    "closed_at": "2026-09-19T09:18:19Z",
-    "active": false
   },
   "lba:ebf4cb48c944": {
     "id": "lba:ebf4cb48c944",
@@ -4262,8 +4352,8 @@
     "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-11-02T13:16:06Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f5c18d90d0a4": {
     "id": "lba:f5c18d90d0a4",
