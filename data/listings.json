@@ -32,8 +32,8 @@
     "date_publication": "2026-10-20",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:022a9c7158ab": {
     "id": "lba:022a9c7158ab",
@@ -474,7 +474,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -513,9 +513,9 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=s1nRFb&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84002951.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84002951",
+    "url": "https://r.holeest.com/redirect?jd_token=D4p4PJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85111213.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85111213",
     "categorie": "Data & IA",
-    "date_publication": "2026-11-01",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -971,6 +971,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:3261f362f3e4": {
+    "id": "lba:3261f362f3e4",
+    "source": "lba",
+    "entreprise": "PWA",
+    "intitule": "Expert / Experte en sécurité informatique (SSI)",
+    "ville": "13 RUE GILIBERT 69002 LYON",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aea78a073033f5541cf556c/expert-experte-en-sécurité-informatique-ssi",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-04",
+    "date_debut": "2026-11-04",
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:32e9ccb54bdf": {
     "id": "lba:32e9ccb54bdf",
     "source": "lba",
@@ -1094,8 +1112,8 @@
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:3a6a26f02be5": {
     "id": "lba:3a6a26f02be5",
@@ -1176,7 +1194,7 @@
     "intitule": "Alternant Développement IA &amp; Data Scientist H/F",
     "ville": "63770 Les Ancizes-Comps",
     "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=pJ8B2B&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83401742.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83401742",
@@ -1508,8 +1526,8 @@
     "date_publication": "2026-10-16",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5050946b7489": {
     "id": "lba:5050946b7489",
@@ -1547,6 +1565,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:514cedf81471": {
+    "id": "lba:514cedf81471",
+    "source": "lba",
+    "entreprise": "Link Consulting",
+    "intitule": "Tech Lead C# React (H/F) (Link Consulting)",
+    "ville": "75001 Paris",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API",
+    "categorie": "Autre",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:51db3eafb8d3": {
     "id": "lba:51db3eafb8d3",
     "source": "lba",
@@ -1582,6 +1618,24 @@
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:54022b2209a8": {
+    "id": "lba:54022b2209a8",
+    "source": "lba",
+    "entreprise": "Dassault Aviation",
+    "intitule": "Apprenti(e) chef(fe) de projet Usine 4.0 Connectée F/H",
+    "ville": "Pkg Gare Rout. de St Cloud 92210 Saint-Cloud",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 36,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179696009W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-02",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -1706,8 +1760,8 @@
     "date_publication": "2026-10-30",
     "date_debut": "2026-10-30",
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:582fbb00618a": {
     "id": "lba:582fbb00618a",
@@ -1904,8 +1958,8 @@
     "date_publication": "2026-11-02",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5e1f404b3828": {
     "id": "lba:5e1f404b3828",
@@ -2158,6 +2212,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:6b024815b7d6": {
+    "id": "lba:6b024815b7d6",
+    "source": "lba",
+    "entreprise": "LAURY CONCEPT",
+    "intitule": "Technicien-conseil informatique en alternance (H/F)",
+    "ville": "675 AVENUE JOEL PILON 12740 SEBAZAC-CONCOURES",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae5c28fbbefc38a6cf03c65/technicien-conseil-informatique-en-alternance-h-f",
+    "categorie": "Développement",
+    "date_publication": "2026-10-31",
+    "date_debut": "2026-10-31",
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:6b88af61853a": {
     "id": "lba:6b88af61853a",
@@ -2606,8 +2678,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:85c24bdd3f7f": {
     "id": "lba:85c24bdd3f7f",
@@ -2752,6 +2824,24 @@
     "first_seen": "2026-10-17T09:06:19Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:88ee3ae47839": {
+    "id": "lba:88ee3ae47839",
+    "source": "lba",
+    "entreprise": "RSM OUEST",
+    "intitule": "Apprenti Technicien Support N1 H/F",
+    "ville": "34470 Pérols",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=D2lq3q&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85100337.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85100337",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:8a3a0035c609": {
     "id": "lba:8a3a0035c609",
@@ -3059,6 +3149,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:9d3c55f51a71": {
+    "id": "lba:9d3c55f51a71",
+    "source": "lba",
+    "entreprise": "RSM France",
+    "intitule": "RSM France - Technicien / Technicienne support informatique (H/F)",
+    "ville": "34470 Pérols",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://recrutement.rsmfrance.fr/fr/annonce/4675809-apprentie-technicien-support-n1-hf-perols?s_o=France+Travail&s_b=DigitalRecruiters",
+    "categorie": "Développement",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:9e7f45da17ef": {
     "id": "lba:9e7f45da17ef",
     "source": "lba",
@@ -3197,11 +3305,11 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/fondation-des-monasteres-alternante-chargee-de-projet-digital-et-de-communication-refonte-du-site-internet-bb2Mn0eSUg8qeyc7QF0l?source=france_travail",
     "categorie": "Développement",
-    "date_publication": "2026-10-30",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": false,
-    "closed_at": "2026-11-01T11:45:19Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:a625789c8d1d": {
     "id": "lba:a625789c8d1d",
@@ -3256,6 +3364,24 @@
     "first_seen": "2026-09-25T10:04:35Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:ab75b09000d5": {
+    "id": "lba:ab75b09000d5",
+    "source": "lba",
+    "entreprise": "Link Consulting",
+    "intitule": "Administrateur d'exploitation IT (H/F)",
+    "ville": "31000 Toulouse",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://jobaffinity.fr/apply/uryp4oaut0jea86wxi?src=FranceTravail%20API",
+    "categorie": "Développement",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:adb8ffd6b574": {
     "id": "lba:adb8ffd6b574",
@@ -3344,8 +3470,8 @@
     "date_publication": "2026-11-02",
     "date_debut": "2027-02-01",
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-04T12:51:34Z"
   },
   "lba:b318ef1a4c23": {
     "id": "lba:b318ef1a4c23",
@@ -3452,8 +3578,8 @@
     "date_publication": "2026-09-19",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-04T12:51:34Z"
   },
   "lba:bfc8b5c3b900": {
     "id": "lba:bfc8b5c3b900",
@@ -3647,7 +3773,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=sbUelg&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82791417.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82791417",
     "categorie": "Développement",
-    "date_publication": "2026-10-02",
+    "date_publication": "2026-11-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -3794,8 +3920,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:d4fcacfb9324": {
     "id": "lba:d4fcacfb9324",
@@ -3866,8 +3992,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:d7752698d339": {
     "id": "lba:d7752698d339",
@@ -3971,11 +4097,11 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/alter-si-stage-fin-detude-ou-alternance-stage-consultante-bi-hf-kc4dhdaB0wRSBbXO7ycn?source=france_travail",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-30",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": false,
-    "closed_at": "2026-11-01T11:45:19Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:dd9ffcabdb34": {
     "id": "lba:dd9ffcabdb34",
@@ -4012,6 +4138,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:ded872be3970": {
+    "id": "lba:ded872be3970",
+    "source": "lba",
+    "entreprise": "LES ENTREPRISES PORTEUSES D'EMPLOIS",
+    "intitule": "Automaticien/bureau d'études (H/F)",
+    "ville": "02100 Saint-Quentin",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215ZJXV",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-04T12:51:34Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:df4b31eecbbc": {
     "id": "lba:df4b31eecbbc",
@@ -4082,8 +4226,8 @@
     "date_publication": "2026-11-02",
     "date_debut": "2026-11-02",
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e5613ce39d5b": {
     "id": "lba:e5613ce39d5b",
@@ -4118,8 +4262,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-04T12:51:34Z",
+    "active": false
   },
   "lba:e6859f68ff79": {
     "id": "lba:e6859f68ff79",
@@ -4241,11 +4385,11 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-30",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": false,
-    "closed_at": "2026-11-01T11:45:19Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
@@ -4355,24 +4499,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:f5c18d90d0a4": {
-    "id": "lba:f5c18d90d0a4",
-    "source": "lba",
-    "entreprise": "Direction de l'administration pénitentiaire",
-    "intitule": "APPRENTI CORRESPONDANT LOCAL DES SYSTEMES D'INFORMATIONS",
-    "ville": "89440 Joux-la-Ville",
-    "contrat": "apprentissage",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-correspondant-local-des-systemes-dinformations",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-11",
-    "date_debut": "2026-09-14",
-    "first_seen": "2026-09-12T09:07:01Z",
-    "closed_at": "2026-09-20T09:40:04Z",
-    "active": false
-  },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
     "source": "lba",
@@ -4403,11 +4529,11 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/bioheme-stagiaire-qualite-retd-lOpnBpQ6KkR0Su0QKjbD?source=france_travail",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-10-30",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "active": false,
-    "closed_at": "2026-11-01T11:45:19Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:f97b049330ba": {
     "id": "lba:f97b049330ba",
