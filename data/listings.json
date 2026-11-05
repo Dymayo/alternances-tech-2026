@@ -266,8 +266,8 @@
     "date_publication": "2026-10-28",
     "date_debut": "2026-11-09",
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-05T12:59:40Z",
+    "active": false
   },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
@@ -569,7 +569,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=pJbIzP&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82970991.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82970991",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-03",
+    "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -986,8 +986,8 @@
     "date_publication": "2026-11-04",
     "date_debut": "2026-11-04",
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-05T12:59:40Z"
   },
   "lba:32e9ccb54bdf": {
     "id": "lba:32e9ccb54bdf",
@@ -1112,8 +1112,8 @@
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": "2026-11-04T12:51:34Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:3a6a26f02be5": {
     "id": "lba:3a6a26f02be5",
@@ -1580,8 +1580,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:51db3eafb8d3": {
     "id": "lba:51db3eafb8d3",
@@ -1634,6 +1634,24 @@
     "date_publication": "2026-11-02",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:54711d54afb6": {
+    "id": "lba:54711d54afb6",
+    "source": "lba",
+    "entreprise": "Layan",
+    "intitule": "Support aux utilisateurs en informatique (H/F)",
+    "ville": "75013 Paris 13e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://jobs.layan.eu/fr/offer-of-layan-1-no-115705/56",
+    "categorie": "Développement",
+    "date_publication": "2026-11-04",
+    "date_debut": null,
+    "first_seen": "2026-11-05T12:59:40Z",
     "active": true,
     "closed_at": null
   },
@@ -2228,8 +2246,8 @@
     "date_publication": "2026-10-31",
     "date_debut": "2026-10-31",
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6b88af61853a": {
     "id": "lba:6b88af61853a",
@@ -2295,13 +2313,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=CEs8BH&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=Dl5NcN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-10-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": "2026-11-03T12:41:33Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2480,8 +2498,8 @@
     "date_publication": "2026-09-05",
     "date_debut": "2026-09-05",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-05T12:59:40Z",
+    "active": false
   },
   "lba:7e763afd4260": {
     "id": "lba:7e763afd4260",
@@ -2732,8 +2750,8 @@
     "date_publication": "2026-10-06",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-05T12:59:40Z",
+    "active": false
   },
   "lba:86efb3b61221": {
     "id": "lba:86efb3b61221",
@@ -2840,8 +2858,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8a3a0035c609": {
     "id": "lba:8a3a0035c609",
@@ -3164,8 +3182,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9e7f45da17ef": {
     "id": "lba:9e7f45da17ef",
@@ -3380,8 +3398,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:adb8ffd6b574": {
     "id": "lba:adb8ffd6b574",
@@ -3560,8 +3578,8 @@
     "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-05T12:59:40Z",
+    "active": false
   },
   "lba:beedc8d36d79": {
     "id": "lba:beedc8d36d79",
@@ -4067,6 +4085,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:dab0cae6cc97": {
+    "id": "lba:dab0cae6cc97",
+    "source": "lba",
+    "entreprise": "HUB SAFE - SAFESQUARE BY SAMSIC",
+    "intitule": "Apprenti Bac+5 Ingénieur - Data Scientist H/F",
+    "ville": "93290 Tremblay-en-France",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=D6JyRV&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85123185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85123185",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-03",
+    "date_debut": null,
+    "first_seen": "2026-11-05T12:59:40Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
     "source": "lba",
@@ -4154,8 +4190,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:df4b31eecbbc": {
     "id": "lba:df4b31eecbbc",
