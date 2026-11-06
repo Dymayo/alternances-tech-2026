@@ -474,7 +474,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -809,6 +809,24 @@
     "closed_at": "2026-11-01T11:45:19Z",
     "active": false
   },
+  "lba:285e23ae131e": {
+    "id": "lba:285e23ae131e",
+    "source": "lba",
+    "entreprise": "FRAMATOME",
+    "intitule": "Alternance - Conception moyen de test de développement de carte électronique embarquant du FPGA F/H",
+    "ville": "69002 Lyon 2e Arrondissement",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.directemploi.com/candidatOffre/56428696?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
     "source": "lba",
@@ -842,8 +860,8 @@
     "date_publication": "2026-09-14",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-06T12:47:28Z",
+    "active": false
   },
   "lba:2d8060c3b674": {
     "id": "lba:2d8060c3b674",
@@ -892,12 +910,12 @@
     "duree_mois": null,
     "teletravail": "",
     "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27674?idOrigine=502",
-    "categorie": "Cybersécurité",
+    "categorie": "Embarqué & Électronique",
     "date_publication": "2026-09-22",
     "date_debut": "2026-11-16",
     "first_seen": "2026-09-23T09:49:29Z",
-    "closed_at": "2026-10-01T11:27:32Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:2e7d24b660cc": {
     "id": "lba:2e7d24b660cc",
@@ -1475,6 +1493,24 @@
     "active": false,
     "closed_at": "2026-10-11T11:19:08Z"
   },
+  "lba:4f354790bb1b": {
+    "id": "lba:4f354790bb1b",
+    "source": "lba",
+    "entreprise": "SIA HABITAT",
+    "intitule": "Data Manager H/F",
+    "ville": "Rue Jean-Jacques Rousseau (Hellemmes-Lille) 59800 Lille",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "hybride",
+    "url": "https://r.holeest.com/redirect?jd_token=Dy0Ia3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85201176.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85201176",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:4f488914d2f4": {
     "id": "lba:4f488914d2f4",
     "source": "lba",
@@ -1526,8 +1562,8 @@
     "date_publication": "2026-10-16",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-06T12:47:28Z",
+    "active": false
   },
   "lba:5050946b7489": {
     "id": "lba:5050946b7489",
@@ -1652,8 +1688,8 @@
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-11-05T12:59:40Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:55be7f22d47e": {
     "id": "lba:55be7f22d47e",
@@ -2318,8 +2354,26 @@
     "date_publication": "2026-10-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-06T12:47:28Z",
+    "active": false
+  },
+  "lba:6e7b7f18725e": {
+    "id": "lba:6e7b7f18725e",
+    "source": "lba",
+    "entreprise": "FRANCE TRAVAIL",
+    "intitule": "Apprentissage - chargé.e d'analyse de données de pilotage",
+    "ville": "75020 Paris 20e Arrondissement",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://recrute.francetravail.org/Pages/Offre/detailoffre.aspx?idOffre=90734&idOrigine=502&LCID=1036&offerReference=2026-90734",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2390,8 +2444,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-06T12:47:28Z",
+    "active": false
   },
   "lba:7761c952ea11": {
     "id": "lba:7761c952ea11",
@@ -2858,8 +2912,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-06T12:47:28Z",
+    "active": false
   },
   "lba:8a3a0035c609": {
     "id": "lba:8a3a0035c609",
@@ -3094,6 +3148,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:95bfd02cd70d": {
+    "id": "lba:95bfd02cd70d",
+    "source": "lba",
+    "entreprise": "MI Secrétariat général",
+    "intitule": "Apprenti.e développeur.se au centre de cyberdéfense du ministère de l'intérieur",
+    "ville": "31000 Toulouse",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-developpeurse-au-centre-de-cyberdefense-du-ministere-de-linterieur",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-05",
+    "date_debut": "2027-01-14",
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
@@ -3401,6 +3473,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:ace71bf1a41b": {
+    "id": "lba:ace71bf1a41b",
+    "source": "lba",
+    "entreprise": "FM FRANCE",
+    "intitule": "Alternant Développeur et Maintenance Informatique H/F",
+    "ville": "77610 Fontenay-Trésigny",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=DvNrih&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85186653.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85186653",
+    "categorie": "Développement",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:adb8ffd6b574": {
     "id": "lba:adb8ffd6b574",
     "source": "lba",
@@ -3526,6 +3616,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-03T12:41:33Z",
     "active": false
+  },
+  "lba:b6d4a70eedf5": {
+    "id": "lba:b6d4a70eedf5",
+    "source": "lba",
+    "entreprise": "ALLIANZ PARTNERS SAS",
+    "intitule": "Alternance - Portfolio &amp; Data Analyst H/F",
+    "ville": "93400 Saint-Ouen-sur-Seine",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=DyNh8c&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85204355.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85204355",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
@@ -3717,9 +3825,9 @@
     "niveau": "CAP, BEP (Infrabac)",
     "duree_mois": 16,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=Ay6SXX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84679742.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84679742",
+    "url": "https://r.holeest.com/redirect?jd_token=DnQNjZ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85175154.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85175154",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-21",
+    "date_publication": "2026-11-05",
     "date_debut": "2026-11-30",
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
@@ -4100,8 +4208,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-05T12:59:40Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-06T12:47:28Z"
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -4313,7 +4421,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pJbIAu&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79768077.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79768077",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-04",
+    "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -4390,24 +4498,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:eb0be365063d": {
-    "id": "lba:eb0be365063d",
-    "source": "lba",
-    "entreprise": "ARCSOLU",
-    "intitule": "Assistant Support Technique",
-    "ville": "189 RUE D'AUBERVILLIERS 75018 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa90e901124e4727883a95f/assistant-support-technique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-15",
-    "date_debut": "2027-09-01",
-    "first_seen": "2026-09-15T09:52:42Z",
-    "closed_at": "2026-09-22T09:43:50Z",
-    "active": false
   },
   "lba:eb2b612e0b00": {
     "id": "lba:eb2b612e0b00",
@@ -4643,6 +4733,24 @@
     "closed_at": "2026-10-13T12:32:12Z",
     "active": false
   },
+  "lba:fcca1a56e5f3": {
+    "id": "lba:fcca1a56e5f3",
+    "source": "lba",
+    "entreprise": "CELAD",
+    "intitule": "Alternant Support IT - Dsi Celad - Balma H/F",
+    "ville": "31130 Balma",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "hybride",
+    "url": "https://r.holeest.com/redirect?jd_token=Dvz3rf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85185668.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85185668",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-06T12:47:28Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:fdd6ff250e17": {
     "id": "lba:fdd6ff250e17",
     "source": "lba",
@@ -4660,24 +4768,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:fddfbb4ffe33": {
-    "id": "lba:fddfbb4ffe33",
-    "source": "lba",
-    "entreprise": "SEPROLEC SAS",
-    "intitule": "Technicien(ne) Informatique &amp; Support bancs de test H/F",
-    "ville": "14500 Vire Normandie",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.lindustrie-recrute.fr/candidat/offre/824167?utm_source=NQ==",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-08-25",
-    "date_debut": null,
-    "first_seen": "2026-08-26T05:38:08Z",
-    "closed_at": "2026-09-22T09:43:50Z",
-    "active": false
   },
   "lba:ff32b34fe93c": {
     "id": "lba:ff32b34fe93c",
