@@ -405,13 +405,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=zhyCSa&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-30",
+    "url": "https://r.holeest.com/redirect?jd_token=DPSxd0&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": "2026-10-21T09:54:41Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:1349a932ba04": {
     "id": "lba:1349a932ba04",
@@ -824,8 +824,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
@@ -839,7 +839,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/57451415?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Développement",
-    "date_publication": "2026-10-24",
+    "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-14T09:59:23Z",
     "closed_at": null,
@@ -1040,8 +1040,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-11-02T13:16:06Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-07T11:35:56Z",
+    "active": false
   },
   "lba:3660e539d4bc": {
     "id": "lba:3660e539d4bc",
@@ -1403,24 +1403,6 @@
     "closed_at": "2026-09-25T10:04:35Z",
     "active": false
   },
-  "lba:46fae3ff7348": {
-    "id": "lba:46fae3ff7348",
-    "source": "lba",
-    "entreprise": "STE DIFFAZUR",
-    "intitule": "Développeur informatique junior (H/F)",
-    "ville": "06700 Saint-Laurent-du-Var",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JHQG",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-03",
-    "date_debut": null,
-    "first_seen": "2026-09-09T09:28:26Z",
-    "closed_at": "2026-09-23T09:49:29Z",
-    "active": false
-  },
   "lba:47c36845f3e0": {
     "id": "lba:47c36845f3e0",
     "source": "lba",
@@ -1508,8 +1490,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4f488914d2f4": {
     "id": "lba:4f488914d2f4",
@@ -1889,6 +1871,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:59001f5f89fa": {
+    "id": "lba:59001f5f89fa",
+    "source": "lba",
+    "entreprise": "MSC - MEDITERRANEAN SHIPPING COMPANY FRANCE",
+    "intitule": "Alternant Adoption IA Spécialiste Copilot (H/F)",
+    "ville": "76600 Le Havre",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=bWVsaW5hLmxlc2F1dmFnZS41NzU4Ni42NzA2QG1lZHNoaXAuYXBsaXRyYWsuY29t",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-06",
+    "date_debut": null,
+    "first_seen": "2026-11-07T11:35:56Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:5a5336913ca1": {
     "id": "lba:5a5336913ca1",
     "source": "lba",
@@ -1904,8 +1904,8 @@
     "date_publication": "2026-10-09",
     "date_debut": "2026-11-02",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-07T11:35:56Z",
+    "active": false
   },
   "lba:5aa27fcea9f3": {
     "id": "lba:5aa27fcea9f3",
@@ -2372,8 +2372,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6eb9d415ae45": {
     "id": "lba:6eb9d415ae45",
@@ -2464,6 +2464,24 @@
     "first_seen": "2026-10-06T11:52:17Z",
     "active": false,
     "closed_at": "2026-10-07T11:37:27Z"
+  },
+  "lba:7798aa7688d6": {
+    "id": "lba:7798aa7688d6",
+    "source": "lba",
+    "entreprise": "SOPRA STERIA GROUP",
+    "intitule": "Alternance - Ingénieur Système &amp; Réseau - Infrastructure - Rennes H/F",
+    "ville": "35510 Cesson-Sévigné",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=DJdhcJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85229600.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85229600",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-06",
+    "date_debut": null,
+    "first_seen": "2026-11-07T11:35:56Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:7842d9aa500f": {
     "id": "lba:7842d9aa500f",
@@ -3164,8 +3182,8 @@
     "date_publication": "2026-11-05",
     "date_debut": "2027-01-14",
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
@@ -3329,6 +3347,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:a22b89a3683f": {
+    "id": "lba:a22b89a3683f",
+    "source": "lba",
+    "entreprise": "SETEC",
+    "intitule": "Développeur Data en alternance (H/F)",
+    "ville": "63200 Riom",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/riom/développeur-data-en-alternance-h-f-319013190",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-06",
+    "date_debut": null,
+    "first_seen": "2026-11-07T11:35:56Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:a2f8f853fdab": {
     "id": "lba:a2f8f853fdab",
     "source": "lba",
@@ -3362,8 +3398,8 @@
     "date_publication": "2026-10-22",
     "date_debut": null,
     "first_seen": "2026-10-24T09:21:25Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-07T11:35:56Z",
+    "active": false
   },
   "lba:a530c9eab3e6": {
     "id": "lba:a530c9eab3e6",
@@ -3488,8 +3524,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:adb8ffd6b574": {
     "id": "lba:adb8ffd6b574",
@@ -3557,7 +3593,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pKTDO4&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82058452.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D82058452",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-05",
+    "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -3632,8 +3668,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
@@ -3704,8 +3740,8 @@
     "date_publication": "2026-09-19",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "active": false,
-    "closed_at": "2026-11-04T12:51:34Z"
+    "closed_at": null,
+    "active": true
   },
   "lba:bfc8b5c3b900": {
     "id": "lba:bfc8b5c3b900",
@@ -4625,6 +4661,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:f0d67dbd16e6": {
+    "id": "lba:f0d67dbd16e6",
+    "source": "lba",
+    "entreprise": "EUROELEC-SMART ENERGY",
+    "intitule": "Alternance Chargé de projet IA & SI H/F",
+    "ville": "36 RUE DES BERNARDINS 75005 PARIS",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aed96982fe99c696bfe9c45/alternance-chargé-de-projet-ia-si-h-f",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-06",
+    "date_debut": "2026-11-06",
+    "first_seen": "2026-11-07T11:35:56Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
     "source": "lba",
@@ -4748,8 +4802,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:fdd6ff250e17": {
     "id": "lba:fdd6ff250e17",
