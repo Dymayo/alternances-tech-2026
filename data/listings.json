@@ -269,6 +269,24 @@
     "closed_at": "2026-11-05T12:59:40Z",
     "active": false
   },
+  "lba:08683cae3efd": {
+    "id": "lba:08683cae3efd",
+    "source": "lba",
+    "entreprise": "JOHN COCKERILL DEFENSE FRANCE",
+    "intitule": "Arquus Alternance - Ingénieur Data - Bi Bac +4 - 5 H/F",
+    "ville": "44600 Saint-Nazaire",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=E0vDqh&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83985618.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83985618",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-31",
+    "date_debut": null,
+    "first_seen": "2026-11-08T11:47:56Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
     "source": "lba",
@@ -474,7 +492,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -914,8 +932,8 @@
     "date_publication": "2026-09-22",
     "date_debut": "2026-11-16",
     "first_seen": "2026-09-23T09:49:29Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-08T11:47:56Z",
+    "active": false
   },
   "lba:2e7d24b660cc": {
     "id": "lba:2e7d24b660cc",
@@ -1184,8 +1202,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-08T11:47:56Z",
+    "active": false
   },
   "lba:3acd79fdc3c5": {
     "id": "lba:3acd79fdc3c5",
@@ -1673,24 +1691,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:55be7f22d47e": {
-    "id": "lba:55be7f22d47e",
-    "source": "lba",
-    "entreprise": "Groupe LDLC",
-    "intitule": "Groupe LDLC - Technicien / Technicienne informatique (H/F)",
-    "ville": "33700 Mérignac",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://carrieres.groupe-ldlc.com/fr/annonce/4514943-technicien-informatique-en-apprentisage-hf-33700-merignac?s_o=France+Travail&s_b=DigitalRecruiters",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-07-23",
-    "date_debut": null,
-    "first_seen": "2026-07-24T07:35:33Z",
-    "closed_at": "2026-09-24T09:46:42Z",
-    "active": false
-  },
   "lba:568426506523": {
     "id": "lba:568426506523",
     "source": "lba",
@@ -1703,7 +1703,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=tXeqML&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84165395.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84165395",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-06",
+    "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -1886,8 +1886,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-11-07T11:35:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:5a5336913ca1": {
     "id": "lba:5a5336913ca1",
@@ -1922,8 +1922,8 @@
     "date_publication": "2026-09-07",
     "date_debut": "2026-10-05",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-08T11:47:56Z",
+    "active": false
   },
   "lba:5b42d4741e0f": {
     "id": "lba:5b42d4741e0f",
@@ -2480,8 +2480,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-11-07T11:35:56Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-08T11:47:56Z"
   },
   "lba:7842d9aa500f": {
     "id": "lba:7842d9aa500f",
@@ -3362,8 +3362,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-11-07T11:35:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a2f8f853fdab": {
     "id": "lba:a2f8f853fdab",
@@ -4676,8 +4676,8 @@
     "date_publication": "2026-11-06",
     "date_debut": "2026-11-06",
     "first_seen": "2026-11-07T11:35:56Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
