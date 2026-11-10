@@ -492,7 +492,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -754,6 +754,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:239ca5f85cfc": {
+    "id": "lba:239ca5f85cfc",
+    "source": "lba",
+    "entreprise": "SAPIAN",
+    "intitule": "Alternance - Stage - Chef de Projet IA &amp; Innovation H/F",
+    "ville": "92800 Puteaux",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Eje7MK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84793741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84793741",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-26",
+    "date_debut": null,
+    "first_seen": "2026-11-10T13:20:54Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:27589391709b": {
     "id": "lba:27589391709b",
@@ -1025,6 +1043,24 @@
     "closed_at": "2026-10-31T10:47:50Z",
     "active": false
   },
+  "lba:34e9b5c9c894": {
+    "id": "lba:34e9b5c9c894",
+    "source": "lba",
+    "entreprise": "EURO-INFORMATION EUROPEENNE DE TRAITEMENT DE L'INFORMATION",
+    "intitule": "Stagiaire école (F/H) - Full Stack Engineer - Console de suivi - Assurance Vie",
+    "ville": "67000 Strasbourg",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "http://app.mytalentplug.com/redirection.aspx?ojid=S3Lhc3ZPQvS/24SS/CrFCQ==",
+    "categorie": "Développement",
+    "date_publication": "2026-11-07",
+    "date_debut": null,
+    "first_seen": "2026-11-10T13:20:54Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:3643f7c5de85": {
     "id": "lba:3643f7c5de85",
     "source": "lba",
@@ -1202,8 +1238,8 @@
     "date_publication": "2026-10-19",
     "date_debut": "2026-10-15",
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-10T13:20:54Z",
+    "active": false
   },
   "lba:3bae77d9a0fb": {
     "id": "lba:3bae77d9a0fb",
@@ -1294,24 +1330,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:3e576a7bade3": {
-    "id": "lba:3e576a7bade3",
-    "source": "lba",
-    "entreprise": "ARCSOLU",
-    "intitule": "Assistant(e) Support Technique bilingue chinois / français",
-    "ville": "189 RUE D'AUBERVILLIERS 75018 PARIS",
-    "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa90e901124e4727883a95f/assistant-support-technique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-15",
-    "date_debut": "2027-09-01",
-    "first_seen": "2026-09-22T09:43:50Z",
-    "closed_at": "2026-09-26T09:45:34Z",
-    "active": false
   },
   "lba:42d1e189ea03": {
     "id": "lba:42d1e189ea03",
@@ -2354,8 +2372,8 @@
     "date_publication": "2026-10-12",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-10T13:20:54Z",
+    "active": false
   },
   "lba:71fef30414ea": {
     "id": "lba:71fef30414ea",
@@ -3149,6 +3167,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:9780ea11ee4c": {
+    "id": "lba:9780ea11ee4c",
+    "source": "lba",
+    "entreprise": "GOLDFINGER",
+    "intitule": "Chargé(e) de communication",
+    "ville": "4 RUE FERRERE 33000 BORDEAUX",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af1a85e2fe99c696b0000ca/chargé-e-de-communication",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-09",
+    "date_debut": "2026-11-09",
+    "first_seen": "2026-11-10T13:20:54Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
     "source": "lba",
@@ -3562,6 +3598,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:b22b33f1ae87": {
+    "id": "lba:b22b33f1ae87",
+    "source": "lba",
+    "entreprise": "SOPRA STERIA GROUP",
+    "intitule": "Alternance - Ingénieur(e) Système &amp; Réseau - Infrastructure - Rennes (H/F)",
+    "ville": "35000 Rennes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.talents-handicap.com/165-sopra-steria/349075-alternance-ingenieur-e-systeme-reseau-infrastructure-rennes-5?src=FranceTravail",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-07",
+    "date_debut": null,
+    "first_seen": "2026-11-10T13:20:54Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:b2d8d377be5f": {
     "id": "lba:b2d8d377be5f",
@@ -4370,8 +4424,8 @@
     "date_publication": "2026-11-02",
     "date_debut": "2026-11-02",
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-10T13:20:54Z",
+    "active": false
   },
   "lba:e5613ce39d5b": {
     "id": "lba:e5613ce39d5b",
@@ -4640,8 +4694,8 @@
     "date_publication": "2026-11-06",
     "date_debut": "2026-11-06",
     "first_seen": "2026-11-07T11:35:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-10T13:20:54Z",
+    "active": false
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
@@ -4678,6 +4732,24 @@
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:f9781979ffb2": {
+    "id": "lba:f9781979ffb2",
+    "source": "lba",
+    "entreprise": "INTRACONSULT",
+    "intitule": "Ingénieur IA (H/F) et Communication Marketing (H/F)",
+    "ville": "73590 Flumet",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CCHK",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-05",
+    "date_debut": null,
+    "first_seen": "2026-11-10T13:20:54Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f97b049330ba": {
     "id": "lba:f97b049330ba",
