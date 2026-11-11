@@ -492,7 +492,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -572,8 +572,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:18843f809a1b": {
     "id": "lba:18843f809a1b",
@@ -680,8 +680,8 @@
     "date_publication": "2026-10-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:1c8a42e8d134": {
     "id": "lba:1c8a42e8d134",
@@ -770,8 +770,8 @@
     "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-11-10T13:20:54Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:27589391709b": {
     "id": "lba:27589391709b",
@@ -880,6 +880,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-06T12:47:28Z",
     "active": false
+  },
+  "lba:2d3ac544bb36": {
+    "id": "lba:2d3ac544bb36",
+    "source": "lba",
+    "entreprise": "VODEA",
+    "intitule": "Technicien S/W et électronique embarquée (H/F)",
+    "ville": "31670 Labège",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 36,
+    "teletravail": "",
+    "url": "https://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/784930/un-job-dating-occitanie-au-c-ur-d-aeromart-toulouse-2026-aeronautique-spatial-defense-decouvrez-un-evenement-phare-a",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:2d8060c3b674": {
     "id": "lba:2d8060c3b674",
@@ -1058,8 +1076,8 @@
     "date_publication": "2026-11-07",
     "date_debut": null,
     "first_seen": "2026-11-10T13:20:54Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:3643f7c5de85": {
     "id": "lba:3643f7c5de85",
@@ -1310,8 +1328,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:3da9ff932cca": {
     "id": "lba:3da9ff932cca",
@@ -1328,8 +1346,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:42d1e189ea03": {
     "id": "lba:42d1e189ea03",
@@ -1382,8 +1400,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:45854bf39103": {
     "id": "lba:45854bf39103",
@@ -1421,6 +1439,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:48950c18d070": {
+    "id": "lba:48950c18d070",
+    "source": "lba",
+    "entreprise": "Virage Conseil",
+    "intitule": "Alternant Technicien Informatique H/F",
+    "ville": "56100 Lorient",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=EBKaQR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85388060.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85388060",
+    "categorie": "Développement",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:48ff9b278e97": {
     "id": "lba:48ff9b278e97",
     "source": "lba",
@@ -1438,6 +1474,24 @@
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": "2026-11-02T13:16:06Z",
     "active": false
+  },
+  "lba:4a8e578f7a53": {
+    "id": "lba:4a8e578f7a53",
+    "source": "lba",
+    "entreprise": "Envie Le Labo - Fédération Envie",
+    "intitule": "Product Builder : Envie de développer avec frénésie des solutions IA/no code pour automatiser et enrichir nos process ?! (altern.12m ou stage 6m) (H/F)",
+    "ville": "75001 Paris",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/envie-le-labo-federation-envie-product-builder-envie-de-developper-avec-frenesie-des-solutions-iano-code-pour-automatiser-et-enrichir-nos-process-altern12m-ou-stage-6m-fltM9EPRSUAYIAaxsBhM?source=france_travail",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
@@ -2375,6 +2429,24 @@
     "closed_at": "2026-11-10T13:20:54Z",
     "active": false
   },
+  "lba:6fe324f56dd0": {
+    "id": "lba:6fe324f56dd0",
+    "source": "lba",
+    "entreprise": "SERMA TECHNOLOGIES",
+    "intitule": "Alternant Genai Engineer Automatisation Logicielle - 112026 H/F",
+    "ville": "33600 Pessac",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 24,
+    "teletravail": "hybride",
+    "url": "https://r.holeest.com/redirect?jd_token=ExSxeF&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85367767.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bindustrie%252Cagroalimentaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D85367767",
+    "categorie": "Développement",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:71fef30414ea": {
     "id": "lba:71fef30414ea",
     "source": "lba",
@@ -2554,6 +2626,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-05T12:59:40Z",
     "active": false
+  },
+  "lba:7d9cd49d4fad": {
+    "id": "lba:7d9cd49d4fad",
+    "source": "lba",
+    "entreprise": "ALCATEL SUBMARINE NETWORKS",
+    "intitule": "Alternance Développement Agent F/H - Alcatel Submarine Networks",
+    "ville": "91940 Les Ulis",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://careers.werecruit.io/fr/alcatel-submarine-networks/offres/alternance-developpement-agent-8b2237?utm_source=francetravail&utm_medium=job-board",
+    "categorie": "Développement",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:7e763afd4260": {
     "id": "lba:7e763afd4260",
@@ -2768,8 +2858,8 @@
     "date_publication": "2026-10-12",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:866361ce0bb6": {
     "id": "lba:866361ce0bb6",
@@ -2930,8 +3020,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:8b1bf0b64e23": {
     "id": "lba:8b1bf0b64e23",
@@ -3182,8 +3272,8 @@
     "date_publication": "2026-11-09",
     "date_debut": "2026-11-09",
     "first_seen": "2026-11-10T13:20:54Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
@@ -3362,8 +3452,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-11-07T11:35:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:a2f8f853fdab": {
     "id": "lba:a2f8f853fdab",
@@ -3599,6 +3689,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:b0b5f563205a": {
+    "id": "lba:b0b5f563205a",
+    "source": "lba",
+    "entreprise": "T'HOMPOUSS CONSULTANTS",
+    "intitule": "DÉVELOPPEUR OU DÉVELOPPEUSE IA EN ALTERNANCE (H/F)",
+    "ville": "69300 Caluire-et-Cuire",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GWHP",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:b22b33f1ae87": {
     "id": "lba:b22b33f1ae87",
     "source": "lba",
@@ -3614,8 +3722,8 @@
     "date_publication": "2026-11-07",
     "date_debut": null,
     "first_seen": "2026-11-10T13:20:54Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b2d8d377be5f": {
     "id": "lba:b2d8d377be5f",
@@ -3866,8 +3974,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:c93b70956b53": {
     "id": "lba:c93b70956b53",
@@ -4082,8 +4190,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:d3fe83388fcd": {
     "id": "lba:d3fe83388fcd",
@@ -4226,8 +4334,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:d966ed894510": {
     "id": "lba:d966ed894510",
@@ -4370,8 +4478,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:e1eba1b717bd": {
     "id": "lba:e1eba1b717bd",
@@ -4571,6 +4679,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:eb5cd5b9c4b2": {
+    "id": "lba:eb5cd5b9c4b2",
+    "source": "lba",
+    "entreprise": "Virage Conseil Force de Vente",
+    "intitule": "Alternant Technicien informatique F/H - Virage Conseil Force de Vente",
+    "ville": "56100 Lorient",
+    "contrat": "professionnalisation",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://careers.werecruit.io/fr/virage-conseil/offres/alternant-technicien-informatique-26d780?utm_source=francetravail&utm_medium=job-board",
+    "categorie": "Développement",
+    "date_publication": "2026-11-10",
+    "date_debut": null,
+    "first_seen": "2026-11-11T12:31:45Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
     "source": "lba",
@@ -4748,8 +4874,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-10T13:20:54Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f97b049330ba": {
     "id": "lba:f97b049330ba",
@@ -4874,8 +5000,8 @@
     "date_publication": "2026-10-27",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-11T12:31:45Z",
+    "active": false
   },
   "lba:fff1bfb8ac6a": {
     "id": "lba:fff1bfb8ac6a",
