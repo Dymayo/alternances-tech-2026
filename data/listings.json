@@ -240,10 +240,10 @@
     "intitule": "Technicien Réseau &amp; Télécoms Alternance H/F",
     "ville": "50000 Saint-Lô",
     "contrat": "indifferent",
-    "niveau": "CAP, BEP (Infrabac)",
+    "niveau": "",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pGWFbI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82849425.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bsecurite%252Ctelecom%252Cferroviaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D82849425",
+    "url": "https://r.holeest.com/redirect?jd_token=EPxxr1&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82849425.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bsecurite%252Ctelecom%252Cferroviaire%26utm_content%3Dfluxbonnealternance%26utm_term%3D82849425",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-10-30",
     "date_debut": null,
@@ -896,8 +896,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2d8060c3b674": {
     "id": "lba:2d8060c3b674",
@@ -1454,8 +1454,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:48ff9b278e97": {
     "id": "lba:48ff9b278e97",
@@ -1490,8 +1490,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
@@ -2295,7 +2295,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "hybride",
-    "url": "https://r.holeest.com/redirect?jd_token=pJbIi7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282",
+    "url": "https://r.holeest.com/redirect?jd_token=EPMEvr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-10-11",
     "date_debut": null,
@@ -2444,8 +2444,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-12T13:37:11Z"
   },
   "lba:71fef30414ea": {
     "id": "lba:71fef30414ea",
@@ -2642,8 +2642,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7e763afd4260": {
     "id": "lba:7e763afd4260",
@@ -3167,6 +3167,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:92f1efc2f2a0": {
+    "id": "lba:92f1efc2f2a0",
+    "source": "lba",
+    "entreprise": "GROUPE SEB FRANCE",
+    "intitule": "Alternance Technicien en Automatisme H/F",
+    "ville": "Route d'Annecy 74370 Annecy",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=ELM7VJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85407900.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85407900",
+    "categorie": "Embarqué & Électronique",
+    "date_publication": "2026-11-11",
+    "date_debut": null,
+    "first_seen": "2026-11-12T13:37:11Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:938894349671": {
     "id": "lba:938894349671",
     "source": "lba",
@@ -3416,8 +3434,8 @@
     "date_publication": "2026-10-19",
     "date_debut": "2026-12-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-12T13:37:11Z",
+    "active": false
   },
   "lba:a14a3c965035": {
     "id": "lba:a14a3c965035",
@@ -3645,7 +3663,7 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=CkbI3f&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191",
+    "url": "https://r.holeest.com/redirect?jd_token=EPIy6a&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191",
     "categorie": "Data & IA",
     "date_publication": "2026-10-30",
     "date_debut": null,
@@ -3704,8 +3722,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b22b33f1ae87": {
     "id": "lba:b22b33f1ae87",
@@ -4694,8 +4712,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
@@ -4822,6 +4840,24 @@
     "first_seen": "2026-11-07T11:35:56Z",
     "closed_at": "2026-11-10T13:20:54Z",
     "active": false
+  },
+  "lba:f248d89e8efd": {
+    "id": "lba:f248d89e8efd",
+    "source": "lba",
+    "entreprise": "PONGERS",
+    "intitule": "Architecte big data",
+    "ville": "61 RUE DE LYON 75012 PARIS",
+    "contrat": "apprentissage",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af4a6ee7e03d84ce3afbb19/architecte-big-data",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-11",
+    "date_debut": "2027-01-11",
+    "first_seen": "2026-11-12T13:37:11Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
