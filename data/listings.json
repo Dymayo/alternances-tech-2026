@@ -89,24 +89,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:043dd8fff4a0": {
-    "id": "lba:043dd8fff4a0",
-    "source": "lba",
-    "entreprise": "EXPERIS FRANCE",
-    "intitule": "Technicien d'exploitation H/F",
-    "ville": "Route de Saint Joseph 44300 Nantes",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 0,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa80719b272299cc4280d5e/technicien-d-exploitation-h-f",
-    "categorie": "Autre",
-    "date_publication": "2026-09-14",
-    "date_debut": "2026-09-20",
-    "first_seen": "2026-09-02T09:22:45Z",
-    "closed_at": "2026-09-29T11:12:35Z",
-    "active": false
-  },
   "lba:0493d3ed8d38": {
     "id": "lba:0493d3ed8d38",
     "source": "lba",
@@ -284,8 +266,8 @@
     "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-11-08T11:47:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
@@ -428,8 +410,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:1349a932ba04": {
     "id": "lba:1349a932ba04",
@@ -538,6 +520,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:166786a716c5": {
+    "id": "lba:166786a716c5",
+    "source": "lba",
+    "entreprise": "ITIC PARIS",
+    "intitule": "Développeur / Développeuse de sécurité des systèmes d'information",
+    "ville": "190b Boulevard de Charonne 75020 Paris",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6af5eaa7c3367d6aa4c193d7/développeur-développeuse-de-sécurité-des-systèmes-d-information",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-12",
+    "date_debut": "2026-11-12",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:16f975d555c0": {
     "id": "lba:16f975d555c0",
@@ -734,8 +734,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:2068126791ab": {
     "id": "lba:2068126791ab",
@@ -845,6 +845,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:2a9bd9f5bf12": {
+    "id": "lba:2a9bd9f5bf12",
+    "source": "lba",
+    "entreprise": "DEVOTEAM",
+    "intitule": "Alternance - Chef de Projet Junior - Pmo H/F",
+    "ville": "92300 Levallois-Perret",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=EY7gpw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85424776.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85424776",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-12",
+    "date_debut": null,
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
     "source": "lba",
@@ -860,8 +878,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-14T09:59:23Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:2c57ad8d70f8": {
     "id": "lba:2c57ad8d70f8",
@@ -986,8 +1004,8 @@
     "date_publication": "2026-10-15",
     "date_debut": "2027-04-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:31bec661e245": {
     "id": "lba:31bec661e245",
@@ -1004,8 +1022,8 @@
     "date_publication": "2026-10-21",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:31e758d18e6e": {
     "id": "lba:31e758d18e6e",
@@ -1112,8 +1130,8 @@
     "date_publication": "2026-10-17",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:3721ad6f600a": {
     "id": "lba:3721ad6f600a",
@@ -1161,9 +1179,9 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=BrHtxa&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84823723.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84823723",
+    "url": "https://r.holeest.com/redirect?jd_token=DKOrUl&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85237818.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85237818",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-26",
+    "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -1364,8 +1382,8 @@
     "date_publication": "2026-10-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:434f968001f6": {
     "id": "lba:434f968001f6",
@@ -1418,8 +1436,26 @@
     "date_publication": "2026-10-27",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
+  },
+  "lba:471bcdb0fbf3": {
+    "id": "lba:471bcdb0fbf3",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "Apprenti(e) – Analyste thématique – Zone RUSSIE",
+    "ville": "75015 Paris 15e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-analyste-thematique-zone-russie-2",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-27",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:47c36845f3e0": {
     "id": "lba:47c36845f3e0",
@@ -1511,6 +1547,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:4e330c665f1b": {
+    "id": "lba:4e330c665f1b",
+    "source": "lba",
+    "entreprise": "MANPOWER",
+    "intitule": "Alternant CRM Intelligence Artificielle &amp; Automatisation Commerciale H/F",
+    "ville": "Nice 06100",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=EZnd3a&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85428928.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85428928",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-12",
+    "date_debut": null,
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:4ebfc159ec55": {
     "id": "lba:4ebfc159ec55",
     "source": "lba",
@@ -1544,8 +1598,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:4f488914d2f4": {
     "id": "lba:4f488914d2f4",
@@ -1616,8 +1670,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:505d1d5abe7a": {
     "id": "lba:505d1d5abe7a",
@@ -1634,8 +1688,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:514cedf81471": {
     "id": "lba:514cedf81471",
@@ -1649,7 +1703,7 @@
     "teletravail": "",
     "url": "https://jobaffinity.fr/apply/0lb3gjvr3vizneafs3?src=FranceTravail%20API",
     "categorie": "Autre",
-    "date_publication": "2026-11-03",
+    "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
     "closed_at": null,
@@ -1799,6 +1853,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:576570656417": {
+    "id": "lba:576570656417",
+    "source": "lba",
+    "entreprise": "VISEO",
+    "intitule": "Alternance ou stage PFE - Consultant SAP Technique F/H",
+    "ville": "29600 Morlaix",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JLKF",
+    "categorie": "Autre",
+    "date_publication": "2026-11-12",
+    "date_debut": null,
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:577b6900bba8": {
     "id": "lba:577b6900bba8",
     "source": "lba",
@@ -1904,8 +1976,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:59001f5f89fa": {
     "id": "lba:59001f5f89fa",
@@ -2048,8 +2120,8 @@
     "date_publication": "2026-11-02",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:5e1f404b3828": {
     "id": "lba:5e1f404b3828",
@@ -2120,8 +2192,8 @@
     "date_publication": "2026-10-12",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:62c23bd14ba1": {
     "id": "lba:62c23bd14ba1",
@@ -2297,7 +2369,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=EPMEvr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83282282.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83282282",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-11",
+    "date_publication": "2026-11-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -2390,8 +2462,8 @@
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:6e7b7f18725e": {
     "id": "lba:6e7b7f18725e",
@@ -2428,6 +2500,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-10T13:20:54Z",
     "active": false
+  },
+  "lba:6f79d06fb776": {
+    "id": "lba:6f79d06fb776",
+    "source": "lba",
+    "entreprise": "Ministère de l'Intérieur",
+    "intitule": "Apprenti.e développeur.se au centre de cyberdéfense du ministère de l'intérieur",
+    "ville": "31000 Toulouse",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-developpeurse-au-centre-de-cyberdefense-du-ministere-de-linterieur",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-05",
+    "date_debut": "2027-01-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:6fe324f56dd0": {
     "id": "lba:6fe324f56dd0",
@@ -2500,6 +2590,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-06T12:47:28Z",
     "active": false
+  },
+  "lba:75b802fbe909": {
+    "id": "lba:75b802fbe909",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "Apprenti(e) – Sécurité des Systèmes d'Information",
+    "ville": "60100 Creil",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-securite-des-systemes-dinformation-1",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-10-29",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:7761c952ea11": {
     "id": "lba:7761c952ea11",
@@ -2678,8 +2786,8 @@
     "date_publication": "2026-10-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:8030fe82a17c": {
     "id": "lba:8030fe82a17c",
@@ -3182,8 +3290,8 @@
     "date_publication": "2026-11-11",
     "date_debut": null,
     "first_seen": "2026-11-12T13:37:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:938894349671": {
     "id": "lba:938894349671",
@@ -3249,9 +3357,9 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=BrHtxb&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84823709.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84823709",
+    "url": "https://r.holeest.com/redirect?jd_token=DKOExo&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85237872.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85237872",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-26",
+    "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
@@ -3272,8 +3380,26 @@
     "date_publication": "2026-11-05",
     "date_debut": "2027-01-14",
     "first_seen": "2026-11-06T12:47:28Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
+  },
+  "lba:968ca4b4e5d1": {
+    "id": "lba:968ca4b4e5d1",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "Analyste industrie de défense",
+    "ville": "60100 Creil",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/analyste-industrie-de-defense-0",
+    "categorie": "Autre",
+    "date_publication": "2026-10-26",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:9780ea11ee4c": {
     "id": "lba:9780ea11ee4c",
@@ -3344,8 +3470,8 @@
     "date_publication": "2026-10-05",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:999c11f6d9f2": {
     "id": "lba:999c11f6d9f2",
@@ -3365,6 +3491,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:99bd475e70f5": {
+    "id": "lba:99bd475e70f5",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "INGENIEUR DE LA CONNAISSANCE ET PILOTAGE PROJETS DONNEES",
+    "ville": "75015 Paris 15e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/ingenieur-de-la-connaissance-et-pilotage-projets-donnees",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-15",
+    "date_debut": "2027-04-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:9d3c55f51a71": {
     "id": "lba:9d3c55f51a71",
     "source": "lba",
@@ -3380,8 +3524,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:9e7f45da17ef": {
     "id": "lba:9e7f45da17ef",
@@ -3416,8 +3560,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:a0a08391c21d": {
     "id": "lba:a0a08391c21d",
@@ -3542,8 +3686,8 @@
     "date_publication": "2026-11-03",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:a625789c8d1d": {
     "id": "lba:a625789c8d1d",
@@ -3611,7 +3755,7 @@
     "teletravail": "",
     "url": "https://jobaffinity.fr/apply/uryp4oaut0jea86wxi?src=FranceTravail%20API",
     "categorie": "Développement",
-    "date_publication": "2026-11-03",
+    "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
     "closed_at": null,
@@ -3668,8 +3812,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:afc8763fa734": {
     "id": "lba:afc8763fa734",
@@ -3740,8 +3884,8 @@
     "date_publication": "2026-11-07",
     "date_debut": null,
     "first_seen": "2026-11-10T13:20:54Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:b2d8d377be5f": {
     "id": "lba:b2d8d377be5f",
@@ -3812,8 +3956,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
@@ -3884,8 +4028,8 @@
     "date_publication": "2026-09-19",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:bfc8b5c3b900": {
     "id": "lba:bfc8b5c3b900",
@@ -3902,8 +4046,8 @@
     "date_publication": "2026-10-21",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:c0e092518b59": {
     "id": "lba:c0e092518b59",
@@ -4100,8 +4244,8 @@
     "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:d029bbef4ca4": {
     "id": "lba:d029bbef4ca4",
@@ -4262,8 +4406,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:d6058aea8cc2": {
     "id": "lba:d6058aea8cc2",
@@ -4370,8 +4514,8 @@
     "date_publication": "2026-10-29",
     "date_debut": "2027-09-14",
     "first_seen": "2026-10-30T11:14:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:dab0cae6cc97": {
     "id": "lba:dab0cae6cc97",
@@ -4497,24 +4641,6 @@
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-11T12:31:45Z",
-    "active": false
-  },
-  "lba:e1eba1b717bd": {
-    "id": "lba:e1eba1b717bd",
-    "source": "lba",
-    "entreprise": "ETABLISSEMENTS LAVAL",
-    "intitule": "Chef(fe) de projet SI junior - ERP & Applications métiers",
-    "ville": "ZA DE CHEDIGNY 37310 CHEDIGNY",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9eb74406fad1942d143a57/chef-fe-de-projet-si-junior-erp-applications-métiers",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-07",
-    "date_debut": "2026-09-07",
-    "first_seen": "2026-09-08T09:27:04Z",
-    "closed_at": "2026-09-29T11:12:35Z",
     "active": false
   },
   "lba:e2c6317c08e3": {
@@ -4643,6 +4769,24 @@
     "closed_at": "2026-10-07T11:37:27Z",
     "active": false
   },
+  "lba:ea01b98999cc": {
+    "id": "lba:ea01b98999cc",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "Apprenti(e) – Analyste thématique – zone ASIE",
+    "ville": "75015 Paris 15e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-analyste-thematique-zone-asie-0",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-10-21",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-11-13T12:55:51Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:ea06e0f34b4b": {
     "id": "lba:ea06e0f34b4b",
     "source": "lba",
@@ -4730,8 +4874,8 @@
     "date_publication": "2026-10-12",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:ebf4cb48c944": {
     "id": "lba:ebf4cb48c944",
@@ -4820,8 +4964,8 @@
     "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-11-02T13:16:06Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:f0d67dbd16e6": {
     "id": "lba:f0d67dbd16e6",
@@ -4856,8 +5000,8 @@
     "date_publication": "2026-11-11",
     "date_debut": "2027-01-11",
     "first_seen": "2026-11-12T13:37:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
@@ -5000,8 +5144,8 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-06T12:47:28Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-13T12:55:51Z",
+    "active": false
   },
   "lba:fdd6ff250e17": {
     "id": "lba:fdd6ff250e17",
@@ -5013,9 +5157,9 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=v5Gr47&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84254118.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84254118",
+    "url": "https://r.holeest.com/redirect?jd_token=E8175T&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85290602.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85290602",
     "categorie": "Développement",
-    "date_publication": "2026-10-09",
+    "date_publication": "2026-11-08",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -5037,24 +5181,6 @@
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-11T12:31:45Z",
-    "active": false
-  },
-  "lba:fff1bfb8ac6a": {
-    "id": "lba:fff1bfb8ac6a",
-    "source": "lba",
-    "entreprise": "DGA - Maitrise de l'information",
-    "intitule": "DGA/Maitrise de l'information/Apprenti/e – Développeur Logiciel  Cyber",
-    "ville": "35170 Bruz",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 36,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/dgamaitrise-de-linformationapprentie-developpeur-logiciel-cyber",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-05-28",
-    "date_debut": "2026-09-14",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-29T11:12:35Z",
     "active": false
   }
 }
