@@ -536,8 +536,8 @@
     "date_publication": "2026-11-12",
     "date_debut": "2026-11-12",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:16f975d555c0": {
     "id": "lba:16f975d555c0",
@@ -737,6 +737,24 @@
     "closed_at": "2026-11-13T12:55:51Z",
     "active": false
   },
+  "lba:203cf41d8c12": {
+    "id": "lba:203cf41d8c12",
+    "source": "lba",
+    "entreprise": "Capgemini",
+    "intitule": "Ingénieur Simulation / Modélisation - Alternance F/H",
+    "ville": "31000 Toulouse",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179616188W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Data & IA",
+    "date_publication": "2026-10-20",
+    "date_debut": null,
+    "first_seen": "2026-11-14T11:59:19Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:2068126791ab": {
     "id": "lba:2068126791ab",
     "source": "lba",
@@ -860,8 +878,8 @@
     "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
@@ -968,8 +986,8 @@
     "date_publication": "2026-09-22",
     "date_debut": "2026-11-16",
     "first_seen": "2026-09-23T09:49:29Z",
-    "closed_at": "2026-11-08T11:47:56Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:2e7d24b660cc": {
     "id": "lba:2e7d24b660cc",
@@ -1235,7 +1253,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=wKIHbS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84392953.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84392953",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-10-13",
+    "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
@@ -1310,8 +1328,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-14T11:59:19Z",
+    "active": false
   },
   "lba:3ca99e95e415": {
     "id": "lba:3ca99e95e415",
@@ -1454,8 +1472,8 @@
     "date_publication": "2026-10-27",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:47c36845f3e0": {
     "id": "lba:47c36845f3e0",
@@ -1562,6 +1580,24 @@
     "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-11-13T12:55:51Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:4eb2067b57cf": {
+    "id": "lba:4eb2067b57cf",
+    "source": "lba",
+    "entreprise": "GROUPEMENT D EMPLOYEURS COMPETENCES 43",
+    "intitule": "Apprenti(e) serveur/serveuse (H/F)",
+    "ville": "43190 Tence",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JGGD",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-12",
+    "date_debut": null,
+    "first_seen": "2026-11-14T11:59:19Z",
     "active": true,
     "closed_at": null
   },
@@ -1868,8 +1904,8 @@
     "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:577b6900bba8": {
     "id": "lba:577b6900bba8",
@@ -2099,7 +2135,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=CmQZHr&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79006307.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79006307",
     "categorie": "Développement",
-    "date_publication": "2026-10-13",
+    "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -2225,7 +2261,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/57619627?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-10-21",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
@@ -2351,7 +2387,7 @@
     "teletravail": "hybride",
     "url": "https://r.holeest.com/redirect?jd_token=pJ4gr6&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83192726.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83192726",
     "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-10-09",
+    "date_publication": "2026-11-09",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -2457,13 +2493,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=EaMqLI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=FhdyUw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:6e7b7f18725e": {
     "id": "lba:6e7b7f18725e",
@@ -2516,8 +2552,8 @@
     "date_publication": "2026-11-05",
     "date_debut": "2027-01-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6fe324f56dd0": {
     "id": "lba:6fe324f56dd0",
@@ -2606,8 +2642,8 @@
     "date_publication": "2026-10-29",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7761c952ea11": {
     "id": "lba:7761c952ea11",
@@ -3164,8 +3200,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-14T11:59:19Z",
+    "active": false
   },
   "lba:8cb2008803de": {
     "id": "lba:8cb2008803de",
@@ -3254,8 +3290,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-14T11:59:19Z",
+    "active": false
   },
   "lba:8fddfe0d2859": {
     "id": "lba:8fddfe0d2859",
@@ -3398,8 +3434,8 @@
     "date_publication": "2026-10-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9780ea11ee4c": {
     "id": "lba:9780ea11ee4c",
@@ -3506,8 +3542,8 @@
     "date_publication": "2026-10-15",
     "date_debut": "2027-04-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9d3c55f51a71": {
     "id": "lba:9d3c55f51a71",
@@ -3807,13 +3843,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=EPIy6a&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191",
+    "url": "https://r.holeest.com/redirect?jd_token=F601v7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84985191.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84985191",
     "categorie": "Data & IA",
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:afc8763fa734": {
     "id": "lba:afc8763fa734",
@@ -4139,6 +4175,24 @@
     "closed_at": "2026-11-11T12:31:45Z",
     "active": false
   },
+  "lba:c6a5f651c9fc": {
+    "id": "lba:c6a5f651c9fc",
+    "source": "lba",
+    "entreprise": "EDENRED FRANCE",
+    "intitule": "Chargé de Projet IA &amp; Recouvrement en Alternance H/F",
+    "ville": "92120 Montrouge",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Fi34F8&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85496957.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85496957",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-13",
+    "date_debut": null,
+    "first_seen": "2026-11-14T11:59:19Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:c93b70956b53": {
     "id": "lba:c93b70956b53",
     "source": "lba",
@@ -4193,6 +4247,24 @@
     "closed_at": "2026-10-01T11:27:32Z",
     "active": false
   },
+  "lba:ca2ed06d2e0e": {
+    "id": "lba:ca2ed06d2e0e",
+    "source": "lba",
+    "entreprise": "SOPRA STERIA GROUP",
+    "intitule": "Alternance - Ingénieur(e) Système &amp; Réseau - Infrastructure - Rennes",
+    "ville": "35510 Cesson-Sévigné",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.directemploi.com/candidatOffre/54441093?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-07",
+    "date_debut": null,
+    "first_seen": "2026-11-14T11:59:19Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:cad8fd8da436": {
     "id": "lba:cad8fd8da436",
     "source": "lba",
@@ -4245,24 +4317,6 @@
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
-  },
-  "lba:d029bbef4ca4": {
-    "id": "lba:d029bbef4ca4",
-    "source": "lba",
-    "entreprise": "MI Secrétariat général",
-    "intitule": "Apprenti administrateur système de gestion du cycle de vie des certificats (SIC) H/F",
-    "ville": "75012 Paris 12e Arrondissement",
-    "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-administrateur-systeme-de-gestion-du-cycle-de-vie-des-certificats-sic-hf",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-06-16",
-    "date_debut": "2026-10-14",
-    "first_seen": "2026-07-14T17:50:12Z",
-    "closed_at": "2026-09-30T11:01:02Z",
     "active": false
   },
   "lba:d1521db739ce": {
@@ -4457,7 +4511,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/57619647?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-10-21",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
@@ -4534,6 +4588,24 @@
     "first_seen": "2026-11-05T12:59:40Z",
     "active": false,
     "closed_at": "2026-11-06T12:47:28Z"
+  },
+  "lba:dc5af0dc4c45": {
+    "id": "lba:dc5af0dc4c45",
+    "source": "lba",
+    "entreprise": "EIFFAGE ENERGIE SYSTEMES - GESTION & DEVELOPPEMENT",
+    "intitule": "Stage - Data, IA et automatisation des process RH F/H",
+    "ville": "78140 Vélizy-Villacoublay",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=T2NlYW5lLkxFTU9OTklFUi40NTI5NS4xMzY4MEBlaWZmYWdlLmFwbGl0cmFrLmNvbQ",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-10",
+    "date_debut": "2027-03-01",
+    "first_seen": "2026-11-14T11:59:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -4784,8 +4856,8 @@
     "date_publication": "2026-10-21",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ea06e0f34b4b": {
     "id": "lba:ea06e0f34b4b",
@@ -5020,6 +5092,24 @@
     "first_seen": "2026-10-30T11:14:56Z",
     "active": false,
     "closed_at": "2026-10-31T10:47:50Z"
+  },
+  "lba:f7d43e90b1e8": {
+    "id": "lba:f7d43e90b1e8",
+    "source": "lba",
+    "entreprise": "Ministère des Armées",
+    "intitule": "Analyste thématique",
+    "ville": "60100 Creil",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/analyste-thematique",
+    "categorie": "Autre",
+    "date_publication": "2026-11-10",
+    "date_debut": "2027-09-14",
+    "first_seen": "2026-11-14T11:59:19Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f90c97acbbd6": {
     "id": "lba:f90c97acbbd6",
