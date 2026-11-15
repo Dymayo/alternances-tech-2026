@@ -89,24 +89,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:0493d3ed8d38": {
-    "id": "lba:0493d3ed8d38",
-    "source": "lba",
-    "entreprise": "EXPERIS FRANCE",
-    "intitule": "Technicien proximité (F/H)",
-    "ville": "Rue des Pays de la Loire 44300 Nantes",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 0,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa25860744920529fea9362/technicien-proximité-f-h",
-    "categorie": "Autre",
-    "date_publication": "2026-09-10",
-    "date_debut": "2026-10-01",
-    "first_seen": "2026-09-10T09:27:30Z",
-    "closed_at": "2026-10-01T11:27:32Z",
-    "active": false
-  },
   "lba:04f64084b7ac": {
     "id": "lba:04f64084b7ac",
     "source": "lba",
@@ -752,8 +734,8 @@
     "date_publication": "2026-10-20",
     "date_debut": null,
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2068126791ab": {
     "id": "lba:2068126791ab",
@@ -1598,8 +1580,8 @@
     "date_publication": "2026-11-12",
     "date_debut": null,
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:4ebfc159ec55": {
     "id": "lba:4ebfc159ec55",
@@ -1906,24 +1888,6 @@
     "first_seen": "2026-11-13T12:55:51Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:577b6900bba8": {
-    "id": "lba:577b6900bba8",
-    "source": "lba",
-    "entreprise": "OPEN",
-    "intitule": "Ingénieur système Linux (F/H)",
-    "ville": "92300 Levallois-Perret",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 36,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SLZN",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-11",
-    "date_debut": null,
-    "first_seen": "2026-09-12T09:07:01Z",
-    "closed_at": "2026-10-01T11:27:32Z",
-    "active": false
   },
   "lba:57d1818eb9fa": {
     "id": "lba:57d1818eb9fa",
@@ -2351,7 +2315,7 @@
     "teletravail": "",
     "url": "https://www.meteojob.com/jobs/57543109?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Data & IA",
-    "date_publication": "2026-11-08",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -4190,8 +4154,8 @@
     "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:c93b70956b53": {
     "id": "lba:c93b70956b53",
@@ -4229,24 +4193,6 @@
     "closed_at": null,
     "active": true
   },
-  "lba:c9dbcb8583aa": {
-    "id": "lba:c9dbcb8583aa",
-    "source": "lba",
-    "entreprise": "PROFILAE",
-    "intitule": "STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE &amp; DIGITALE (H/F)",
-    "ville": "95870 Bezons",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/ie3shckjjf8/stage-alternance-graphiste-production-graphique-digitale",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-02",
-    "date_debut": null,
-    "first_seen": "2026-09-03T09:32:32Z",
-    "closed_at": "2026-10-01T11:27:32Z",
-    "active": false
-  },
   "lba:ca2ed06d2e0e": {
     "id": "lba:ca2ed06d2e0e",
     "source": "lba",
@@ -4262,8 +4208,8 @@
     "date_publication": "2026-11-07",
     "date_debut": null,
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:cad8fd8da436": {
     "id": "lba:cad8fd8da436",
@@ -4604,8 +4550,8 @@
     "date_publication": "2026-11-10",
     "date_debut": "2027-03-01",
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -5072,8 +5018,8 @@
     "date_publication": "2026-11-11",
     "date_debut": "2027-01-11",
     "first_seen": "2026-11-12T13:37:11Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-15T12:34:53Z",
+    "active": false
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
@@ -5108,8 +5054,8 @@
     "date_publication": "2026-11-10",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-14T11:59:19Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f90c97acbbd6": {
     "id": "lba:f90c97acbbd6",
