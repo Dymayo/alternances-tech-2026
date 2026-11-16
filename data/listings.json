@@ -99,9 +99,9 @@
     "niveau": "BTS, DEUST (Bac+2)",
     "duree_mois": 6,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=wU8GGZ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84436800.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84436800",
+    "url": "https://r.holeest.com/redirect?jd_token=FiLe9E&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85501011.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85501011",
     "categorie": "Développement",
-    "date_publication": "2026-10-14",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-15T09:41:19Z",
     "closed_at": null,
@@ -456,7 +456,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -1325,7 +1325,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=xsJqZI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84469541.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84469541",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-15",
+    "date_publication": "2026-11-14",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -1816,24 +1816,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:56aaad9ab761": {
-    "id": "lba:56aaad9ab761",
-    "source": "lba",
-    "entreprise": "ORT LYON",
-    "intitule": "Alternance - Concepteur Développeur Web Full Stack (F/H)",
-    "ville": "Lyon (69)",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/57162845?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-29",
-    "date_debut": null,
-    "first_seen": "2026-10-01T11:27:32Z",
-    "active": false,
-    "closed_at": "2026-10-02T10:57:45Z"
   },
   "lba:5722b6b580dd": {
     "id": "lba:5722b6b580dd",
@@ -2462,8 +2444,8 @@
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-16T13:27:12Z",
+    "active": false
   },
   "lba:6e7b7f18725e": {
     "id": "lba:6e7b7f18725e",
@@ -2843,24 +2825,6 @@
     "closed_at": "2026-10-31T10:47:50Z",
     "active": false
   },
-  "lba:8259a120bfcc": {
-    "id": "lba:8259a120bfcc",
-    "source": "lba",
-    "entreprise": "EXPERIS FRANCE",
-    "intitule": "IT Infrastructure Resilience Lead F/H",
-    "ville": "Route de Saint Joseph 44300 Nantes",
-    "contrat": "indifferent",
-    "niveau": "",
-    "duree_mois": 0,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ab5275e1b8f9e1e0837c132/it-infrastructure-resilience-lead-f-h",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-24",
-    "date_debut": "2026-11-02",
-    "first_seen": "2026-09-25T10:04:35Z",
-    "closed_at": "2026-10-02T10:57:45Z",
-    "active": false
-  },
   "lba:82c20c0a107d": {
     "id": "lba:82c20c0a107d",
     "source": "lba",
@@ -3056,8 +3020,8 @@
     "date_publication": "2026-11-01",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-16T13:27:12Z",
+    "active": false
   },
   "lba:87cd7492b46d": {
     "id": "lba:87cd7492b46d",
@@ -3146,8 +3110,8 @@
     "date_publication": "2026-10-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-16T13:27:12Z",
+    "active": false
   },
   "lba:8b2484240e01": {
     "id": "lba:8b2484240e01",
@@ -3416,8 +3380,8 @@
     "date_publication": "2026-11-09",
     "date_debut": "2026-11-09",
     "first_seen": "2026-11-10T13:20:54Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-16T13:27:12Z",
+    "active": false
   },
   "lba:981c4289e160": {
     "id": "lba:981c4289e160",
@@ -3436,24 +3400,6 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:985996e697c3": {
-    "id": "lba:985996e697c3",
-    "source": "lba",
-    "entreprise": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
-    "intitule": "Chargé Système d'information des Ressources Humaines (H/F)",
-    "ville": "27100 Val-de-Reuil",
-    "contrat": "professionnalisation",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QJGG",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-09",
-    "date_debut": null,
-    "first_seen": "2026-09-10T09:27:30Z",
-    "closed_at": "2026-10-02T10:57:45Z",
-    "active": false
   },
   "lba:9990eba34825": {
     "id": "lba:9990eba34825",
@@ -4833,7 +4779,7 @@
     "niveau": "",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://www.directemploi.com/candidatOffre/55566227?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+    "url": "https://solocal.flatchr.io/fr/company/solocal//vacancy/qgylqn1jppg9me0y-alternance-integrateur-frontend-h-f/apply/",
     "categorie": "Développement",
     "date_publication": "2026-10-14",
     "date_debut": null,
@@ -5121,7 +5067,7 @@
     "niveau": "",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://www.directemploi.com/candidatOffre/56666912?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+    "url": "https://solocal.flatchr.io/fr/company/solocal//vacancy/l5kdwnbgkwj9yawr-alternance-developpeur-full-stack-ia/apply/",
     "categorie": "Data & IA",
     "date_publication": "2026-10-14",
     "date_debut": null,
