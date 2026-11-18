@@ -60,10 +60,10 @@
     "intitule": "Assistant MOA Paie en Alternance H/F",
     "ville": "78140 Vélizy-Villacoublay",
     "contrat": "indifferent",
-    "niveau": "BTS, DEUST (Bac+2)",
+    "niveau": "",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJ64NQ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79479596.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79479596",
+    "url": "https://r.holeest.com/redirect?jd_token=FZiOKz&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79479596.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D79479596",
     "categorie": "Produit, Support & Gestion de projet",
     "date_publication": "2026-10-27",
     "date_debut": null,
@@ -81,7 +81,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=zLp8XA&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84024597.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84024597",
+    "url": "https://r.holeest.com/redirect?jd_token=FZggJf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84024597.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84024597",
     "categorie": "Embarqué & Électronique",
     "date_publication": "2026-11-01",
     "date_debut": null,
@@ -377,6 +377,24 @@
     "active": false,
     "closed_at": "2026-10-23T09:49:26Z"
   },
+  "lba:12298bf4536c": {
+    "id": "lba:12298bf4536c",
+    "source": "lba",
+    "entreprise": "Ministère de la Transition écologique",
+    "intitule": "ALTERNANCE 1 an - Technicien informatique",
+    "ville": "73000 Chambéry",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.pass.fonction-publique.gouv.fr/offre/alternance-1-technicien-informatique",
+    "categorie": "Développement",
+    "date_publication": "2026-11-17",
+    "date_debut": "2027-02-14",
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:12963cbe5bc7": {
     "id": "lba:12963cbe5bc7",
     "source": "lba",
@@ -536,8 +554,8 @@
     "date_publication": "2026-10-20",
     "date_debut": null,
     "first_seen": "2026-10-21T09:54:41Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:17749c58432c": {
     "id": "lba:17749c58432c",
@@ -770,8 +788,8 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-17T14:12:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:239ca5f85cfc": {
     "id": "lba:239ca5f85cfc",
@@ -950,8 +968,8 @@
     "date_publication": "2026-10-14",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:2d9d2fcf6ec0": {
     "id": "lba:2d9d2fcf6ec0",
@@ -1169,24 +1187,6 @@
     "closed_at": "2026-11-02T13:16:06Z",
     "active": false
   },
-  "lba:385588d6a7e4": {
-    "id": "lba:385588d6a7e4",
-    "source": "lba",
-    "entreprise": "NXO OCEAN INDIEN",
-    "intitule": "Apprenti.e Exploitant.e IT (H/F)",
-    "ville": "Chemin Finette 97490 Saint-Denis",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HRSB",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-03",
-    "date_debut": null,
-    "first_seen": "2026-09-06T09:13:21Z",
-    "closed_at": "2026-10-04T11:01:05Z",
-    "active": false
-  },
   "lba:38da968f9069": {
     "id": "lba:38da968f9069",
     "source": "lba",
@@ -1346,8 +1346,8 @@
     "date_publication": "2026-11-14",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:3d51edc20aa3": {
     "id": "lba:3d51edc20aa3",
@@ -1388,20 +1388,20 @@
   "lba:416051c6776b": {
     "id": "lba:416051c6776b",
     "source": "lba",
-    "entreprise": "Enedis",
-    "intitule": "STAGE - Appui référent SI et Cybersécurité F/H",
+    "entreprise": "ENEDIS",
+    "intitule": "Stage - appui référent si et cybersécurité F/H",
     "ville": "54600 Villers-lès-Nancy",
     "contrat": "indifferent",
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://www.enedis.fr/emploi/187141?LCID=1036&idOffre=187141&idOrigine=2679&offerReference=2026-187141",
+    "url": "https://www.directemploi.com/candidatOffre/57062767?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
     "categorie": "Cybersécurité",
-    "date_publication": "2026-11-16",
+    "date_publication": "2026-11-17",
     "date_debut": "2027-01-04",
     "first_seen": "2026-11-17T14:12:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:42d1e189ea03": {
     "id": "lba:42d1e189ea03",
@@ -1456,6 +1456,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-11T12:31:45Z",
     "active": false
+  },
+  "lba:446db099c9c3": {
+    "id": "lba:446db099c9c3",
+    "source": "lba",
+    "entreprise": "EXCELLENCE ONLINE DISTRIBUTION",
+    "intitule": "Assistant / Assistante chef de projet informatique",
+    "ville": "24 RUE LAENNEC 93700 DRANCY",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc6e81312e26c38b96bb32/assistant-assistante-chef-de-projet-informatique",
+    "categorie": "Développement",
+    "date_publication": "2026-11-17",
+    "date_debut": "2026-11-17",
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:45854bf39103": {
     "id": "lba:45854bf39103",
@@ -1526,8 +1544,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:48ff9b278e97": {
     "id": "lba:48ff9b278e97",
@@ -2177,6 +2195,24 @@
     "closed_at": "2026-11-17T14:12:49Z",
     "active": false
   },
+  "lba:60277294ccb9": {
+    "id": "lba:60277294ccb9",
+    "source": "lba",
+    "entreprise": "CENTRE HOSPITALIER CHATEAUBRIANT - NOZAY - POUANCE",
+    "intitule": "ALTERNANCE - TECHNICIEN INFORMATIQUE (H/F)",
+    "ville": "44110 Châteaubriant",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/yofarmh7kg8/alternance-technicien-informatique",
+    "categorie": "Développement",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:6244a4ed7094": {
     "id": "lba:6244a4ed7094",
     "source": "lba",
@@ -2230,6 +2266,24 @@
     "first_seen": "2026-10-30T11:14:56Z",
     "active": false,
     "closed_at": "2026-10-31T10:47:50Z"
+  },
+  "lba:62ecda7e0634": {
+    "id": "lba:62ecda7e0634",
+    "source": "lba",
+    "entreprise": "BRAIN NETWORKS",
+    "intitule": "Administrateur Systèmes Microsoft F/H",
+    "ville": "92700 Colombes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179815537W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-16",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:6310a0bd08d4": {
     "id": "lba:6310a0bd08d4",
@@ -2302,6 +2356,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:6505426ce90d": {
+    "id": "lba:6505426ce90d",
+    "source": "lba",
+    "entreprise": "BRAIN NETWORKS",
+    "intitule": "Ingénieur Cybersécurité – Purple Team &amp; Security Automation F/H",
+    "ville": "92700 Colombes",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179816221W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-16",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:65b638ad106c": {
     "id": "lba:65b638ad106c",
@@ -2626,6 +2698,24 @@
     "first_seen": "2026-11-13T12:55:51Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:762f09fb1e86": {
+    "id": "lba:762f09fb1e86",
+    "source": "lba",
+    "entreprise": "SUZA INTERNATIONAL FRANCE",
+    "intitule": "Alternance – Technicien Support Informatique & SAV E-commerce (H/F)",
+    "ville": "11 AVENUE JOSEPH FROELICHER 77164 FERRIERES-EN-BRIE",
+    "contrat": "apprentissage",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 36,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc7ce2312e26c38b96cbf2/alternance-technicien-support-informatique-sav-e-commerce-h-f",
+    "categorie": "Développement",
+    "date_publication": "2026-11-17",
+    "date_debut": "2026-11-17",
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:7761c952ea11": {
     "id": "lba:7761c952ea11",
@@ -3725,6 +3815,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:a8533f3328dd": {
+    "id": "lba:a8533f3328dd",
+    "source": "lba",
+    "entreprise": "BRGM",
+    "intitule": "Stage en IA / Web Sémantique F/H",
+    "ville": "Rue Gustave Flaubert 45100 Orléans",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://www.aplitrak.com/?adid=cmVjcnV0ZXVyLjYzMzQ0LjEzNjgwQGJyZ20uYXBsaXRyYWsuY29t",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-17",
+    "date_debut": "2027-02-01",
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:ab75b09000d5": {
     "id": "lba:ab75b09000d5",
     "source": "lba",
@@ -3737,7 +3845,7 @@
     "teletravail": "",
     "url": "https://jobaffinity.fr/apply/uryp4oaut0jea86wxi?src=FranceTravail%20API",
     "categorie": "Développement",
-    "date_publication": "2026-11-10",
+    "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
     "closed_at": null,
@@ -3794,8 +3902,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:afc8763fa734": {
     "id": "lba:afc8763fa734",
@@ -3902,8 +4010,8 @@
     "date_publication": "2026-10-05",
     "date_debut": "2026-10-18",
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:b4989cb675ce": {
     "id": "lba:b4989cb675ce",
@@ -3922,6 +4030,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-11-03T12:41:33Z",
     "active": false
+  },
+  "lba:b52e8b7ff82f": {
+    "id": "lba:b52e8b7ff82f",
+    "source": "lba",
+    "entreprise": "3Sdm",
+    "intitule": "Technicien Informatique H/F",
+    "ville": "01700 Miribel",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=G5gkUe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85605547.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85605547",
+    "categorie": "Développement",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:b6d4a70eedf5": {
     "id": "lba:b6d4a70eedf5",
@@ -3956,8 +4082,8 @@
     "date_publication": "2026-11-16",
     "date_debut": "2026-11-23",
     "first_seen": "2026-11-17T14:12:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:bc8436dfed7d": {
     "id": "lba:bc8436dfed7d",
@@ -4247,6 +4373,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:ce5b74530249": {
+    "id": "lba:ce5b74530249",
+    "source": "lba",
+    "entreprise": "DAY USE",
+    "intitule": "Administrateur Système et Réseau - Alternance 12 À H/F",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=G5MILE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85607620.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85607620",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:d00a4e556530": {
     "id": "lba:d00a4e556530",
     "source": "lba",
@@ -4463,6 +4607,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:d8e832e8fa6f": {
+    "id": "lba:d8e832e8fa6f",
+    "source": "lba",
+    "entreprise": "BUYR PARTNERS",
+    "intitule": "Alternant(e) – Développeur Intégrateur IA",
+    "ville": "1 RUE BABEUF 94140 ALFORTVILLE",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afc6f8e312e26c38b96bbe6/alternant-e-développeur-intégrateur-ia",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-17",
+    "date_debut": "2027-01-04",
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
     "source": "lba",
@@ -4552,6 +4714,24 @@
     "first_seen": "2026-11-14T11:59:19Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:dcd5faf21cac": {
+    "id": "lba:dcd5faf21cac",
+    "source": "lba",
+    "entreprise": "YUNIK",
+    "intitule": "Business Manager F/H",
+    "ville": "75013 Paris 13e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179816790W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-16",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -4694,8 +4874,8 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-17T14:12:49Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e553af868b22": {
     "id": "lba:e553af868b22",
@@ -4768,6 +4948,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:e8415b6e1a0a": {
+    "id": "lba:e8415b6e1a0a",
+    "source": "lba",
+    "entreprise": "Consensy-labs",
+    "intitule": "Free - Tech Lead MLOps Banque - Mini Hors Alternance et Stages H/F",
+    "ville": "75001 Paris",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "hybride",
+    "url": "https://r.holeest.com/redirect?jd_token=G5hM07&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85605615.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85605615",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:e894c3650396": {
     "id": "lba:e894c3650396",
@@ -4892,8 +5090,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-18T13:44:10Z",
+    "active": false
   },
   "lba:eb9afe25b232": {
     "id": "lba:eb9afe25b232",
@@ -4995,13 +5193,13 @@
     "niveau": "CAP, BEP (Infrabac)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=rCxVBS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83977423.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83977423",
+    "url": "https://r.holeest.com/redirect?jd_token=G0xCUQ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85578498.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85578498",
     "categorie": "Développement",
-    "date_publication": "2026-10-31",
+    "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-02T13:16:06Z",
-    "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:f0d67dbd16e6": {
     "id": "lba:f0d67dbd16e6",
@@ -5218,6 +5416,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:fdf9c0280783": {
+    "id": "lba:fdf9c0280783",
+    "source": "lba",
+    "entreprise": "LES ENTREPRISES PORTEUSES D'EMPLOIS",
+    "intitule": "Apprenti(e) serveur/serveuse (H/F)",
+    "ville": "02100 Saint-Quentin",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216NDXQ",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-18T13:44:10Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:ff32b34fe93c": {
     "id": "lba:ff32b34fe93c",
