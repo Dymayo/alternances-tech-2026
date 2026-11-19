@@ -392,8 +392,8 @@
     "date_publication": "2026-11-17",
     "date_debut": "2027-02-14",
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:12963cbe5bc7": {
     "id": "lba:12963cbe5bc7",
@@ -405,13 +405,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=DPSxd0&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
+    "url": "https://r.holeest.com/redirect?jd_token=GkdmWz&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795170.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795170",
     "categorie": "Embarqué & Électronique",
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:1349a932ba04": {
     "id": "lba:1349a932ba04",
@@ -474,7 +474,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -909,13 +909,13 @@
     "niveau": "",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://www.meteojob.com/jobs/57451415?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+    "url": "https://www.meteojob.com/jobs/58146265?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
     "categorie": "Développement",
-    "date_publication": "2026-11-06",
+    "date_publication": "2026-11-18",
     "date_debut": null,
     "first_seen": "2026-10-14T09:59:23Z",
-    "closed_at": "2026-11-13T12:55:51Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:2c57ad8d70f8": {
     "id": "lba:2c57ad8d70f8",
@@ -950,8 +950,8 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:2d8060c3b674": {
     "id": "lba:2d8060c3b674",
@@ -1186,6 +1186,24 @@
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": "2026-11-02T13:16:06Z",
     "active": false
+  },
+  "lba:385e90ba4260": {
+    "id": "lba:385e90ba4260",
+    "source": "lba",
+    "entreprise": "STEAMONE",
+    "intitule": "Assistant(e) Digital Commerce",
+    "ville": "10 AVENUE GEORGE V 75008 PARIS",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdc45951dc81ce85d7343e/assistant-e-digital-commerce",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-18",
+    "date_debut": "2027-01-01",
+    "first_seen": "2026-11-19T14:13:02Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:38da968f9069": {
     "id": "lba:38da968f9069",
@@ -1436,8 +1454,8 @@
     "date_publication": "2026-10-07",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:438160926083": {
     "id": "lba:438160926083",
@@ -1472,8 +1490,8 @@
     "date_publication": "2026-11-17",
     "date_debut": "2026-11-17",
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:45854bf39103": {
     "id": "lba:45854bf39103",
@@ -1580,8 +1598,26 @@
     "date_publication": "2026-11-10",
     "date_debut": null,
     "first_seen": "2026-11-11T12:31:45Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
+  },
+  "lba:4b36c84a38aa": {
+    "id": "lba:4b36c84a38aa",
+    "source": "lba",
+    "entreprise": "INSTITUT NATIONAL DU SPORT DE L EXPERTISE ET DE LA PERFORMANCE",
+    "intitule": "Chargé(e) de projet « accessibilité » en contrat d'apprentissage (H/F)",
+    "ville": "75012 Paris 12e Arrondissement",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216NYCP",
+    "categorie": "Développement",
+    "date_publication": "2026-11-18",
+    "date_debut": null,
+    "first_seen": "2026-11-19T14:13:02Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:4ce8793d3666": {
     "id": "lba:4ce8793d3666",
@@ -1598,8 +1634,8 @@
     "date_publication": "2026-10-13",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:4e330c665f1b": {
     "id": "lba:4e330c665f1b",
@@ -2210,8 +2246,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6244a4ed7094": {
     "id": "lba:6244a4ed7094",
@@ -2282,8 +2318,8 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:6310a0bd08d4": {
     "id": "lba:6310a0bd08d4",
@@ -2372,6 +2408,24 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:653d9bc108c0": {
+    "id": "lba:653d9bc108c0",
+    "source": "lba",
+    "entreprise": "S2K CONSEIL & FORMATION",
+    "intitule": "Business Developer B2B - IA, automatisation et solutions no-code (H/F)",
+    "ville": "78380 Bougival",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MBXQ",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-16",
+    "date_debut": null,
+    "first_seen": "2026-11-19T14:13:02Z",
     "active": true,
     "closed_at": null
   },
@@ -2462,8 +2516,8 @@
     "date_publication": "2026-11-11",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:6b024815b7d6": {
     "id": "lba:6b024815b7d6",
@@ -2547,13 +2601,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=FhdyUw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=G7nv61&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": "2026-11-16T13:27:12Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:6e7b7f18725e": {
     "id": "lba:6e7b7f18725e",
@@ -2660,8 +2714,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-09-25T10:04:35Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:7595134a360a": {
     "id": "lba:7595134a360a",
@@ -2714,8 +2768,8 @@
     "date_publication": "2026-11-17",
     "date_debut": "2026-11-17",
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-19T14:13:02Z"
   },
   "lba:7761c952ea11": {
     "id": "lba:7761c952ea11",
@@ -3038,8 +3092,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:85c24bdd3f7f": {
     "id": "lba:85c24bdd3f7f",
@@ -3177,13 +3231,13 @@
     "niveau": "BTS, DEUST (Bac+2)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=yf6EP2&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84527125.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84527125",
+    "url": "https://r.holeest.com/redirect?jd_token=GiTuai&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84527125.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84527125",
     "categorie": "Développement",
     "date_publication": "2026-10-16",
-    "date_debut": "2026-10-19",
+    "date_debut": "2026-10-18",
     "first_seen": "2026-10-17T09:06:19Z",
-    "closed_at": "2026-11-17T14:12:49Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:88ee3ae47839": {
     "id": "lba:88ee3ae47839",
@@ -3364,6 +3418,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:912663d7f6d8": {
+    "id": "lba:912663d7f6d8",
+    "source": "lba",
+    "entreprise": "SADAPS-BARDAHL CORPORATION",
+    "intitule": "Stage/alternance Chargé(e) d'accompagnement à l'adoption de l'IA",
+    "ville": "59780 Baisieux",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6afe2f56de83093b496e9d41/stage-alternance-chargé-e-d-accompagnement-à-l-adoption-de-l-ia",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-17",
+    "date_debut": null,
+    "first_seen": "2026-11-19T14:13:02Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:92f1efc2f2a0": {
     "id": "lba:92f1efc2f2a0",
@@ -3830,8 +3902,8 @@
     "date_publication": "2026-11-17",
     "date_debut": "2027-02-01",
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ab75b09000d5": {
     "id": "lba:ab75b09000d5",
@@ -3903,24 +3975,6 @@
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": "2026-11-18T13:44:10Z",
-    "active": false
-  },
-  "lba:afc8763fa734": {
-    "id": "lba:afc8763fa734",
-    "source": "lba",
-    "entreprise": "EOWIN",
-    "intitule": "Alternant Technicien Informatique (H/F)",
-    "ville": "78280 Guyancourt",
-    "contrat": "apprentissage",
-    "niveau": "",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://taleez.com/apply/alternant-technicien-informatique-support-n1-systemes-reseaux-h-f-guyancourt-eowin/applying",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-21",
-    "date_debut": null,
-    "first_seen": "2026-09-22T09:43:50Z",
-    "closed_at": "2026-10-05T12:08:31Z",
     "active": false
   },
   "lba:afd1aaf0f680": {
@@ -4046,8 +4100,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b6d4a70eedf5": {
     "id": "lba:b6d4a70eedf5",
@@ -4388,8 +4442,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-19T14:13:02Z"
   },
   "lba:d00a4e556530": {
     "id": "lba:d00a4e556530",
@@ -4532,8 +4586,8 @@
     "date_publication": "2026-10-08",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:d54d2c5468b8": {
     "id": "lba:d54d2c5468b8",
@@ -4604,8 +4658,8 @@
     "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:d8e832e8fa6f": {
     "id": "lba:d8e832e8fa6f",
@@ -4622,8 +4676,8 @@
     "date_publication": "2026-11-17",
     "date_debut": "2027-01-04",
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d8f8268c6366": {
     "id": "lba:d8f8268c6366",
@@ -4730,8 +4784,8 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:dd0bace34c89": {
     "id": "lba:dd0bace34c89",
@@ -4763,7 +4817,7 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/alter-si-stage-fin-detude-ou-alternance-stage-consultante-bi-hf-kc4dhdaB0wRSBbXO7ycn?source=france_travail",
     "categorie": "Data & IA",
-    "date_publication": "2026-11-03",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
@@ -4841,6 +4895,24 @@
     "closed_at": "2026-11-11T12:31:45Z",
     "active": false
   },
+  "lba:df5e388233e9": {
+    "id": "lba:df5e388233e9",
+    "source": "lba",
+    "entreprise": "RENAULT SAS",
+    "intitule": "Alternance - Assistant Gouvernance Cybersécurité H/F",
+    "ville": "92140 Clamart",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=GiCPOk&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85657693.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85657693",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-18",
+    "date_debut": null,
+    "first_seen": "2026-11-19T14:13:02Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:e2c6317c08e3": {
     "id": "lba:e2c6317c08e3",
     "source": "lba",
@@ -4874,8 +4946,8 @@
     "date_publication": "2026-11-16",
     "date_debut": null,
     "first_seen": "2026-11-17T14:12:49Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-19T14:13:02Z",
+    "active": false
   },
   "lba:e553af868b22": {
     "id": "lba:e553af868b22",
@@ -4964,8 +5036,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-19T14:13:02Z"
   },
   "lba:e894c3650396": {
     "id": "lba:e894c3650396",
@@ -5069,7 +5141,7 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/holis-data-analyst-scientist-startup-a-impact-ynnY0fGqKDP1kM2UdGIE?source=france_travail",
     "categorie": "Data & IA",
-    "date_publication": "2026-11-03",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
@@ -5165,6 +5237,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:f0555c09295a": {
+    "id": "lba:f0555c09295a",
+    "source": "lba",
+    "entreprise": "GROUPEMENT DES CONCESSIONNAIRES RENAULT",
+    "intitule": "Alternance - Assistant Gouvernance Cybersécurité H/F",
+    "ville": "2 Avenue Denis Papin 92140 Clamart",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "hybride",
+    "url": "https://api.mytalentplug.com/job/v1/joboffer/redirect?id=16b1e3e3-d64a-491e-a2ad-1f4b206e2967",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-18",
+    "date_debut": "2026-11-18",
+    "first_seen": "2026-11-19T14:13:02Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:f08e41b0a998": {
     "id": "lba:f08e41b0a998",
     "source": "lba",
@@ -5187,13 +5277,13 @@
     "id": "lba:f0cf93542ef6",
     "source": "lba",
     "entreprise": "NEXTEAM",
-    "intitule": "Alternance Support Informatique H/F",
+    "intitule": "ALTERNANCE SUPPORT INFORMATIQUE H/F",
     "ville": "19200 Ussel",
     "contrat": "indifferent",
-    "niveau": "CAP, BEP (Infrabac)",
-    "duree_mois": 12,
+    "niveau": "",
+    "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=G0xCUQ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85578498.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85578498",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6afe2f54de83093b496e9d02/alternance-support-informatique-h-f",
     "categorie": "Développement",
     "date_publication": "2026-11-17",
     "date_debut": null,
@@ -5285,7 +5375,7 @@
     "teletravail": "",
     "url": "https://jobs.makesense.org/fr/jobs/bioheme-stagiaire-qualite-retd-lOpnBpQ6KkR0Su0QKjbD?source=france_travail",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-11-03",
+    "date_publication": "2026-11-13",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
     "closed_at": null,
@@ -5432,8 +5522,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:ff32b34fe93c": {
     "id": "lba:ff32b34fe93c",
