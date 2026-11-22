@@ -428,8 +428,8 @@
     "date_publication": "2026-11-19",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:12298bf4536c": {
     "id": "lba:12298bf4536c",
@@ -536,8 +536,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1530556eb440": {
     "id": "lba:1530556eb440",
@@ -546,7 +546,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -556,24 +556,6 @@
     "first_seen": "2026-11-01T11:45:19Z",
     "closed_at": null,
     "active": true
-  },
-  "lba:1588cc665bf8": {
-    "id": "lba:1588cc665bf8",
-    "source": "lba",
-    "entreprise": "SPS TECHNOLOGY",
-    "intitule": "Technicien / Technicienne informatique",
-    "ville": "24 BOULEVARD PEBRE 13008 MARSEILLE",
-    "contrat": "apprentissage",
-    "niveau": "Bac, Bac Pro, BP (Bac)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abf7cffc5256f3f6f92a702/technicien-technicienne-informatique",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-10-02",
-    "date_debut": "2026-10-02",
-    "first_seen": "2026-10-02T10:57:45Z",
-    "closed_at": "2026-10-08T11:52:00Z",
-    "active": false
   },
   "lba:15998836f6b7": {
     "id": "lba:15998836f6b7",
@@ -585,7 +567,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=D4p4PJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85111213.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85111213",
+    "url": "https://r.holeest.com/redirect?jd_token=HbW8Cq&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85111213.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D85111213",
     "categorie": "Data & IA",
     "date_publication": "2026-11-03",
     "date_debut": null,
@@ -824,8 +806,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:203cf41d8c12": {
     "id": "lba:203cf41d8c12",
@@ -860,8 +842,8 @@
     "date_publication": "2026-11-19",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-22T13:09:47Z",
+    "active": false
   },
   "lba:214e48d085bb": {
     "id": "lba:214e48d085bb",
@@ -878,8 +860,8 @@
     "date_publication": "2026-11-19",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:21a24029be7c": {
     "id": "lba:21a24029be7c",
@@ -1526,8 +1508,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:416051c6776b": {
     "id": "lba:416051c6776b",
@@ -2033,6 +2015,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:55e191afad43": {
+    "id": "lba:55e191afad43",
+    "source": "lba",
+    "entreprise": "FRAMATOME",
+    "intitule": "Alternance - Assistant Chef de Projet F/H F/H",
+    "ville": "85000 La Roche-sur-Yon",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://framatome-career.talent-soft.com/offre-de-emploi/emploi-alternance-assistant-chef-de-projet-f-h-f-h_28389.aspx",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-21",
+    "date_debut": null,
+    "first_seen": "2026-11-22T13:09:47Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:568426506523": {
     "id": "lba:568426506523",
     "source": "lba",
@@ -2390,8 +2390,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-18T13:44:10Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-22T13:09:47Z",
+    "active": false
   },
   "lba:6244a4ed7094": {
     "id": "lba:6244a4ed7094",
@@ -2405,7 +2405,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=pJ2wOw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81532520.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D81532520",
     "categorie": "Développement",
-    "date_publication": "2026-10-20",
+    "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -2858,8 +2858,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:73eb58e9d2c1": {
     "id": "lba:73eb58e9d2c1",
@@ -3020,8 +3020,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7d32927eee4c": {
     "id": "lba:7d32927eee4c",
@@ -3717,13 +3717,13 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=GQLJ0g&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85739281.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85739281",
+    "url": "https://r.holeest.com/redirect?jd_token=HbdDFG&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85739281.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85739281",
     "categorie": "Data & IA",
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:9780ea11ee4c": {
     "id": "lba:9780ea11ee4c",
@@ -3884,8 +3884,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:a0a08391c21d": {
     "id": "lba:a0a08391c21d",
@@ -3976,6 +3976,24 @@
     "first_seen": "2026-10-24T09:21:25Z",
     "closed_at": "2026-11-07T11:35:56Z",
     "active": false
+  },
+  "lba:a504fe8e3a0a": {
+    "id": "lba:a504fe8e3a0a",
+    "source": "lba",
+    "entreprise": "PORTALP FRANCE",
+    "intitule": "Ingénieur du Système de Management de la Qualité H/F",
+    "ville": "38120 Saint-Égrève",
+    "contrat": "indifferent",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Hd3Jx3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84611084.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84611084",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-19",
+    "date_debut": null,
+    "first_seen": "2026-11-22T13:09:47Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:a530c9eab3e6": {
     "id": "lba:a530c9eab3e6",
@@ -4113,7 +4131,7 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=DvNrih&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85186653.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85186653",
+    "url": "https://r.holeest.com/redirect?jd_token=HbmkKf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85186653.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85186653",
     "categorie": "Développement",
     "date_publication": "2026-11-05",
     "date_debut": null,
@@ -4527,10 +4545,10 @@
     "niveau": "CAP, BEP (Infrabac)",
     "duree_mois": 16,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=GnXiSk&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85676884.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85676884",
+    "url": "https://r.holeest.com/redirect?jd_token=Hc7l6X&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85676884.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85676884",
     "categorie": "Réseaux, Cloud & Infra",
     "date_publication": "2026-11-19",
-    "date_debut": "2026-11-30",
+    "date_debut": "2026-11-29",
     "first_seen": "2026-10-29T03:07:42Z",
     "closed_at": null,
     "active": true
@@ -4570,6 +4588,24 @@
     "first_seen": "2026-11-14T11:59:19Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:cab586cc9680": {
+    "id": "lba:cab586cc9680",
+    "source": "lba",
+    "entreprise": "EDF",
+    "intitule": "Alternance - Assistant Chef de Projet F/H F/H",
+    "ville": "85000 La Roche-sur-Yon",
+    "contrat": "indifferent",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-28389?idOrigine=502",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-21",
+    "date_debut": "2027-01-04",
+    "first_seen": "2026-11-22T13:09:47Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:cad8fd8da436": {
     "id": "lba:cad8fd8da436",
@@ -4977,7 +5013,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJ64SI&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80594082.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80594082",
+    "url": "https://r.holeest.com/redirect?jd_token=HbINZU&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80594082.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80594082",
     "categorie": "Data & IA",
     "date_publication": "2026-10-25",
     "date_debut": null,
@@ -5193,7 +5229,7 @@
     "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJbIAu&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79768077.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79768077",
+    "url": "https://r.holeest.com/redirect?jd_token=HbJCGN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F79768077.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D79768077",
     "categorie": "Data & IA",
     "date_publication": "2026-11-04",
     "date_debut": null,
@@ -5216,8 +5252,8 @@
     "date_publication": "2026-11-20",
     "date_debut": "2026-11-20",
     "first_seen": "2026-11-21T13:18:11Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e8415b6e1a0a": {
     "id": "lba:e8415b6e1a0a",
