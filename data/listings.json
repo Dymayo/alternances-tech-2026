@@ -261,13 +261,13 @@
     "niveau": "",
     "duree_mois": 0,
     "teletravail": "",
-    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae20c01bbefc38a6cee7682/technicien-datacenter-f-h-val-de-reuil-27",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6b0464ccf84716b7a1ffc135/technicien-datacenter-f-h-val-de-reuil-27",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-28",
+    "date_publication": "2026-11-23",
     "date_debut": "2026-11-09",
     "first_seen": "2026-10-29T03:07:42Z",
-    "closed_at": "2026-11-05T12:59:40Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:08683cae3efd": {
     "id": "lba:08683cae3efd",
@@ -1114,6 +1114,24 @@
     "first_seen": "2026-10-25T09:38:49Z",
     "active": false,
     "closed_at": "2026-10-29T02:41:04Z"
+  },
+  "lba:2ec97409d00e": {
+    "id": "lba:2ec97409d00e",
+    "source": "lba",
+    "entreprise": "Keolis Lille ilévia",
+    "intitule": "Alternance - Technicien Systèmes Industriels H/F",
+    "ville": "59700 Marcq-en-Barœul",
+    "contrat": "indifferent",
+    "niveau": "CAP, BEP (Infrabac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=HxLUz0&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85797331.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85797331",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-23",
+    "date_debut": null,
+    "first_seen": "2026-11-24T15:38:30Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:2f155f0288a0": {
     "id": "lba:2f155f0288a0",
@@ -2531,7 +2549,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=B0B3Ng&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84756528.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84756528",
     "categorie": "Développement",
-    "date_publication": "2026-10-23",
+    "date_publication": "2026-11-22",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -3254,8 +3272,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": "2026-11-19T14:13:02Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:85c24bdd3f7f": {
     "id": "lba:85c24bdd3f7f",
@@ -3401,6 +3419,24 @@
     "closed_at": "2026-11-06T12:47:28Z",
     "active": false
   },
+  "lba:899080ee5fff": {
+    "id": "lba:899080ee5fff",
+    "source": "lba",
+    "entreprise": "SOCIETE INSTALLATIONS TELECOMS COURANTS FORTS",
+    "intitule": "Technicien de bureau d'études en électricité des bâtiments (H/F)",
+    "ville": "95600 Eaubonne",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216SHJX",
+    "categorie": "Autre",
+    "date_publication": "2026-11-23",
+    "date_debut": null,
+    "first_seen": "2026-11-24T15:38:30Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8a3a0035c609": {
     "id": "lba:8a3a0035c609",
     "source": "lba",
@@ -3454,6 +3490,24 @@
     "first_seen": "2026-10-15T09:41:19Z",
     "closed_at": "2026-11-14T11:59:19Z",
     "active": false
+  },
+  "lba:8c0e51563593": {
+    "id": "lba:8c0e51563593",
+    "source": "lba",
+    "entreprise": "EQUANS",
+    "intitule": "Ingénieur SIG F/H",
+    "ville": "78280 Guyancourt",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179830147W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-18",
+    "date_debut": null,
+    "first_seen": "2026-11-24T15:38:30Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:8cb2008803de": {
     "id": "lba:8cb2008803de",
@@ -3812,8 +3866,8 @@
     "date_publication": "2026-10-15",
     "date_debut": "2027-04-14",
     "first_seen": "2026-11-13T12:55:51Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-24T15:38:30Z",
+    "active": false
   },
   "lba:9d3c55f51a71": {
     "id": "lba:9d3c55f51a71",
@@ -4192,6 +4246,24 @@
     "first_seen": "2026-10-10T11:02:02Z",
     "closed_at": "2026-11-23T15:46:49Z",
     "active": false
+  },
+  "lba:b0b54705362d": {
+    "id": "lba:b0b54705362d",
+    "source": "lba",
+    "entreprise": "R &amp; S TELECOM",
+    "intitule": "Business Developer IT – Alternance F/H",
+    "ville": "78140 Vélizy-Villacoublay",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "hybride",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179851522W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Développement",
+    "date_publication": "2026-11-22",
+    "date_debut": null,
+    "first_seen": "2026-11-24T15:38:30Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:b0b5f563205a": {
     "id": "lba:b0b5f563205a",
@@ -4640,8 +4712,8 @@
     "date_publication": "2026-11-02",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-24T15:38:30Z",
+    "active": false
   },
   "lba:ce5b74530249": {
     "id": "lba:ce5b74530249",
@@ -5252,8 +5324,8 @@
     "date_publication": "2026-11-20",
     "date_debut": "2026-11-20",
     "first_seen": "2026-11-21T13:18:11Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-24T15:38:30Z",
+    "active": false
   },
   "lba:e8415b6e1a0a": {
     "id": "lba:e8415b6e1a0a",
@@ -5558,6 +5630,24 @@
     "date_publication": "2026-11-05",
     "date_debut": null,
     "first_seen": "2026-11-23T15:46:49Z",
+    "closed_at": null,
+    "active": true
+  },
+  "lba:f62aa6104193": {
+    "id": "lba:f62aa6104193",
+    "source": "lba",
+    "entreprise": "AKANEA DEVELOPPEMENT",
+    "intitule": "Alternant Développeur H/F",
+    "ville": "51100 Reims",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=Ht7vxv&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85780011.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85780011",
+    "categorie": "Développement",
+    "date_publication": "2026-11-23",
+    "date_debut": null,
+    "first_seen": "2026-11-24T15:38:30Z",
     "active": true,
     "closed_at": null
   },
@@ -5684,8 +5774,8 @@
     "date_publication": "2026-10-23",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-24T15:38:30Z",
+    "active": false
   },
   "lba:fcc41812afe2": {
     "id": "lba:fcc41812afe2",
