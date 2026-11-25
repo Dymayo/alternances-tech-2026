@@ -284,8 +284,8 @@
     "date_publication": "2026-10-31",
     "date_debut": null,
     "first_seen": "2026-11-08T11:47:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:0ac0e4647464": {
     "id": "lba:0ac0e4647464",
@@ -464,8 +464,8 @@
     "date_publication": "2026-10-30",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:1349a932ba04": {
     "id": "lba:1349a932ba04",
@@ -546,7 +546,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -989,6 +989,24 @@
     "closed_at": "2026-11-17T14:12:49Z",
     "active": false
   },
+  "lba:2b64dc1b4582": {
+    "id": "lba:2b64dc1b4582",
+    "source": "lba",
+    "entreprise": "ALLIANCE AUTOMOTIVE FRANCE",
+    "intitule": "Alternance - Data Analyst H/F",
+    "ville": "80000 Amiens",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=HLmTgP&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85841434.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85841434",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-24",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:2c430120a45f": {
     "id": "lba:2c430120a45f",
     "source": "lba",
@@ -1130,8 +1148,8 @@
     "date_publication": "2026-11-23",
     "date_debut": null,
     "first_seen": "2026-11-24T15:38:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2f155f0288a0": {
     "id": "lba:2f155f0288a0",
@@ -1637,6 +1655,24 @@
     "closed_at": "2026-11-20T13:54:34Z",
     "active": false
   },
+  "lba:4577be5adb65": {
+    "id": "lba:4577be5adb65",
+    "source": "lba",
+    "entreprise": "EXPERIS FRANCE",
+    "intitule": "Ingénieur de Production F/H",
+    "ville": "Route de Saint Joseph 44300 Nantes",
+    "contrat": "indifferent",
+    "niveau": "",
+    "duree_mois": 0,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6b05a3b0879ca39b3c0d452d/ingénieur-de-production-f-h",
+    "categorie": "Produit, Support & Gestion de projet",
+    "date_publication": "2026-11-24",
+    "date_debut": "2026-12-01",
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:45854bf39103": {
     "id": "lba:45854bf39103",
     "source": "lba",
@@ -1817,24 +1853,6 @@
     "closed_at": "2026-11-17T14:12:49Z",
     "active": false
   },
-  "lba:4ebfc159ec55": {
-    "id": "lba:4ebfc159ec55",
-    "source": "lba",
-    "entreprise": "CAPGEMINI",
-    "intitule": "Développeuse - Développeur C++ - Environnement Industriel - Alternance H/F",
-    "ville": "31000 Toulouse",
-    "contrat": "indifferent",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJ4gyx&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83429690.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83429690",
-    "categorie": "Réseaux, Cloud & Infra",
-    "date_publication": "2026-09-16",
-    "date_debut": null,
-    "first_seen": "2026-10-10T11:02:02Z",
-    "active": false,
-    "closed_at": "2026-10-11T11:19:08Z"
-  },
   "lba:4f354790bb1b": {
     "id": "lba:4f354790bb1b",
     "source": "lba",
@@ -1899,13 +1917,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": null,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=GvOYeY&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457",
+    "url": "https://r.holeest.com/redirect?jd_token=HLPXGR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84509457.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84509457",
     "categorie": "Développement",
-    "date_publication": "2026-10-16",
+    "date_publication": "2026-11-19",
     "date_debut": null,
     "first_seen": "2026-11-03T12:41:33Z",
-    "closed_at": "2026-11-21T13:18:11Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:5050946b7489": {
     "id": "lba:5050946b7489",
@@ -2318,8 +2336,8 @@
     "date_publication": "2026-10-09",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:5c41f4568584": {
     "id": "lba:5c41f4568584",
@@ -2750,8 +2768,8 @@
     "date_publication": "2026-10-25",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:6e69ecdf1257": {
     "id": "lba:6e69ecdf1257",
@@ -2768,8 +2786,8 @@
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-31T10:47:50Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:6e7b7f18725e": {
     "id": "lba:6e7b7f18725e",
@@ -2853,13 +2871,13 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PPZF",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216TRPK",
     "categorie": "Produit, Support & Gestion de projet",
-    "date_publication": "2026-10-23",
+    "date_publication": "2026-11-24",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": "2026-11-23T15:46:49Z",
-    "active": false
+    "closed_at": null,
+    "active": true
   },
   "lba:737a10523b1f": {
     "id": "lba:737a10523b1f",
@@ -3257,6 +3275,24 @@
     "closed_at": "2026-11-01T11:45:19Z",
     "active": false
   },
+  "lba:843a35feb0b2": {
+    "id": "lba:843a35feb0b2",
+    "source": "lba",
+    "entreprise": "THINKPROJECT FRANCE",
+    "intitule": "Développeur Réact ou PHP ou C# (H/F)",
+    "ville": "69100 Villeurbanne",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VKWK",
+    "categorie": "Développement",
+    "date_publication": "2026-11-24",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:8543846e9640": {
     "id": "lba:8543846e9640",
     "source": "lba",
@@ -3434,8 +3470,8 @@
     "date_publication": "2026-11-23",
     "date_debut": null,
     "first_seen": "2026-11-24T15:38:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8a3a0035c609": {
     "id": "lba:8a3a0035c609",
@@ -3506,8 +3542,8 @@
     "date_publication": "2026-11-18",
     "date_debut": null,
     "first_seen": "2026-11-24T15:38:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:8cb2008803de": {
     "id": "lba:8cb2008803de",
@@ -3629,7 +3665,7 @@
     "teletravail": "",
     "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6afe2f56de83093b496e9d41/stage-alternance-chargé-e-d-accompagnement-à-l-adoption-de-l-ia",
     "categorie": "Data & IA",
-    "date_publication": "2026-11-17",
+    "date_publication": "2026-11-23",
     "date_debut": null,
     "first_seen": "2026-11-19T14:13:02Z",
     "closed_at": null,
@@ -3938,8 +3974,8 @@
     "date_publication": "2026-11-20",
     "date_debut": null,
     "first_seen": "2026-11-21T13:18:11Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:a0a08391c21d": {
     "id": "lba:a0a08391c21d",
@@ -4103,24 +4139,6 @@
     "closed_at": "2026-11-02T13:16:06Z",
     "active": false
   },
-  "lba:a70bcb2b181e": {
-    "id": "lba:a70bcb2b181e",
-    "source": "lba",
-    "entreprise": "ELAP",
-    "intitule": "Apprenti Technicien Informatique Support Systeme Reseaux H/F",
-    "ville": "83170 Brignoles",
-    "contrat": "indifferent",
-    "niveau": "BTS, DEUST (Bac+2)",
-    "duree_mois": 12,
-    "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=vakOYc&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84262062.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84262062",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-10-09",
-    "date_debut": null,
-    "first_seen": "2026-10-10T11:02:02Z",
-    "active": false,
-    "closed_at": "2026-10-11T11:19:08Z"
-  },
   "lba:a75721ff6cfe": {
     "id": "lba:a75721ff6cfe",
     "source": "lba",
@@ -4136,8 +4154,8 @@
     "date_publication": "2026-09-24",
     "date_debut": null,
     "first_seen": "2026-09-25T10:04:35Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:a8533f3328dd": {
     "id": "lba:a8533f3328dd",
@@ -4157,6 +4175,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:ab06f440fd1f": {
+    "id": "lba:ab06f440fd1f",
+    "source": "lba",
+    "entreprise": "CAPGEMINI",
+    "intitule": "Ingénieur Open Source Vlsi - Eda - Alternance H/F",
+    "ville": "38000 Grenoble",
+    "contrat": "indifferent",
+    "niveau": "BTS, DEUST (Bac+2)",
+    "duree_mois": 6,
+    "teletravail": "",
+    "url": "https://r.holeest.com/redirect?jd_token=HEOreH&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85815242.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85815242",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-24",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:ab75b09000d5": {
     "id": "lba:ab75b09000d5",
     "source": "lba",
@@ -4172,8 +4208,8 @@
     "date_publication": "2026-11-17",
     "date_debut": null,
     "first_seen": "2026-11-04T12:51:34Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:ace71bf1a41b": {
     "id": "lba:ace71bf1a41b",
@@ -4210,6 +4246,24 @@
     "first_seen": "2026-10-30T11:14:56Z",
     "closed_at": null,
     "active": true
+  },
+  "lba:ae1bf7f6281d": {
+    "id": "lba:ae1bf7f6281d",
+    "source": "lba",
+    "entreprise": "Opale Energies Engagées",
+    "intitule": "Alternance - Cartographie SIG et développement de projets EnR (H/F)",
+    "ville": "84000 Avignon",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://jobs.makesense.org/fr/jobs/opale-energies-engagees-alternance-cartographie-sig-et-developpement-de-projets-enr-k7Qfmf9TDTIwcYQ3y96q?source=france_travail",
+    "categorie": "Développement",
+    "date_publication": "2026-11-24",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:ae3486c3f3ee": {
     "id": "lba:ae3486c3f3ee",
@@ -4262,8 +4316,8 @@
     "date_publication": "2026-11-22",
     "date_debut": null,
     "first_seen": "2026-11-24T15:38:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:b0b5f563205a": {
     "id": "lba:b0b5f563205a",
@@ -4676,8 +4730,8 @@
     "date_publication": "2026-11-21",
     "date_debut": "2027-01-04",
     "first_seen": "2026-11-22T13:09:47Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:cad8fd8da436": {
     "id": "lba:cad8fd8da436",
@@ -4895,24 +4949,6 @@
     "closed_at": "2026-11-13T12:55:51Z",
     "active": false
   },
-  "lba:d6058aea8cc2": {
-    "id": "lba:d6058aea8cc2",
-    "source": "lba",
-    "entreprise": "CAPGEMINI",
-    "intitule": "Développeuse - Développeur Fullstack Java et Angular - Alternance H/F",
-    "ville": "50100 Cherbourg-en-Cotentin",
-    "contrat": "indifferent",
-    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
-    "duree_mois": 24,
-    "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=pJ8B6o&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83429689.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D83429689",
-    "categorie": "Cybersécurité",
-    "date_publication": "2026-09-16",
-    "date_debut": null,
-    "first_seen": "2026-10-10T11:02:02Z",
-    "active": false,
-    "closed_at": "2026-10-11T11:19:08Z"
-  },
   "lba:d76deec33107": {
     "id": "lba:d76deec33107",
     "source": "lba",
@@ -5090,8 +5126,8 @@
     "date_publication": "2026-10-25",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:dd21ac22011c": {
     "id": "lba:dd21ac22011c",
@@ -5201,6 +5237,24 @@
     "active": false,
     "closed_at": "2026-11-20T13:54:34Z"
   },
+  "lba:e266d6f4590f": {
+    "id": "lba:e266d6f4590f",
+    "source": "lba",
+    "entreprise": "Akanea",
+    "intitule": "Alternant développeur F/H",
+    "ville": "51100 Reims",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/179859332W?xtor=#at_medium=affiliate&at_campaign=Export_offres_la_bonne_alternance&at_type=partenaire_export",
+    "categorie": "Développement",
+    "date_publication": "2026-11-23",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:e2c6317c08e3": {
     "id": "lba:e2c6317c08e3",
     "source": "lba",
@@ -5306,8 +5360,8 @@
     "date_publication": "2026-11-04",
     "date_debut": null,
     "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:e772c93d4e74": {
     "id": "lba:e772c93d4e74",
@@ -5525,6 +5579,24 @@
     "closed_at": null,
     "active": true
   },
+  "lba:ec66ad838c28": {
+    "id": "lba:ec66ad838c28",
+    "source": "lba",
+    "entreprise": "THINKPROJECT FRANCE",
+    "intitule": "Développeur JavaScript (H/F)",
+    "ville": "69100 Villeurbanne",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VCNK",
+    "categorie": "Développement",
+    "date_publication": "2026-11-24",
+    "date_debut": null,
+    "first_seen": "2026-11-25T15:23:03Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:f0555c09295a": {
     "id": "lba:f0555c09295a",
     "source": "lba",
@@ -5540,8 +5612,8 @@
     "date_publication": "2026-11-18",
     "date_debut": "2026-11-18",
     "first_seen": "2026-11-19T14:13:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-25T15:23:03Z",
+    "active": false
   },
   "lba:f08e41b0a998": {
     "id": "lba:f08e41b0a998",
@@ -5648,8 +5720,8 @@
     "date_publication": "2026-11-23",
     "date_debut": null,
     "first_seen": "2026-11-24T15:38:30Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:f653a2da77f0": {
     "id": "lba:f653a2da77f0",
