@@ -446,8 +446,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-28T13:59:04Z"
   },
   "lba:11cc493892d4": {
     "id": "lba:11cc493892d4",
@@ -518,8 +518,8 @@
     "date_publication": "2026-11-26",
     "date_debut": "2026-11-26",
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "active": false,
+    "closed_at": "2026-11-28T13:59:04Z"
   },
   "lba:1349a932ba04": {
     "id": "lba:1349a932ba04",
@@ -600,7 +600,7 @@
     "intitule": "Business Developer B2B  (H/F)",
     "ville": "75013 Paris 13e Arrondissement",
     "contrat": "apprentissage",
-    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 24,
     "teletravail": "",
     "url": "https://happycab.fr/entreprise/jirco/offre-emploi/business-developer-b2b?source=franceTravail",
@@ -716,8 +716,8 @@
     "date_publication": "2026-11-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1a271cc3189f": {
     "id": "lba:1a271cc3189f",
@@ -752,8 +752,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:1ac1738f7cc3": {
     "id": "lba:1ac1738f7cc3",
@@ -914,8 +914,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:203cf41d8c12": {
     "id": "lba:203cf41d8c12",
@@ -1024,6 +1024,24 @@
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-10-31T10:47:50Z",
     "active": false
+  },
+  "lba:27de1719f9f7": {
+    "id": "lba:27de1719f9f7",
+    "source": "lba",
+    "entreprise": "AD PAYS DE VANNES",
+    "intitule": "Alternant(e) Data scientist / IA - Master Sciences des données",
+    "ville": "ZA DE TREHUINEC BAT C 56890 PLESCOP",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 12,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b09c4abe33cb2468cfc9ad9/alternant-e-data-scientist-ia-master-sciences-des-données",
+    "categorie": "Data & IA",
+    "date_publication": "2026-11-27",
+    "date_debut": "2027-01-02",
+    "first_seen": "2026-11-28T13:59:04Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:28344ee83cae": {
     "id": "lba:28344ee83cae",
@@ -1274,8 +1292,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:2f155f0288a0": {
     "id": "lba:2f155f0288a0",
@@ -1472,8 +1490,8 @@
     "date_publication": "2026-11-18",
     "date_debut": "2027-01-01",
     "first_seen": "2026-11-19T14:13:02Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-28T13:59:04Z",
+    "active": false
   },
   "lba:38da968f9069": {
     "id": "lba:38da968f9069",
@@ -1706,8 +1724,8 @@
     "date_publication": "2026-11-23",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:416051c6776b": {
     "id": "lba:416051c6776b",
@@ -2141,6 +2159,24 @@
     "closed_at": "2026-11-13T12:55:51Z",
     "active": false
   },
+  "lba:5084d93b9693": {
+    "id": "lba:5084d93b9693",
+    "source": "lba",
+    "entreprise": "LES ENTREPRISES PORTEUSES D'EMPLOIS",
+    "intitule": "ALTERNANT(E) CONCEPTION ET RÉALISATION DE SYSTÈMES AUT (H/F)",
+    "ville": "02100 Saint-Quentin",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216XTMM",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-26",
+    "date_debut": null,
+    "first_seen": "2026-11-28T13:59:04Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:514cedf81471": {
     "id": "lba:514cedf81471",
     "source": "lba",
@@ -2192,8 +2228,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:53a76aa87547": {
     "id": "lba:53a76aa87547",
@@ -2282,8 +2318,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-28T13:59:04Z",
+    "active": false
   },
   "lba:5722b6b580dd": {
     "id": "lba:5722b6b580dd",
@@ -2315,7 +2351,7 @@
     "teletravail": "",
     "url": "https://r.holeest.com/redirect?jd_token=Bycyk6&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84837589.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84837589",
     "categorie": "Data & IA",
-    "date_publication": "2026-10-27",
+    "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": null,
@@ -2444,8 +2480,8 @@
     "date_publication": "2026-11-06",
     "date_debut": null,
     "first_seen": "2026-11-07T11:35:56Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-28T13:59:04Z",
+    "active": false
   },
   "lba:5a5336913ca1": {
     "id": "lba:5a5336913ca1",
@@ -2499,24 +2535,6 @@
     "date_debut": null,
     "first_seen": "2026-10-29T02:41:04Z",
     "closed_at": "2026-10-30T11:14:56Z",
-    "active": false
-  },
-  "lba:5ba01602aa90": {
-    "id": "lba:5ba01602aa90",
-    "source": "lba",
-    "entreprise": "Link Consulting",
-    "intitule": "Référent Applicatif Finance (H/F)",
-    "ville": "31700 Blagnac",
-    "contrat": "professionnalisation",
-    "niveau": "",
-    "duree_mois": null,
-    "teletravail": "",
-    "url": "https://jobaffinity.fr/apply/pe8zhukssik5rzi0oi?src=FranceTravail%20API",
-    "categorie": "Autre",
-    "date_publication": "2026-10-09",
-    "date_debut": null,
-    "first_seen": "2026-10-10T11:02:02Z",
-    "closed_at": "2026-10-14T09:59:23Z",
     "active": false
   },
   "lba:5c36a9f78cd3": {
@@ -2961,7 +2979,7 @@
     "niveau": "Licence, BUT, Licence Pro (Bac+3)",
     "duree_mois": 12,
     "teletravail": "",
-    "url": "https://r.holeest.com/redirect?jd_token=IizjhC&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
+    "url": "https://r.holeest.com/redirect?jd_token=Isa8Hz&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80795185.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Blogistique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80795185",
     "categorie": "Data & IA",
     "date_publication": "2026-11-04",
     "date_debut": null,
@@ -3290,8 +3308,8 @@
     "date_publication": "2026-11-22",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:7d9cd49d4fad": {
     "id": "lba:7d9cd49d4fad",
@@ -3488,8 +3506,8 @@
     "date_publication": "2026-11-24",
     "date_debut": null,
     "first_seen": "2026-11-25T15:23:03Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-28T13:59:04Z",
+    "active": false
   },
   "lba:8543846e9640": {
     "id": "lba:8543846e9640",
@@ -3652,6 +3670,24 @@
     "first_seen": "2026-11-04T12:51:34Z",
     "closed_at": "2026-11-06T12:47:28Z",
     "active": false
+  },
+  "lba:895dce1b1679": {
+    "id": "lba:895dce1b1679",
+    "source": "lba",
+    "entreprise": "SENALIA UNION",
+    "intitule": "Informaticien / Informaticienne",
+    "ville": "1 RUE BERTHE MORISOT 76000 ROUEN",
+    "contrat": "apprentissage",
+    "niveau": "Master, titre ingénieur, grande école (Bac+5)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b093230c2582c55637d5245/informaticien-informaticienne",
+    "categorie": "Cybersécurité",
+    "date_publication": "2026-11-27",
+    "date_debut": "2026-11-27",
+    "first_seen": "2026-11-28T13:59:04Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:899080ee5fff": {
     "id": "lba:899080ee5fff",
@@ -5180,8 +5216,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:d4fcacfb9324": {
     "id": "lba:d4fcacfb9324",
@@ -5507,6 +5543,24 @@
     "active": false,
     "closed_at": "2026-11-20T13:54:34Z"
   },
+  "lba:e1d0e47baf13": {
+    "id": "lba:e1d0e47baf13",
+    "source": "lba",
+    "entreprise": "SOC COOPERATIVE AGRICOLE 110 BOURGOGNE",
+    "intitule": "Alternant(e) Développeur logiciel informatique (H/F)",
+    "ville": "89470 Monéteau",
+    "contrat": "apprentissage",
+    "niveau": "",
+    "duree_mois": null,
+    "teletravail": "",
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216YFVZ",
+    "categorie": "Développement",
+    "date_publication": "2026-11-27",
+    "date_debut": null,
+    "first_seen": "2026-11-28T13:59:04Z",
+    "active": true,
+    "closed_at": null
+  },
   "lba:e266d6f4590f": {
     "id": "lba:e266d6f4590f",
     "source": "lba",
@@ -5540,8 +5594,8 @@
     "date_publication": "2026-11-26",
     "date_debut": "2027-09-14",
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e2c6317c08e3": {
     "id": "lba:e2c6317c08e3",
@@ -5612,8 +5666,8 @@
     "date_publication": "2026-11-26",
     "date_debut": null,
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e5613ce39d5b": {
     "id": "lba:e5613ce39d5b",
@@ -5648,8 +5702,8 @@
     "date_publication": "2026-11-26",
     "date_debut": "2026-11-26",
     "first_seen": "2026-11-27T14:50:10Z",
-    "active": true,
-    "closed_at": null
+    "closed_at": null,
+    "active": true
   },
   "lba:e5b1a504ba16": {
     "id": "lba:e5b1a504ba16",
@@ -5918,8 +5972,8 @@
     "date_publication": "2026-11-24",
     "date_debut": null,
     "first_seen": "2026-11-25T15:23:03Z",
-    "closed_at": null,
-    "active": true
+    "closed_at": "2026-11-28T13:59:04Z",
+    "active": false
   },
   "lba:f0555c09295a": {
     "id": "lba:f0555c09295a",
@@ -5956,6 +6010,24 @@
     "first_seen": "2026-10-01T11:27:32Z",
     "closed_at": "2026-10-16T09:35:09Z",
     "active": false
+  },
+  "lba:f0971476b357": {
+    "id": "lba:f0971476b357",
+    "source": "lba",
+    "entreprise": "INSTITUT FRANCAIS DE FORMATION PROFESSIONNELLE A&A",
+    "intitule": "Technicien / Technicienne réseau informatique",
+    "ville": "9 ALLEE DE L'ARCHE 92400 COURBEVOIE",
+    "contrat": "apprentissage",
+    "niveau": "Bac, Bac Pro, BP (Bac)",
+    "duree_mois": 24,
+    "teletravail": "",
+    "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b099851171cda10bc30def9/technicien-technicienne-réseau-informatique",
+    "categorie": "Réseaux, Cloud & Infra",
+    "date_publication": "2026-11-27",
+    "date_debut": "2026-11-27",
+    "first_seen": "2026-11-28T13:59:04Z",
+    "active": true,
+    "closed_at": null
   },
   "lba:f0cf93542ef6": {
     "id": "lba:f0cf93542ef6",
